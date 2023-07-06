@@ -35,8 +35,6 @@ Ces fonctions sociales, économiques et environnementales dépendent de la bonne
 :::
 
 
-
-
 Cette chaire porte une attention particulière aux dépendances vertes (bords de route) et s’intéresse à la mise en place d’une gestion de ces espaces végétalisés, ayant la capacité de mitiger les impacts négatifs de routes sur la biodiversité et jouer un rôle fondamental pour son maintien. Cependant, à l’heure actuelle, les diverses parties prenantes à l’échelle d’un territoire ne disposent pas de méthodologies/modèles opérationnels leur permettant de prendre en compte et d’évaluer simultanément l’ensemble des enjeux évoqués préalablement. 
 
 Des études récentes ont démontré que la recherche actuelle sur la gestion des bords de route était abordée de manière fragmentée et disciplinaire. Elles ont également mis en évidence un manque de modèles formels permettant la prise en compte de la complexité d’un tel système et l’intégration des données provenant de sources et de disciplines diverses. 
@@ -49,11 +47,22 @@ Ainsi, elle bénéficie de l’expertise scientifique des laboratoires ERPI, LOR
 Mots clés : dépendances vertes, gestion durable, évaluation de la durabilité, transition numérique
 
 
+
+## Finalités
+
+
+1. Améliorer les performances économiques, environnementales et socio-territoriales des bords de route
+
+2. Soutenir des comportements écoresponsables en termes de gestion des bords de route
+
+3. Intégrer le métier d’accoroutiste dans les filières de la bioéconomie
+
+
 :::{.column-page}
 ![](assets/Territoire.jpg)
 :::
 
-## Objectifs Opérationnels
+# Objectifs Opérationnels
 
 1. Renforcer les connaissances sur les bords de Route
 2. Développer des outils et méthodes capables d’évaluer la durabilité des pratiques de gestion des bords de route
@@ -64,6 +73,7 @@ Mots clés : dépendances vertes, gestion durable, évaluation de la durabilité
 
 # Axes de Recherche
 
+Un projet structué autour de 4 axes
 
 :::: {.columns .column-page-inset}
 
@@ -105,41 +115,21 @@ Accompagnement des territoires dans l’évolution des pratiques
 
 
 
-# Axes de Recherche
-
-
-:::: {.columns}
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="30%"}
-1. Améliorer les performances économiques, environnementales et socio-territoriales des bords de route
-:::
-
-::: {.column width="30%"}
-2. Soutenir des comportements écoresponsables en termes de gestion des bords de route
-:::
-
-::: {.column width="30%"}
-3. Intégrer le métier d’accoroutiste dans les filières de la bioéconomie
-:::
-
-::: {.column width="5%"}
-:::
-
-::::
 
 
 
-
-
-# Finalités
 
 
 # Avec le Soutien de
 ::: {.column-screen}
-![](assets/figures/home-banner.jpeg)
+![](assets/funding.svg)
 :::
 
+
+
+# Partenaires
+
+::: {.column-screen}
+![](assets/partners.svg)
+:::
 
