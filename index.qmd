@@ -17,7 +17,7 @@ description-title: description of SAGID
 
 :::: {.column-page .columns}
 
-::: {.column width="50%"}
+:::{.column width="50%"}
 # Les bords de Route!
 
 Les infrastructures de transport, composées des voies de circulation et de leurs dépendances vertes, sont au cœur des préoccupations liées au développement durable des territoires. 
@@ -31,8 +31,6 @@ Ces fonctions sociales, économiques et environnementales dépendent de la bonne
 ::: {.column width="50%"}
 ![](assets/Bords-de-route.png){width=80% fig-align='center'}
 :::
-
-
 ::::
 
 
@@ -44,11 +42,21 @@ Ces fonctions sociales, économiques et environnementales dépendent de la bonne
 
 
 
-## Sur le projet
+Cette chaire porte une attention particulière aux dépendances vertes (bords de route) et s’intéresse à la mise en place d’une gestion de ces espaces végétalisés, ayant la capacité de mitiger les impacts négatifs de routes sur la biodiversité et jouer un rôle fondamental pour son maintien. Cependant, à l’heure actuelle, les diverses parties prenantes à l’échelle d’un territoire ne disposent pas de méthodologies/modèles opérationnels leur permettant de prendre en compte et d’évaluer simultanément l’ensemble des enjeux évoqués préalablement. 
 
-Cette chaire porte une attention particulière aux dépendances vertes (bords de route) et s’intéresse à la mise en place d’une gestion de ces espaces végétalisés, ayant la capacité de mitiger les impacts négatifs de routes sur la biodiversité et jouer un rôle fondamental pour son maintien. Cependant, à l’heure actuelle, les diverses parties prenantes à l’échelle d’un territoire ne disposent pas de méthodologies/modèles opérationnels leur permettant de prendre en compte et d’évaluer simultanément l’ensemble des enjeux évoqués préalablement. Des études récentes ont démontré que la recherche actuelle sur la gestion des bords de route était abordée de manière fragmentée et disciplinaire. Elles ont également mis en évidence un manque de modèles formels permettant la prise en compte de la complexité d’un tel système et l’intégration des données provenant de sources et de disciplines diverses. Ainsi, l’objectif global de la chaire est de développer des outils et méthodes dits « clés en main » capables d’évaluer la durabilité des pratiques mises en œuvre lors du processus de décision soutenus par l’intelligence artificielle, pour ensuite contribuer à l’intégration du métier dans les filières de la bioéconomie et à l’évolution des comportements écoresponsables. Ainsi, elle bénéficie de l’expertise scientifique des laboratoires ERPI, LORIA et SILVA, de l’expertise industrielle du groupe ACTIBAC, spécialisé dans la gestion des dépendances vertes par l’intermédiaire des entreprises NOREMAT et ACCOPILOT et de la Métropole du Grand Nancy.
+Des études récentes ont démontré que la recherche actuelle sur la gestion des bords de route était abordée de manière fragmentée et disciplinaire. Elles ont également mis en évidence un manque de modèles formels permettant la prise en compte de la complexité d’un tel système et l’intégration des données provenant de sources et de disciplines diverses. 
+
+:::{..column-page-inset-right}
+>**L’objectif global de la chaire est de développer des outils et méthodes dits « clés en main » capables d’évaluer la durabilité des pratiques mises en œuvre lors du processus de décision soutenus par l’intelligence artificielle, pour ensuite contribuer à l’intégration du métier dans les filières de la bioéconomie et à l’évolution des comportements écoresponsables.**
+:::
+
+Ainsi, elle bénéficie de l’expertise scientifique des laboratoires ERPI, LORIA et SILVA, de l’expertise industrielle du groupe ACTIBAC, spécialisé dans la gestion des dépendances vertes par l’intermédiaire des entreprises NOREMAT et ACCOPILOT et de la Métropole du Grand Nancy.
 Mots clés : dépendances vertes, gestion durable, évaluation de la durabilité, transition numérique
 
+
+:::{.column-page}
+![](assets/Territoire.jpg)
+:::
 
 ## Objectifs Opérationnels
 
