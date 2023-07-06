@@ -12,7 +12,15 @@ website:
         text: Publications et Resultats
       - href: index.qmd
         text: Partenaires
-
+    page-footer: 
+      background: light
+      left: 
+        - "Copyright 2021, Samantha Csik"
+      right: 
+        - icon: github
+          href: https://github.com/samanthacsik
+        - icon: twitter
+          href: https://twitter.com/SamanthaCsik
 format:
   html:
     theme: cosmo

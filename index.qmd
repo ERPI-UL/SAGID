@@ -5,18 +5,13 @@ format:
   html:
     page-layout: full
     
-#title-block-banner: true    
 title-block-banner: assets/banner.jpg
 title-block-banner-color: 'white'
 description-title: description of SAGID
 ---
 
 
-
-
-
 :::: {.column-page .columns}
-
 :::{.column width="50%"}
 # Les bords de Route!
 
@@ -65,6 +60,51 @@ Mots clés : dépendances vertes, gestion durable, évaluation de la durabilité
 3. Accompagner la gestion et l’action publique en faveur des bords de route
 
 
+
+
+# Axes de Recherche
+
+
+:::: {.columns .column-page-inset}
+
+::: {.column width="25%"}
+![](assets/Icon-ES.svg){width=50% fig-align='center'}
+
+Évaluation des services écosystémiques rendus par les bords de route
+
+[Plus de détails](/){.btn .btn-outline-primary}
+:::
+
+::: {.column width="25%"}
+![](assets/Icon-Bio.svg){width=50% fig-align='center'}
+
+Nouveaux outils d’orientation stratégique et d’accompagnement à la prise de décision
+
+[Plus de détails](/){.btn .btn-outline-primary}
+:::
+
+::: {.column width="25%"}
+
+![](assets/Icon-Strategy.svg){width=50% fig-align='center'}
+
+Intégration dans les nouvelles filières de la bioéconomie
+
+[Plus de détails](/){.btn .btn-outline-primary}
+:::
+
+::: {.column width="25%" }
+![](assets/Icon-Pedagogy.svg){width=50% fig-align='center'}
+
+Accompagnement des territoires dans l’évolution des pratiques
+
+[Plus de détails](/){.btn .btn-outline-primary}
+:::
+
+
+::::
+
+
+
 # Axes de Recherche
 
 
@@ -97,7 +137,7 @@ Mots clés : dépendances vertes, gestion durable, évaluation de la durabilité
 # Finalités
 
 
-# Avec le Soutien
+# Avec le Soutien de
 ::: {.column-screen}
 ![](assets/figures/home-banner.jpeg)
 :::

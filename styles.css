@@ -10,3 +10,7 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.column{
+    padding: 1em;
+}
