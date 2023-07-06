@@ -1,1 +1,12 @@
 /* css styles */
+
+.title-block-banner-color{
+   color: "#FFDDFF"
+}
+
+
+.splash {
+  background-image: url("https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}

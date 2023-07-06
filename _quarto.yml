@@ -3,18 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "test"
+  title: "SAGID+"
   navbar:
-    left:
+    right:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Le Projet SAGID
+      - href: index.qmd
+        text: Publications et Resultats
+      - href: index.qmd
+        text: Partenaires
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
 
 
 
