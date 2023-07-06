@@ -9,10 +9,13 @@ title-block-banner-color: 'white'
 description-title: description of SAGID
 ---
 
+::: {#toc}
+:::
 
 :::: {.column-page .columns}
 :::{.column width="50%"}
 # Les bords de Route!
+
 
 Les infrastructures de transport, composées des voies de circulation et de leurs dépendances vertes, sont au cœur des préoccupations liées au développement durable des territoires. 
 Elles impliquent simultanément des sujets liés à la préservation de l’environnement, ainsi que des éléments d’ordre économique associés au transport, à la sécurité routière et au cadre de vie entre autres.
