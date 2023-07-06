@@ -7,8 +7,16 @@ website:
     right:
       - href: index.qmd
         text: Le Projet SAGID
-      - href: index.qmd
-        text: Axes du SAGID        
+      - text: Axes du SAGID        
+        menu:
+          - text: Axe 1
+            url:  /
+          - text: Axe 2
+            url:  /
+          - text: Axe 3
+            url:  /
+          - text: Axe 4
+            url:  /            
       - href: index.qmd
         text: Publications et Resultats
       - href: people.qmd

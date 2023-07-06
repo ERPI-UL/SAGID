@@ -4,7 +4,6 @@ subtitle: "Soutien aux métiers d'accroutiste à travers unes Gestion Integrale 
 format: 
   html:
     page-layout: full
-    
 title-block-banner: assets/banner.jpg
 title-block-banner-color: 'white'
 description-title: description of SAGID
