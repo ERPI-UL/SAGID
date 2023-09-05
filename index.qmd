@@ -1,5 +1,5 @@
 ---
-title: "SAGID+"
+title: "SAGiD+"
 subtitle: "Soutien aux métiers d'accroutiste à travers unes Gestion Integrale et Durable des Dépendances Vertes"
 format: 
   html:
