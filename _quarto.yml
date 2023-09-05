@@ -10,13 +10,13 @@ website:
       - text: Axes du SAGID        
         menu:
           - text: Axe 1
-            url:  /
+            url:  axe-1.qmd
           - text: Axe 2
-            url:  /
+            url:  axe-2.qmd
           - text: Axe 3
-            url:  /
+            url:  axe-3.qmd
           - text: Axe 4
-            url:  /            
+            url:  axe-4.qmd            
       - href: index.qmd
         text: Publications et Resultats
       - href: people.qmd
