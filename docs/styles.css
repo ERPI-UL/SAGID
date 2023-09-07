@@ -1,9 +1,13 @@
-/* css styles */
+/* CSS styles */
 
-.title-block-banner-color{
-   color: "#FFDDFF"
+body {
+  margin: 0;
+  padding: 0;
 }
 
+.title-block-banner-color {
+  color: #ffffff;
+}
 
 .splash {
   background-image: url("https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg");
@@ -11,6 +15,6 @@
   background-repeat: no-repeat;
 }
 
-.column{
-    padding: 1em;
+.column {
+  padding: 1em;
 }

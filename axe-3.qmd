@@ -1,5 +1,25 @@
 ---
-title: "Axe 1"
+title: "Axe 3: Intégration dans les nouvelles filières de la bioéconomie"
+subtitle: "Cet axe vise à élaborer des modèles d’organisation innovants permettant de fournir de nouveaux services aux décideurs, d’assurer une complétude de la chaîne de valeur sur le territoire et d’intégrer les métiers liés à l’accoroutisme dans les nouvelles filières de la bioéconomie"
 ---
 
-# En construction
+Cet axe de recherche peut lui-même être décomposé en différentes activités:
+
+- L'identification de filières de valorisation de la biomasse accompagnée d'études de faisabilité.
+
+- L'étude de la gouvernance de ces filières et de leur durabilité.
+
+- La modélisation des filières pour aider au développement d'une bioéconomie territoriale à partir de la biomasse des bords de route.
+
+Les avancements et les résultats de cet axe sont actuellement les suivants:
+
+:::: {.columns .column-page-inset}
+::: {.column width="80%"}
+- Article scientifique: "Towards a carbon footprint analysis as an extended environmental indicator for roadside maintenance strategies: a multiscale perspective" <br>
+MARCHE B., CORRIGEUX B., CAMARGO M. & BACHMANN C. (2023) <br>
+Le présent article vise à introduire l’analyse de l’empreinte carbone comme indicateur environnemental permettant d’établir la pertinence des stratégies d'entretien des bords de route avec et sans valorisation de la biomasse.
+:::
+::: {.column width="20%"}
+Article à paraître
+:::
+::::

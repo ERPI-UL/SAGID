@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "SAGiD+",
+    "title": "SAGID+",
     "section": "",
     "text": "Cette chaire porte une attention particulière aux dépendances vertes (bords de route) et s’intéresse à la mise en place d’une gestion de ces espaces végétalisés, ayant la capacité de mitiger les impacts négatifs de routes sur la biodiversité et jouer un rôle fondamental pour son maintien. Cependant, à l’heure actuelle, les diverses parties prenantes à l’échelle d’un territoire ne disposent pas de méthodologies/modèles opérationnels leur permettant de prendre en compte et d’évaluer simultanément l’ensemble des enjeux évoqués préalablement.\nDes études récentes ont démontré que la recherche actuelle sur la gestion des bords de route était abordée de manière fragmentée et disciplinaire. Elles ont également mis en évidence un manque de modèles formels permettant la prise en compte de la complexité d’un tel système et l’intégration des données provenant de sources et de disciplines diverses.\nAinsi, elle bénéficie de l’expertise scientifique des laboratoires ERPI, LORIA et SILVA, de l’expertise industrielle du groupe ACTIBAC, spécialisé dans la gestion des dépendances vertes par l’intermédiaire des entreprises NOREMAT et ACCOPILOT et de la Métropole du Grand Nancy. Mots clés : dépendances vertes, gestion durable, évaluation de la durabilité, transition numérique"
   },
@@ -51,7 +51,7 @@
   {
     "objectID": "index.html#finalités",
     "href": "index.html#finalités",
-    "title": "SAGiD+",
+    "title": "SAGID+",
     "section": "Finalités",
     "text": "Finalités\n\nAméliorer les performances économiques, environnementales et socio-territoriales des bords de route\nSoutenir des comportements écoresponsables en termes de gestion des bords de route\nIntégrer le métier d’accoroutiste dans les filières de la bioéconomie"
   },
@@ -114,29 +114,43 @@
   {
     "objectID": "axe-4.html",
     "href": "axe-4.html",
-    "title": "Axe 1",
+    "title": "Axe 4: Accompagnement des territoires dans l’évolution des pratiques",
     "section": "",
-    "text": "En construction"
+    "text": "Cet axe de recherche peut lui-même être décomposé en différentes activités:\n\nLa démonstration de la gestion durable des bords de route en validant le bon fonctionnement des outils développés et en servant de vitrine des bonnes pratiques pour les territoires et le grand public.\nLa formation des acteurs du territoire. Il s’agit de montrer l’intérêt des approches systémiques dans les processus de décisions.\nLa dissémination, la communication et l’exploitation des résultats de démonstration dans le but d’encourager un changement vers des pratiques durables.\n\nLes avancements et les résultats de cet axe sont actuellement les suivants:\n\n\n\nArticle scientifique: “Valorisation de la biomasse des bords de route : les apports des démonstrateurs pour le déploiement d’une filière durable”  MARCHE B., CAMARGO PARDO M. & BACHMANN C. (2024)  Cet article cherche à proposer un cadre conceptuel, pour l’implémentation d’un démonstrateur de la gestion durable des bords de route à des fins de valorisation, reposant sur le croisement des informations issues de la littérature sur les démonstrateurs et sur la filière durable.\n\n\nArticle à paraître\n\n\n\n\n\nUn observatoire des pratiques d’entretien des bords de route en France:  L’objectif est de faire un état des lieux des pratiques d’entretien des bords de route au niveau départemental dans le but d’identifier et de formaliser des scénarios d’entretien. Une enquête a été réalisée auprès de plus d’une vingtaine de conseils départementaux et ce rapport permet de compiler l’ensemble des résultats.\n\n\n Télécharger le PDF"
   },
   {
     "objectID": "axe-1.html",
     "href": "axe-1.html",
-    "title": "Axe 1",
+    "title": "Axe 1: Évaluation des services écosystémiques rendus par les bords de route",
     "section": "",
-    "text": "En construction …\nThis is sparta"
+    "text": "Cet axe de recherche peut lui-même être décomposé en différentes activités:\n\nLa formalisation des services écosystémiques rendus par les bords de route par une revue de la littérature scientifique, normative et techniques.\nLa quantification biophysique et monétaire des services écosystémiques rendus par les bords de route.\nLa modélisation des intéractions entre les pratiques humaines et les services écosystémiques.\n\nLes avancements et les résultats de cet axe sont actuellement les suivants:\n\n\n\nArticle scientifique: “Qualitative sustainability assessment of road verge management in France”  MARCHE, B., CAMARGO M., BAUTISTA-RODRIGUEZ, S.C., CHAUDRON, C., MAYER, F., BACHMANN, C. (2022)  Ce document propose d’utiliser le concept de diagrammes de causalité issu de la théorie des systèmes et de l’analyse de la littérature. Ce concept permet de structurer et représenter l’impact des stratégies d’entretien des accotements routiers sur les services écosystémiques et leurs interrelations par le biais de diagrammes de causalité. Neuf diagrammes de causalité interdépendants ont ensuite été élaborés. Ces diagrammes constituent la première tentative d’évaluation qualitative de l’impact des décisions d’entretien des accotements routiers sur les services écosystémiques.\n\n\nLien vers l’article\n\n\n\n\n\nArticle scientifique: “Towards a modeling of the impacts of road verge management on the pollination service using System Dynamics: a case study in France.”  ORTEGA J.P., DAZA-GACHA D., MARCHE B., CAMARGO PARDO M., CHAUDRON C., MAYER F., & GALVIS J. (2023)  Cette recherche est la première tentative de développer un modèle basé sur la dynamique des systèmes pour estimer l’impact écologique et économique de l’entretien du service de pollinisation des accotements routiers en France. Des stratégies d’entretien des accotements sont simulées afin de comparer leurs performances.\n\n\nLien vers l’article\n\n\n\n\n\nArticle scientifique: “Towards Smart and Suitable Management of Roadsides: System Dynamics in the Era of Industry 4.0.”  BAUTISTA RODRIGUEZ S., MARCHE B., HAMDANI, F.E., CAMARGO M., MAYER F., BACHMANN C., MONTICOLO D. (2020)  Cet article propose l’intégration d’un processus basé sur la théorie des systèmes dynamiques et le paradigme de l’Industrie 4.0 pour parvenir à une gestion durable des bords de route. Cela nous permettra d’identifier et de gérer de manière appropriée la quantité variable et hétérogène de données qu’implique ce type de système. Le modèle proposé aidera les décideurs politiques des territoires à prendre des actions durables afin de garantir des décisions efficaces dans une vision à long terme, d’évaluer la situation actuelle et les opportunités futures, puis de contribuer à l’évolution des territoires vers une économie circulaire.\n\n\nLien vers l’article"
   },
   {
     "objectID": "axe-3.html",
     "href": "axe-3.html",
-    "title": "Axe 1",
+    "title": "Axe 3: Intégration dans les nouvelles filières de la bioéconomie",
     "section": "",
-    "text": "En construction"
+    "text": "Cet axe de recherche peut lui-même être décomposé en différentes activités:\n\nL’identification de filières de valorisation de la biomasse accompagnée d’études de faisabilité.\nL’étude de la gouvernance de ces filières et de leur durabilité.\nLa modélisation des filières pour aider au développement d’une bioéconomie territoriale à partir de la biomasse des bords de route.\n\nLes avancements et les résultats de cet axe sont actuellement les suivants:\n\n\n\nArticle scientifique: “Towards a carbon footprint analysis as an extended environmental indicator for roadside maintenance strategies: a multiscale perspective”  MARCHE B., CORRIGEUX B., CAMARGO M. & BACHMANN C. (2023)  Le présent article vise à introduire l’analyse de l’empreinte carbone comme indicateur environnemental permettant d’établir la pertinence des stratégies d’entretien des bords de route avec et sans valorisation de la biomasse.\n\n\nArticle à paraître"
   },
   {
     "objectID": "axe-2.html",
     "href": "axe-2.html",
-    "title": "Axe 1",
+    "title": "Axe 2: Nouveaux outils d’orientation stratégique et d’accompagnement à la prise de décision",
     "section": "",
-    "text": "En construction"
+    "text": "Cet axe de recherche peut lui-même être décomposé en différentes activités:\n\nLa formalisation, la modélisation et la représentation des connaissances. Il s’agit principalement d’identifier les sources de données qui peuvent être utilisées dans le développement des outils.\nLe développement d’une technologie permettant de regrouper l’ensemble des données nécessaires.\nLa définition des stratégies de fauchage par l’intelligence artificielle en considérant l’évolution de l’environnement à long terme.\nLa conception d’un outil d’orientation stratégique et d’accompagnement à la décision qui regroupera l’ensemble des modèles issus des travaux de recherche développés dans la chaire.\n\nLes avancements et les résultats de cet axe sont actuellement les suivants:\n\n\n\nArticle scientifique: “Multi-objective modelling of a roadside mowing problem: a case study in France”  MIHAITA., A.S., MARCHE, B., CAMARGO, M. & RAHIMI, I. (2022)  Cet article aborde le problème de la planification des trajets optimaux des machines d’entretien au sein d’un territoire dédié afin de répondre à plusieurs critères objectifs tels que : minimiser la distance de déplacement, le nombre de machines d’entretien, ainsi que minimiser le temps et le coût associés à chaque campagne d’entretien.\n\n\nLien vers l’article\n\n\n\n\n\nArticle scientifique: “Identification of sensor technologies with the potential to support roadside ecosystem services”  CORRIGEUX, B., MARCHE, B., CAMARGO, M., BACHMANN, C., & CHAUDRON, C. (2022)  Le but de cette revue est d’identifier des solutions technologiques permettant de réduire les effets de l’entretien sur les services écosystémiques fournis par les bords de route\n\n\nLien vers l’article\n\n\n\n\n\nArticle scientifique: “Towards Smart and Suitable Management of Roadsides: System Dynamics in the Era of Industry 4.0.”  BAUTISTA RODRIGUEZ S., MARCHE B., HAMDANI, F.E., CAMARGO M., MAYER F., BACHMANN C., MONTICOLO D. (2020)  Cet article propose l’intégration d’un processus basé sur la théorie des systèmes dynamiques et le paradigme de l’Industrie 4.0 pour parvenir à une gestion durable des bords de route. Cela nous permettra d’identifier et de gérer de manière appropriée la quantité variable et hétérogène de données qu’implique ce type de système. Le modèle proposé aidera les décideurs politiques des territoires à prendre des actions durables afin de garantir des décisions efficaces dans une vision à long terme, d’évaluer la situation actuelle et les opportunités futures, puis de contribuer à l’évolution des territoires vers une économie circulaire.\n\n\nLien vers l’article"
+  },
+  {
+    "objectID": "presentation_axes.html",
+    "href": "presentation_axes.html",
+    "title": "Présentation des axes",
+    "section": "",
+    "text": "Axe 1: Évaluation des services écosystémiques rendus par les bords de route\n\n\n\nAxe 2: Analyse des impacts environnementaux des infrastructures de transport\n\n\n\nAxe 3: Développement de solutions durables pour la gestion des déchets\n\n\n\nAxe 4: Gestion des ressources hydriques et restauration des écosystèmes aquatiques"
+  },
+  {
+    "objectID": "actualites.html",
+    "href": "actualites.html",
+    "title": "Les actualités et les événements SAGID+",
+    "section": "",
+    "text": "No matching items"
   }
 ]

@@ -1,0 +1,4 @@
+---
+title: "Les actualités et les événements SAGID+"
+subtitle: "Vous trouverez ici toutes les informations concernant les actualités de la chaire SAGID+"
+---

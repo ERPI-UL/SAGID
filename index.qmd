@@ -1,5 +1,5 @@
 ---
-title: "SAGiD+"
+title: "SAGID+"
 subtitle: "Soutien aux métiers d'accroutiste à travers unes Gestion Integrale et Durable des Dépendances Vertes"
 format: 
   html:
@@ -13,8 +13,8 @@ description-title: description of SAGID
 :::
 
 :::: {.column-page .columns}
-:::{.column width="50%"}
-# Les bords de Route!
+:::{.column width="50%" id="index"}
+# Les bords de route !
 
 
 Les infrastructures de transport, composées des voies de circulation et de leurs dépendances vertes, sont au cœur des préoccupations liées au développement durable des territoires. 
@@ -84,7 +84,7 @@ Un projet structué autour de 4 axes
 
 Évaluation des services écosystémiques rendus par les bords de route
 
-[Plus de détails](/){.btn .btn-outline-primary}
+[Plus de détails](/axe-1.qmd){.btn .btn-outline-primary}
 :::
 
 ::: {.column width="25%"}
@@ -92,7 +92,7 @@ Un projet structué autour de 4 axes
 
 Nouveaux outils d’orientation stratégique et d’accompagnement à la prise de décision
 
-[Plus de détails](/){.btn .btn-outline-primary}
+[Plus de détails](/axe-2.qmd){.btn .btn-outline-primary}
 :::
 
 ::: {.column width="25%"}
@@ -101,7 +101,7 @@ Nouveaux outils d’orientation stratégique et d’accompagnement à la prise d
 
 Intégration dans les nouvelles filières de la bioéconomie
 
-[Plus de détails](/){.btn .btn-outline-primary}
+[Plus de détails](/axe-3.qmd){.btn .btn-outline-primary}
 :::
 
 ::: {.column width="25%" }
@@ -109,7 +109,7 @@ Intégration dans les nouvelles filières de la bioéconomie
 
 Accompagnement des territoires dans l’évolution des pratiques
 
-[Plus de détails](/){.btn .btn-outline-primary}
+[Plus de détails](/axe-4.qmd){.btn .btn-outline-primary}
 :::
 
 
