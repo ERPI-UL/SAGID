@@ -1,4 +1,5 @@
 ---
+category: Évènement
 title: "Séminaire de lancement de la chaire SAGID+"
 description: "Cet événement est l'occasion de regrouper l'ensemble des partenaires et acteurs impliqués de près ou de loin par les travaux réalisés dans le cadre de la chaire."
 
@@ -8,5 +9,33 @@ image: Presentation_SAGID.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
+Pour marquer le lancement de la chaire, nous organisons un séminaire le jeudi 9 novembre matin dans les locaux de l’entreprise Noremat (Ludres – 54), regroupant un large public (élus, acteurs de l’entretien, chercheurs, étudiants…). Nous serions ravis de vous compter parmi nous lors de cet évènement. Au programme: une présentation de la chaire, des présentations et des groupes de travail.
+
+Voici le programme détaillé de cette matinée:<br>
+8h30 : Café d'accueil<br>
+9h00 : Mot d'accueil<br>
+9h15: Présentation de la chaire<br>
+
+9h45 : Présentation autour de la gestion des bords de route<br>
+"Dépendances Routières et Transferts Hydro-Sédimentaires " par Romain Reulier (Université de Caen)<br>
+"Vers une gestion plus durable des bords de route - Retour d'expériences du département des Côtes d'Armor" par Frédérique Morin (Service Entretien et Exploitation de la Route des Côtes d'Armor)<br>
+"Allées d'arbre - Allées d'avenir" par Chantal Pradines (Association Allées Avenues)<br>
+
+11:00 : Groupe de travail autour des axes de la chaire<br>
+Workshop 1: "Premiers pas vers un outil d'aide à la décision pour la gestion des bords de route"<br>
+Workshop 2: "Vers une prise de décision partagée : expérimentation d'un outil pour la construction collective de scénarios de gestion des bords de route"<br>
+Workshop 3: "Prospective : Réflexions autour des leviers et barrières pour les futures filières de valorisation de la biomasse des bords de route"<br>
+
+12:00: Pot de l'amitié<br>
+
+Ci-dessous, plus de détail sur les différents workshops:
+
+- Workshop 1: "Premiers pas vers un outil d'aide à la décision pour la gestion des bords de route" animé par Brice Corrigeux <br>
+L'une des finalités de la chaire SAGID+ est de proposer un outil regroupant les résultats des recherches réalisées dans le cadre du projet. Cet outil a pour but de permettre aux gestionnaires des territoires d’obtenir des éléments sur les impacts à court et long terme de leurs décisions en termes d’entretien des bords de route. A travers ce workshop, il vous est proposé de contribuer au développement de cet outil en testant sa toute première version et en partageant votre avis sur celle-ci.
 
 
+- Workshop 2: "Vers une prise de décision partagée : expérimentation d’un outil pour la construction collective de scénarios de gestion des bords de route " animé par Mauricio Camargo et Manon Enjolras <br>
+Ce workshop vous propose de tester l’outil ConsensUs, une plateforme en ligne pour l’aide à la décision multi-acteurs. Cette expérimentation vous permettra d’exposer des enjeux liés à la gestion des bords de route et de confronter votre vision à celles des autres acteurs du territoire. A travers l’utilisation de l’outil Consensus et en faisant appel à votre propre expérience, vous participerez à une prise de décision partagée et collective pour l’implémentation de scénario de gestion des bords de route. 
+
+- Workshop 3: " Prospective : Réflexions autour des leviers et barrières pour les futures filières de valorisation de la biomasse des bords de route" animé par Vincent Boly <br>
+L'un des axes de la chaire SAGID+ questionne la valorisation de la biomasse des bords de route dans des filières locales. A travers ce workshop, il s'agit d'identifier et de discuter collectivement des leviers et des barrières susceptibles d'impacter le développement et le déploiement de nouvelles filières à moyen et long terme.
