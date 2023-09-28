@@ -151,7 +151,7 @@
     "href": "actualites.html",
     "title": "Les actualités et les événements SAGID+",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\n\n\n\nundefined\n\n\nblog post title\n\n\n\n\n\n\n\nSep 13, 2023\n\n\nSéminaire de lancement de la chaire SAGID+\n\n\n\n\n\n\nNo matching items"
+    "text": "blog post title\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nSéminaire de lancement de la chaire SAGID+\n\n\n\n\n\n\n\n\n\nSep 13, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post2/index.html",
@@ -159,5 +159,12 @@
     "title": "blog post title",
     "section": "",
     "text": "Hello"
+  },
+  {
+    "objectID": "posts/post1/index.html",
+    "href": "posts/post1/index.html",
+    "title": "Séminaire de lancement de la chaire SAGID+",
+    "section": "",
+    "text": "This is a test of post"
   }
 ]
