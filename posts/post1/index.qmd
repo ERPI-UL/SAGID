@@ -1,9 +1,13 @@
 ---
-title: "Séminaire de lancement de la chaire SAGID+"
-description: "Cet événement est l'occasion de regrouper l'ensemble des partenaires et acteurs impliqués de près ou de loin par les travaux réalisés dans le cadre de la chaire."
+title: Séminaire de lancement de la chaire SAGID+
+description: Cet événement est l'occasion de regrouper l'ensemble des partenaires et acteurs impliqués de près ou de loin par les travaux réalisés dans le cadre de la chaire.
 date: 09/13/2023
 image: Presentation_SAGID.jpg  
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+categories:
+  - articles
+  - News
+  - analysis
 ---
 
 
