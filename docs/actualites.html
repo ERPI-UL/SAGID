@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-image','listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -195,78 +195,49 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-title-sort" data-direction="asc">
-          Title
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1696945080576" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/post2/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
 </div>
+<div class="body">
+<a href="./posts/post2/index.html">
+<h3 class="no-anchor listing-title">
+blog post title
+</h3>
+<div class="listing-subtitle">
 
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-</th>
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-<th>
-Description
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-listing-file-modified-sort="1694700617339" data-listing-reading-time-sort="1" data-listing-title-sort="blog post title" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-image"><div class="listing-item-img-placeholder card-img-top" style="height: 40px;">&nbsp;</div></span>
-</td>
-<td>
-<span class="listing-date">undefined</span>
-</td>
-<td>
-<a href="./posts/post2/index.html" class="title listing-title">blog post title</a>
-</td>
-<td>
-<span class="listing-description">blog post description (appears underneath the title in smaller text) which is included on the listing page</span>
-</td>
-</tr>
-<tr data-index="1" data-listing-date-sort="1694556000000" data-listing-file-modified-sort="1696313487233" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Séminaire de lancement de la chaire SAGID+" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-image"><img src="./posts/post1/Presentation_SAGID.jpg" style="height: 40px;"></span>
-</td>
-<td>
-<span class="listing-date">Sep 13, 2023</span>
-</td>
-<td>
-<a href="./posts/post1/index.html" class="title listing-title">Séminaire de lancement de la chaire SAGID+</a>
-</td>
-<td>
-<span class="listing-description">Cet événement est l’occasion de regrouper l’ensemble des partenaires et acteurs impliqués de près ou de loin par les travaux réalisés dans le cadre de la chaire.</span>
-</td>
-</tr>
-</tbody>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/post2/index.html"> </a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1694556000000" data-listing-file-modified-sort="1696945080561" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/post1/index.html"> <img src="./posts/post1/Presentation_SAGID.jpg" class="thumbnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/post1/index.html">
+<h3 class="no-anchor listing-title">
+Séminaire de lancement de la chaire SAGID+
+</h3>
+<div class="listing-subtitle">
 
-</table>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/post1/index.html">
+<div class="listing-date">
+Sep 13, 2023
+</div>
+</a>
+</div>
+</div>
+</div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>

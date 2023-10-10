@@ -7,7 +7,7 @@ website:
     right:
       - href: index.qmd
         text: Le projet SAGID+
-      - href: index.qmd
+      - href: participation_projet.qmd
         text: Participez au projet !
       - text: Les axes du projet      
         menu:
