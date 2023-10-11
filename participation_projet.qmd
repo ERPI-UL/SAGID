@@ -1,5 +1,35 @@
 ---
 title: "Participez au projet !"
-subtitle: "Les bords de route peuvent être un atout essentiel de notre territoire et il est important de mieux les connaître afin de préserver et valoriser les services et externalités qu’ils nous rendent. La chaire a pour vocation d’être un espace d’échange, de restitution et de mise à disposition des connaissances. Si vous partagez cette vision, n’hésitez pas à nous rejoindre et à contribuer."
+format: 
+  html:
+    page-layout: full
+title-block-banner: assets/banner.jpg
+title-block-banner-color: 'white'
+description-title: Proposition aux visiteurs de contribuer au projet
 ---
+Les bords de route peuvent être un atout essentiel de notre territoire et il est important de mieux les connaître afin de préserver et valoriser les services et externalités qu’ils nous rendent. La chaire a pour vocation d’être un espace d’échange, de restitution et de mise à disposition des connaissances. **Si vous partagez cette vision, n’hésitez pas à nous rejoindre et à contribuer**.
+
 Cet espace recense les sujets sur lesquels nous souhaitons consulter les experts et acteurs du territoire sur différentes thématiques. Vous pouvez également nous proposer des sujets de consultation.
+
+Vous êtes **professionel de l'entretien des bords de route**, vous pouvez actuellement contribuer aux projets suivants:
+
+:::: {.columns .column-page-inset}
+
+::: {.column width="25%"}
+![](assets/figures/ampoule.JPG){width=50% fig-align='center'}
+
+**Collecte des bonnes pratiques des territoires**: partagez votre retour d'expérience !
+
+[Contribuer](){.btn .btn-outline-primary}
+:::
+
+::: {.column width="25%"}
+![](assets/figures/tracteur.jpg){width=50% fig-align='center'}
+
+**Collecte des pratiques d'entretien**: permettez-nous d'obtenir un ensemble de données sur lesquelles nous baser !
+
+[Contribuer](){.btn .btn-outline-primary}
+:::
+::::
+
+

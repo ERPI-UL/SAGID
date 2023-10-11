@@ -17,7 +17,7 @@ description-title: description of SAGID
 # Les bords de route !
 
 
-Les infrastructures de transport, composées des voies de circulation et de leurs dépendances vertes, sont au cœur des préoccupations liées au développement durable des territoires. 
+Les infrastructures de transport, composées des voies de circulation et de leurs dépendances vertes, sont au cœur des préoccupations liées au **développement durable des territoires**. 
 Elles impliquent simultanément des sujets liés à la préservation de l’environnement, ainsi que des éléments d’ordre économique associés au transport, à la sécurité routière et au cadre de vie entre autres.
 
 
@@ -36,7 +36,7 @@ Ces fonctions sociales, économiques et environnementales dépendent de la bonne
 
 # La chaire SAGID+
 
-Cette chaire porte une attention particulière aux dépendances vertes (bords de route) et s’intéresse à la mise en place d’une gestion de ces espaces végétalisés, ayant la capacité de mitiger les impacts négatifs des routes sur la biodiversité et jouer un rôle fondamental pour son maintien. Cependant, à l’heure actuelle, les diverses parties prenantes à l’échelle d’un territoire ne disposent pas de méthodologies/modèles opérationnels leur permettant de prendre en compte et d’évaluer simultanément l’ensemble des enjeux évoqués préalablement. 
+Cette chaire porte une attention particulière aux dépendances vertes (bords de route) et s’intéresse à la **mise en place d’une gestion durable** de ces espaces végétalisés, ayant la capacité de mitiger les impacts négatifs des routes sur la biodiversité et jouer un rôle fondamental pour son maintien. Cependant, à l’heure actuelle, les diverses parties prenantes à l’échelle d’un territoire ne disposent pas de méthodologies/modèles opérationnels leur permettant de prendre en compte et d’évaluer simultanément l’ensemble des enjeux évoqués préalablement. 
 
 Des études récentes ont démontré que la recherche actuelle sur la gestion des bords de route était abordée de manière fragmentée et disciplinaire. Elles ont également mis en évidence un manque de modèles formels permettant la prise en compte de la complexité d’un tel système et l’intégration des données provenant de sources et de disciplines diverses. 
 

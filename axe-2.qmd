@@ -1,6 +1,12 @@
 ---
 title: "Axe 2: Nouveaux outils d’orientation stratégique et d’accompagnement à la prise de décision"
 subtitle: "Cet axe vise à proposer un système d’évaluation et de recommandation de la durabilité des pratiques de gestion des territoires pour les accompagner dans la mise en place de leurs stratégies d'entretien"
+format: 
+  html:
+    page-layout: full
+title-block-banner: assets/banner.jpg
+title-block-banner-color: 'white'
+description-title: description Axe 2
 ---
 
 Cet axe de recherche peut lui-même être décomposé en différentes activités:

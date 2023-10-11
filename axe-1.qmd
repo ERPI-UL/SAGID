@@ -1,6 +1,12 @@
 ---
 title: "Axe 1: Évaluation des services écosystémiques rendus par les bords de route"
 subtitle: "Cet axe cherche à mettre en évidence l’impact des pratiques d’entretien sur les services écosystémiques rendus par les bords de route à travers une modélisation des relations de causes à effet entre pratiques humaines et services écosystémiques."
+format: 
+  html:
+    page-layout: full
+title-block-banner: assets/banner.jpg
+title-block-banner-color: 'white'
+description-title: description Axe 1
 ---
 
 Cet axe de recherche peut lui-même être décomposé en différentes activités:

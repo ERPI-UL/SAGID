@@ -21,8 +21,8 @@ website:
             url:  axe-4.qmd            
       - href: actualites.qmd
         text: Actualités et événements
-      - href: people.qmd
-        text: Partenaires
+      - href: communaute.qmd
+        text: Communauté
       - href: index.qmd
         text: Contact
   page-footer:

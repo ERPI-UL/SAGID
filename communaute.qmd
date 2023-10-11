@@ -1,0 +1,97 @@
+---
+title: "Communauté de la chaire"
+title-block-banner: assets/banner.jpg
+title-block-banner-color: 'white'
+description-title: Présentation des partenaires
+---
+# Qui sommes nous ?
+
+Nous sommes plusieurs acteurs regroupés autour d’un objectif commun : créer une dynamique collective conduisant à la mise en place de pratiques d’entretien des bords de route plus durables. 
+
+# Les partenaires impliqués dans le projet
+
+
+::::{#hero-heading .columns .column-page-inset}
+::: {.column width="30%"}
+![](assets/logos/ERPI.png){width=150 fig-align=center}
+
+:::
+::: {.column width="70%"}
+## Laboratoire ERPI :
+ L’ERPI (Équipe de Recherche sur les Processus Innovatifs) est un des laboratoires de l’Université de Lorraine, labellisé Équipe d’Accueil (EA n° 3767) par le Ministère de l’Enseignement Supérieur et de la Recherche. L’ERPI est membre de la FR 2863 : Fédération de Recherche Jacques Villermaux pour la Mécanique, l’Energie, les Procédés (FR JV) et est rattaché au pôle scientifique EMPP - Énergie, Mécanique, Procédés, Produits. L’équipe ERPI a pour vocation de mener des recherches dans le domaine de la conduite et du pilotage de projet innovant à travers le développement de méthodes et d’outils dédiés. <br> 
+Au sein de la chaire, le laboratoire ERPI est responsable de l’encadrement des travaux de recherche du projet. Il apporte son savoir-faire en modélisation permettant de mettre en évidence les relations de causalité entre décisions et impacts et en implémentation de démonstrateurs.<br>
+Pour plus d’informations sur ce partenaire : [Lien vers le site internet](https://erpi.univ-lorraine.fr/fr/){target="_blank"}
+:::
+::::
+
+::::{#hero-heading .columns .column-page-inset}
+::: {.column width="30%"}
+![](assets/logos/logo_silva.png){width=150 fig-align=center}
+
+:::
+::: {.column width="70%"}
+## UMR SILVA :
+ L’UMR Silva rassemble des agents d’AgroParisTech, de l’INRAE, et de l’Université de Lorraine afin de mener des travaux de recherche pluridisciplinaires sur le bois, les arbres et les écosystèmes forestiers. Elle a pour objectifs de développer des travaux de recherche fondamentale et finalisée, afin de répondre aux interrogations de la société, et en particulier des gestionnaires forestiers, sur l’adaptation des écosystèmes forestiers aux changements globaux et sur les services que ceux-ci fournissent comme la production de bois ou leur contribution à l’atténuation du changement climatique. <br>
+Au sein de la chaire, l’UMR Silva apporte son savoir-faire en écologie afin de caractériser les services écosystémiques rendus par les bords de route et d’améliorer les pratiques de gestion en tenant compte de ces externalités. <br>
+Pour plus d’informations sur ce partenaire : [Lien vers le site internet](https://www6.nancy.inrae.fr/silva/){target="_blank"}
+
+:::
+::::
+
+::::{#hero-heading .columns .column-page-inset}
+::: {.column width="30%"}
+![](assets/logos/logo_loria.jpg){width=150 fig-align=center}
+
+:::
+::: {.column width="70%"}
+## UMR LORIA :
+Le Loria, Laboratoire lorrain de Recherche en Informatique et ses Applications est une Unité Mixte de Recherche (UMR 7503), commune à plusieurs établissements : le CNRS, l’Université de Lorraine et Inria. Depuis sa création en 1997, le Loria a pour mission la recherche fondamentale et appliquée en sciences informatiques. <br>
+Au sein de la chaire, le laboratoire LORIA apportera son savoir-faire en intelligence artificielle, avec un accent particulier sur la conception de systèmes de recommandation par des approches d’apprentissage automatique et d’exploration de données. <br>
+Pour plus d’informations sur ce partenaire : [Lien vers le site internet](https://www.loria.fr/fr/){target="_blank"}
+
+
+:::
+::::
+
+::::{#hero-heading .columns .column-page-inset}
+::: {.column width="30%"}
+![](assets/logos/logo_actibac.png){width=150 fig-align=center}
+
+:::
+::: {.column width="70%"}
+## ACTIBAC :
+ACTIBAC : Le groupe industriel ACTIBAC est spécialisé dans la gestion des dépendances vertes. Sa mission est d’assurer la sécurité des routes, d’aménager et de valoriser le territoire dans les meilleures conditions qualitatives, sociales et économiques. Ses actions s’expriment en France comme à l’international, au travers de solutions innovantes servies par des équipes de spécialistes engagés. <br>
+Au sein de la chaire, le groupe industriel ACTIBAC, par l’intermédiaire des entreprise NOREMAT et ACCOPILOT, contribue au développement technologique permettant l’acquisition de données et aux études des filières de la bioéconomie en émergence ainsi qu’aux expérimentations sur le territoire. <br>
+Pour plus d’informations sur ce partenaire : [Lien vers le site internet](https://www.actibac-groupe.fr/){target="_blank"}
+
+:::
+::::
+
+::::{#hero-heading .columns .column-page-inset}
+::: {.column width="30%"}
+![](assets/logos/dhda.png){width=150 fig-align=center}
+
+:::
+::: {.column width="70%"}
+## Des Hommes et Des Arbres :
+Des Hommes et Des Arbres : Des Hommes et Des Arbres, les racines de demain est un projet de territoire fondé sur une alliance inédite de quelque 100 acteurs publics et privés du Sud de la Lorraine et des Vosges du Nord. Il porte l’ambition partagée de transformer le territoire sur une durée de 10 ans, par le biais d’Actions innovantes qui développent et mettent en valeur la place des arbres dans le bien-être des populations, la préservation de l’environnement, la résilience et la prospérité du territoire en résonance avec les attentes sociétales, les changements climatiques à venir et une valorisation raisonnée des ressources locales. Des Hommes et Des Arbres, les racines de demain a été labellisé « Territoire d’Innovation » par le Premier Ministre le 13 septembre 2019. <br>
+Pour plus d’informations sur ce partenaire : [Lien vers le site internet](https://www.deshommesetdesarbres.org/){target="_blank"}
+
+:::
+::::
+
+# Les partenaires associés au projet :
+
+::::{#hero-heading .columns .column-page-inset}
+::: {.column width="30%"}
+![](assets/logos/logo_fmlab.JPG){width=150 fig-align=center}
+
+:::
+::: {.column width="70%"}
+## Future Mobility Lab :
+Future Mobility Lab : Le Future Mobility lab (FMlab) fait partie d'un nouvel institut de science des données lancé en janvier 2019 par l'Université de technologie de Sydney dans le cadre de la faculté d'ingénierie et d'informatique. Le laboratoire de recherche se concentre sur le développement de modèles avancés axés sur les données pour résoudre certains problèmes brûlants du monde réel tels que la congestion du trafic, l'habitabilité des villes intelligentes, la fluidité de la mobilité et la transition vers de nouveaux modes de transport émergents tels que les véhicules connectés et autonomes, le transport à la demande, les communications de véhicule à véhicule et de véhicule à infrastructure. <br>
+ Pour plus d’informations sur ce partenaire : [Lien vers le site internet](http://www.fmlab.org/){target="_blank"}
+
+
+:::
+::::
