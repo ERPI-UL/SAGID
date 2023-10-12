@@ -1,0 +1,15 @@
+---
+title: "Nouvelle thèse lancée"
+subtitle: "Lancement cette semaine de la thèse intitulée: Évaluation des services écosystémiques rendus par les bords de route."
+date: 10/12/2023
+image: Presentation_SAGID.jpg  
+category: Evénement
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Bienvenue à Ziadany Mayoral Solis qui a rejoint l'équipe de recherche SAGID ce lundi 9 octobre !
+
+Son travail de thèse va contribuer en majeure partie à l'axe 1 du projet et va consister à proposer une évaluation des services écosystémiques rendus par les bords de route. 
+
+Les résultats de son travail seront notamment très précieux pour créer des modèles de relation entre pratiques d'entretien et services écosystémiques avec comme objectif final d'alimenter l'outil d'aide à la décision à destination des territoires.
+

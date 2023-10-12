@@ -21,7 +21,7 @@ Les avancements et les résultats de cet axe sont actuellement les suivants:
 
 :::: {.columns .column-page-inset}
 ::: {.column width="80%"}
-- Article scientifique: "Towards a carbon footprint analysis as an extended environmental indicator for roadside maintenance strategies: a multiscale perspective" <br>
+- **Communication scientifique dans des colloques: "Towards a carbon footprint analysis as an extended environmental indicator for roadside maintenance strategies: a multiscale perspective"** <br>
 MARCHE B., CORRIGEUX B., CAMARGO M. & BACHMANN C. (2023) <br>
 Le présent article vise à introduire l’analyse de l’empreinte carbone comme indicateur environnemental permettant d’établir la pertinence des stratégies d'entretien des bords de route avec et sans valorisation de la biomasse.
 :::

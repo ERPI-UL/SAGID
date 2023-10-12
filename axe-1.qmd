@@ -32,7 +32,7 @@ Ce document propose d'utiliser le concept de diagrammes de causalité issu de la
 
 :::: {.columns .column-page-inset}
 ::: {.column width="80%"}
-- Article scientifique: "Towards a modeling of the impacts of road verge management on the pollination service using System Dynamics: a case study in France." <br>
+- **Article scientifique: "Towards a modeling of the impacts of road verge management on the pollination service using System Dynamics: a case study in France."** <br>
 ORTEGA J.P., DAZA-GACHA D., MARCHE B., CAMARGO PARDO M., CHAUDRON C., MAYER F., & GALVIS J. (2023) <br>
 Cette recherche est la première tentative de développer un modèle basé sur la dynamique des systèmes pour estimer l'impact écologique et économique de l'entretien du service de pollinisation des accotements routiers en France. Des stratégies d'entretien des accotements sont simulées afin de comparer leurs performances.
 :::

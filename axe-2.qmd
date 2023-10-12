@@ -34,7 +34,7 @@ Cet article aborde le problème de la planification des trajets optimaux des mac
 
 :::: {.columns .column-page-inset}
 ::: {.column width="80%"}
-- Article scientifique: "Identification of sensor technologies with the potential to support roadside ecosystem services" <br>
+- **Communication scientifique dans des colloques: "Identification of sensor technologies with the potential to support roadside ecosystem services"** <br>
 CORRIGEUX, B., MARCHE, B., CAMARGO, M., BACHMANN, C., & CHAUDRON, C. (2022) <br>
 Le but de cette revue est d'identifier des solutions technologiques permettant de réduire les effets de l'entretien sur les services écosystémiques fournis par les bords de route
 :::
@@ -45,7 +45,7 @@ Le but de cette revue est d'identifier des solutions technologiques permettant d
 
 :::: {.columns .column-page-inset}
 ::: {.column width="80%"}
-- Article scientifique: "Towards Smart and Suitable Management of Roadsides: System Dynamics in the Era of Industry 4.0." <br>
+- **Article scientifique: "Towards Smart and Suitable Management of Roadsides: System Dynamics in the Era of Industry 4.0."** <br>
 BAUTISTA RODRIGUEZ S., MARCHE B., HAMDANI, F.E., CAMARGO M., MAYER F., BACHMANN C., MONTICOLO D. (2020) <br>
 Cet article propose l'intégration d'un processus basé sur la théorie des systèmes dynamiques et le paradigme de l'Industrie 4.0 pour parvenir à une gestion durable des bords de route. Cela nous permettra d'identifier et de gérer de manière appropriée la quantité variable et hétérogène de données qu'implique ce type de système. Le modèle proposé aidera les décideurs politiques des territoires à prendre des actions durables afin de garantir des décisions efficaces dans une vision à long terme, d'évaluer la situation actuelle et les opportunités futures, puis de contribuer à l'évolution des territoires vers une économie circulaire.
 :::

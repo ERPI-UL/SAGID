@@ -21,7 +21,7 @@ Les avancements et les résultats de cet axe sont actuellement les suivants:
 
 :::: {.columns .column-page-inset}
 ::: {.column width="80%"}
-- Article scientifique: "Valorisation de la biomasse des bords de route : les apports des démonstrateurs pour le déploiement d’une filière durable" <br>
+- **Article scientifique: "Valorisation de la biomasse des bords de route : les apports des démonstrateurs pour le déploiement d’une filière durable"** <br>
 MARCHE B., CAMARGO PARDO M. & BACHMANN C. (2024) <br>
 Cet article cherche à proposer un cadre conceptuel, pour l’implémentation d’un démonstrateur de la gestion durable des bords de route à des fins de valorisation, reposant sur le croisement des informations issues de la littérature sur les démonstrateurs et sur la filière durable.
 :::
@@ -32,7 +32,7 @@ Article à paraître
 
 :::: {.columns .column-page-inset}
 ::: {.column width="75%"}
-- Un observatoire des pratiques d'entretien des bords de route en France: <br>
+- **Un observatoire des pratiques d'entretien des bords de route en France:** <br>
 L'objectif est de faire un état des lieux des pratiques d'entretien des bords de route au niveau départemental dans le but d'identifier et de formaliser des scénarios d'entretien. Une enquête a été réalisée auprès de plus d'une vingtaine de conseils départementaux et ce rapport permet de compiler l'ensemble des résultats.
 :::
 ::: {.column width="25%"}

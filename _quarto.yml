@@ -23,7 +23,7 @@ website:
         text: Actualités et événements
       - href: communaute.qmd
         text: Communauté
-      - href: index.qmd
+      - href: contact.qmd
         text: Contact
   page-footer:
     background: light
