@@ -3,7 +3,7 @@ title: "Participez au projet !"
 format: 
   html:
     page-layout: full
-title-block-banner: assets/banner.jpg
+title-block-banner: assets/figures/banner.jpg
 title-block-banner-color: 'white'
 description-title: Proposition aux visiteurs de contribuer au projet
 ---

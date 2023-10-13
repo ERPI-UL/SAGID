@@ -1,6 +1,6 @@
 ---
 title: "Communauté de la chaire"
-title-block-banner: assets/banner.jpg
+title-block-banner: assets/figures/Banner.jpg
 title-block-banner-color: 'white'
 description-title: Présentation des partenaires
 ---

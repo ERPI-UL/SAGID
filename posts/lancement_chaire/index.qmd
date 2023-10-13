@@ -3,7 +3,7 @@ title: "Séminaire de lancement de la chaire SAGID+ (09/11/2023)"
 subtitle: "Cet événement est l'occasion de regrouper l'ensemble des partenaires et acteurs impliqués de près ou de loin par les travaux réalisés dans le cadre de la chaire."
 date: 09/13/2023
 image: Presentation_SAGID.jpg  
-category: Evénement
+categories: Événements
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 

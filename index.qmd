@@ -4,7 +4,7 @@ subtitle: "Soutien aux métiers d'Accoroutiste à travers une Gestion Intégrale
 format: 
   html:
     page-layout: full
-title-block-banner: assets/banner.jpg
+title-block-banner: assets/figures/Banner.jpg
 title-block-banner-color: 'white'
 description-title: description of SAGID
 ---
@@ -26,7 +26,7 @@ Ces fonctions sociales, économiques et environnementales dépendent de la bonne
 :::
 
 ::: {.column width="50%"}
-![](assets/Bords-de-route.png){width=80% fig-align='center'}
+![](assets/figures/Bords-de-route.png){width=80% fig-align='center'}
 :::
 ::::
 
@@ -75,7 +75,7 @@ Le projet est structué autour de 4 axes
 :::: {.columns .column-page-inset}
 
 ::: {.column width="25%"}
-![](assets/Icon-ES.svg){width=50% fig-align='center'}
+![](assets/figures/Icon-ES.svg){width=50% fig-align='center'}
 
 Évaluation des services écosystémiques rendus par les bords de route
 
@@ -83,7 +83,7 @@ Le projet est structué autour de 4 axes
 :::
 
 ::: {.column width="25%"}
-![](assets/Icon-Bio.svg){width=50% fig-align='center'}
+![](assets/figures/Icon-Bio.svg){width=50% fig-align='center'}
 
 Nouveaux outils d’orientation stratégique et d’accompagnement à la prise de décision
 
@@ -92,7 +92,7 @@ Nouveaux outils d’orientation stratégique et d’accompagnement à la prise d
 
 ::: {.column width="25%"}
 
-![](assets/Icon-Strategy.svg){width=50% fig-align='center'}
+![](assets/figures/Icon-Strategy.svg){width=50% fig-align='center'}
 
 Intégration dans les nouvelles filières de la bioéconomie
 
@@ -100,7 +100,7 @@ Intégration dans les nouvelles filières de la bioéconomie
 :::
 
 ::: {.column width="25%" }
-![](assets/Icon-Pedagogy.svg){width=50% fig-align='center'}
+![](assets/figures/Icon-Pedagogy.svg){width=50% fig-align='center'}
 
 Accompagnement des territoires dans l’évolution des pratiques
 
