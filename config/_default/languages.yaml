@@ -3,10 +3,16 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
+
+fr:
+ languageCode: fr-FR
+ contentDir: content/fr
+ title: SAGID
+
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
+  title: SAGID
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:

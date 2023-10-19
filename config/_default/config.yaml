@@ -16,6 +16,25 @@ hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
+# config.yaml
+languages:
+  en:
+    languageName: English
+    weight: 1
+    contentDir: content/en
+
+  fr:
+    languageName: Français
+    weight: 2
+    description: SAGID.
+    twitter_handle: 3Languages_france
+    contentDir: content/fr
+  # es:
+  #   languageName: Spanish
+  #   weight: 3
+
+
+
 ############################
 ## MODULES
 ############################
