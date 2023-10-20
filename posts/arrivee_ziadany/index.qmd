@@ -2,7 +2,7 @@
 title: "Nouvelle thèse lancée"
 subtitle: "Lancement cette semaine de la thèse intitulée: Évaluation des services écosystémiques rendus par les bords de route."
 date: 10/12/2023
-image: .jpg
+image: photo_ziadany.png
 categories: Actualités
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
