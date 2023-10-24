@@ -4,17 +4,22 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseURL: 'https://example.com/' # Website URL
+title: SAGID # Website name
+baseURL: 'https://erpi-ul.github.io/SAGID/' # Website URL
+publishDir: docs  # To establish the output folder for Github configuration
+
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+
+defaultContentLanguage: fr
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
+
+
 
 # config.yaml
 languages:
@@ -48,7 +53,7 @@ module:
 ## ADVANCED
 ############################
 
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 paginate: 10
 enableEmoji: true

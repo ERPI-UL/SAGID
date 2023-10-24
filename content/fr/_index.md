@@ -1,37 +1,50 @@
 ---
-sections:
-  # A section to display blog posts
-  - block: about.biography
-    content:
-      title: Les bords de route
-      username: sagid
-      id: about
-
-  - block: hero
-    content:
-      title: Les bors de Routes
-      image:
-        # Reference an image in your `assets/media/` folder
-        filename: Bords-de-route.png
-      text: |-
-        Les infrastructures de transport, composées des voies de circulation et de leurs dépendances vertes, sont au cœur des préoccupations liées au développement durable des territoires. Elles impliquent simultanément des sujets liés à la préservation de l’environnement, ainsi que des éléments d’ordre économique associés au transport, à la sécurité routière et au cadre de vie entre autres.
-
-
-        <!--Custom spacing-->
-        <div class="mb-3"></div>
-        <!--GitHub Button JS-->
-        <script async defer src="https://buttons.github.io/buttons.js"></script>
-        
-title: ""
+# Page title
+title: My page
+# Page type - we want a landing page (such as a homepage)
 type: landing
-design:
-  background:
-    image:
-      # Name of image in `assets/media/`.
-      filename: Bords-de-route.png
+sections:
+- block: markdown
+  id: banner
+  content:
+    title: SAGID+
+    subtitle: Soutien aux métiers d’Accoroutiste à travers une Gestion Intégrale et Durable des dépendances vertes      
+  design:
+    columns: '1'
+    background: 
+      image: 
+        filename: Banner.jpg
+        filters:
+          brightness: 0.8
+        size: cover
+        position: center  
+        parallax: false
+        text_color_light: true
+- block: about.biography
+  content:
+    title: Les bords de route
+    username: sagid
+- block: markdown
+  content:    
+    title: Qu'est que SAGID Propose?
+    text: <br>![This is Sagid](SAGID-00.jpg) 
+- block: markdown
+  content:    
+    title: La chaire SAGID+
+    text: |-
+      Cette chaire porte une attention particulière aux dépendances vertes (bords de route) et s’intéresse à la **mise en place d’une gestion durable de ces espaces végétalisés**, ayant la capacité de mitiger les impacts négatifs des routes sur la biodiversité et jouer un rôle fondamental pour son maintien. Cependant, à l’heure actuelle, les diverses parties prenantes à l’échelle d’un territoire ne disposent pas de méthodologies/modèles opérationnels leur permettant de prendre en compte et d’évaluer simultanément l’ensemble des enjeux évoqués préalablement. 
+
+      Des études récentes ont démontré que la recherche actuelle sur la gestion des bords de route était abordée de manière fragmentée et disciplinaire. Elles ont également mis en évidence un manque de modèles formels permettant la prise en compte de la complexité d’un tel système et l’intégration des données provenant de sources et de disciplines diverses.
+
+      > L’objectif global de la chaire est de développer des outils et méthodes dits « clés en main » capables d’évaluer la durabilité des pratiques mises en œuvre lors du processus de décision soutenus par l’intelligence artificielle, pour ensuite contribuer à l’intégration du métier dans les filières de la bioéconomie et à l’évolution des comportements écoresponsables.
+
+      ## **Finalités**
+
+      1. Améliorer les performances économiques, environnementales et socio-territoriales des bords de route
+      2. Soutenir des comportements écoresponsables en termes de gestion des bords de route
+      3. Intégrer le métier d’accoroutiste dans les filières de la bioéconomie
+  design:
+    columns: '2'
+
+
 ---
-
-
-
-Les conséquences des choix effectués par les acteurs publics, notamment en termes d’aménagement et d’entretien de ces espaces, se répercutent sur le long terme. En effet, une infrastructure de transport doit garantir un service aux usagers, notamment en matière d’accessibilité, temps de transport, confort, sécurité, tout en s’intégrant dans son environnement. 
-Ces fonctions sociales, économiques et environnementales dépendent de la bonne qualité du milieu et donc des pratiques de gestion mises en œuvre sur le territoire.

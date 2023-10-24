@@ -2,323 +2,332 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/fr/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://erpi-ul.github.io/SAGID/talk/example-talk/</loc>
+    <lastmod>2023-10-19T21:47:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/"
+                href="https://erpi-ul.github.io/SAGID/en/talk/example-talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/"
+                href="https://erpi-ul.github.io/SAGID/talk/example-talk/"
                 />
   </url><url>
-    <loc>https://example.com/fr/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://erpi-ul.github.io/SAGID/categories/</loc>
+    <lastmod>2023-10-24T10:53:32+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/talk/example-talk/"
+                href="https://erpi-ul.github.io/SAGID/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/talk/example-talk/"
+                href="https://erpi-ul.github.io/SAGID/categories/"
                 />
   </url><url>
-    <loc>https://example.com/fr/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://erpi-ul.github.io/SAGID/tag/hugo/</loc>
+    <lastmod>2023-10-24T10:53:32+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://erpi-ul.github.io/SAGID/tag/markdown/</loc>
+    <lastmod>2023-10-24T10:53:32+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://erpi-ul.github.io/SAGID/home/</loc>
+    <lastmod>2023-10-24T10:53:32+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/event/"
+                href="https://erpi-ul.github.io/SAGID/en/home/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/event/"
+                href="https://erpi-ul.github.io/SAGID/home/"
                 />
   </url><url>
-    <loc>https://example.com/fr/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://erpi-ul.github.io/SAGID/tag/python/</loc>
+    <lastmod>2023-10-24T10:53:32+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://erpi-ul.github.io/SAGID/tags/</loc>
+    <lastmod>2023-10-24T10:53:32+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/preprint/"
+                href="https://erpi-ul.github.io/SAGID/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/publication/preprint/"
+                href="https://erpi-ul.github.io/SAGID/tags/"
                 />
   </url><url>
-    <loc>https://example.com/fr/publication-type/article/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://erpi-ul.github.io/SAGID/category/tutorial/</loc>
+    <lastmod>2023-10-24T10:53:32+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://erpi-ul.github.io/SAGID/tag/wowchemy/</loc>
+    <lastmod>2023-10-24T10:53:32+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://erpi-ul.github.io/SAGID/publication/preprint/</loc>
+    <lastmod>2023-10-19T21:47:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication-type/article/"
+                href="https://erpi-ul.github.io/SAGID/en/publication/preprint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/publication-type/article/"
+                href="https://erpi-ul.github.io/SAGID/publication/preprint/"
                 />
   </url><url>
-    <loc>https://example.com/fr/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://erpi-ul.github.io/SAGID/publication-type/article/</loc>
+    <lastmod>2023-10-19T21:47:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication_types/"
+                href="https://erpi-ul.github.io/SAGID/en/publication-type/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/publication_types/"
+                href="https://erpi-ul.github.io/SAGID/publication-type/article/"
                 />
   </url><url>
-    <loc>https://example.com/fr/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://erpi-ul.github.io/SAGID/publication_types/</loc>
+    <lastmod>2023-10-19T21:47:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/"
+                href="https://erpi-ul.github.io/SAGID/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/publication/"
+                href="https://erpi-ul.github.io/SAGID/publication_types/"
                 />
   </url><url>
-    <loc>https://example.com/fr/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://erpi-ul.github.io/SAGID/tag/source-themes/</loc>
+    <lastmod>2023-10-19T21:47:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tag/source-themes/"
+                href="https://erpi-ul.github.io/SAGID/en/tag/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/tag/source-themes/"
+                href="https://erpi-ul.github.io/SAGID/tag/source-themes/"
                 />
   </url><url>
-    <loc>https://example.com/fr/tags/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://erpi-ul.github.io/SAGID/slides/</loc>
+    <lastmod>2023-10-19T21:47:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/"
+                href="https://erpi-ul.github.io/SAGID/en/slides/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/tags/"
+                href="https://erpi-ul.github.io/SAGID/slides/"
                 />
   </url><url>
-    <loc>https://example.com/fr/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>https://erpi-ul.github.io/SAGID/slides/example/</loc>
+    <lastmod>2023-10-19T21:47:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/slides/"
+                href="https://erpi-ul.github.io/SAGID/en/slides/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/slides/"
+                href="https://erpi-ul.github.io/SAGID/slides/example/"
                 />
   </url><url>
-    <loc>https://example.com/fr/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>https://erpi-ul.github.io/SAGID/tag/demo/</loc>
+    <lastmod>2023-10-19T21:47:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/slides/example/"
+                href="https://erpi-ul.github.io/SAGID/en/tag/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/slides/example/"
+                href="https://erpi-ul.github.io/SAGID/tag/demo/"
                 />
   </url><url>
-    <loc>https://example.com/fr/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://erpi-ul.github.io/SAGID/project/external-project/</loc>
+    <lastmod>2023-10-19T21:47:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tag/deep-learning/"
+                href="https://erpi-ul.github.io/SAGID/en/project/external-project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/tag/deep-learning/"
+                href="https://erpi-ul.github.io/SAGID/project/external-project/"
                 />
   </url><url>
-    <loc>https://example.com/fr/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://erpi-ul.github.io/SAGID/project/</loc>
+    <lastmod>2023-10-24T10:53:32+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tag/demo/"
+                href="https://erpi-ul.github.io/SAGID/en/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/tag/demo/"
+                href="https://erpi-ul.github.io/SAGID/project/"
                 />
   </url><url>
-    <loc>https://example.com/fr/home/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://erpi-ul.github.io/SAGID/publication/journal-article/</loc>
+    <lastmod>2023-10-19T21:47:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/home/"
+                href="https://erpi-ul.github.io/SAGID/en/publication/journal-article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/home/"
+                href="https://erpi-ul.github.io/SAGID/publication/journal-article/"
                 />
   </url><url>
-    <loc>https://example.com/fr/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://erpi-ul.github.io/SAGID/publication-type/article-journal/</loc>
+    <lastmod>2023-10-19T21:47:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/project/external-project/"
+                href="https://erpi-ul.github.io/SAGID/en/publication-type/article-journal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/project/external-project/"
+                href="https://erpi-ul.github.io/SAGID/publication-type/article-journal/"
                 />
   </url><url>
-    <loc>https://example.com/fr/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://erpi-ul.github.io/SAGID/publication/conference-paper/</loc>
+    <lastmod>2023-10-19T21:47:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/project/"
+                href="https://erpi-ul.github.io/SAGID/en/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/project/"
+                href="https://erpi-ul.github.io/SAGID/publication/conference-paper/"
                 />
   </url><url>
-    <loc>https://example.com/fr/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://erpi-ul.github.io/SAGID/publication-type/paper-conference/</loc>
+    <lastmod>2023-10-19T21:47:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/journal-article/"
+                href="https://erpi-ul.github.io/SAGID/en/publication-type/paper-conference/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/publication/journal-article/"
+                href="https://erpi-ul.github.io/SAGID/publication-type/paper-conference/"
                 />
   </url><url>
-    <loc>https://example.com/fr/publication-type/article-journal/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://erpi-ul.github.io/SAGID/project/example/</loc>
+    <lastmod>2023-10-24T10:53:32+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication-type/article-journal/"
+                href="https://erpi-ul.github.io/SAGID/en/project/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/publication-type/article-journal/"
+                href="https://erpi-ul.github.io/SAGID/project/example/"
                 />
   </url><url>
-    <loc>https://example.com/fr/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://erpi-ul.github.io/SAGID/</loc>
+    <lastmod>2023-10-24T10:53:32+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/conference-paper/"
+                href="https://erpi-ul.github.io/SAGID/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/publication/conference-paper/"
+                href="https://erpi-ul.github.io/SAGID/"
                 />
   </url><url>
-    <loc>https://example.com/fr/publication-type/paper-conference/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://erpi-ul.github.io/SAGID/post/</loc>
+    <lastmod>2023-10-19T21:47:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication-type/paper-conference/"
+                href="https://erpi-ul.github.io/SAGID/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/publication-type/paper-conference/"
+                href="https://erpi-ul.github.io/SAGID/post/"
                 />
   </url><url>
-    <loc>https://example.com/fr/project/example/</loc>
+    <loc>https://erpi-ul.github.io/SAGID/publication/</loc>
+    <lastmod>2023-10-19T21:47:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/project/example/"
+                href="https://erpi-ul.github.io/SAGID/en/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/project/example/"
+                href="https://erpi-ul.github.io/SAGID/publication/"
                 />
   </url><url>
-    <loc>https://example.com/fr/categories/</loc>
+    <loc>https://erpi-ul.github.io/SAGID/event/</loc>
+    <lastmod>2023-10-19T21:47:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/categories/"
+                href="https://erpi-ul.github.io/SAGID/en/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://example.com/fr/categories/"
-                />
-  </url><url>
-    <loc>https://example.com/fr/post/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://example.com/fr/post/"
+                href="https://erpi-ul.github.io/SAGID/event/"
                 />
   </url>
 </urlset>
