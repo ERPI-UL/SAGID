@@ -100,5 +100,44 @@ sections:
         icon_pack: custom
       - name: Accompagnement des territoires dans l’évolution des pratiques
         icon: Icon-Pedagogy
-        icon_pack: custom
+        icon_pack: custom        
+
+- block: markdown
+  content:    
+    title: "Avec le Soutien"
+    text: |-
+      Le projet SAGID+ est cofinancé par l’Union Européenne avec le Fonds Européen de Développement régional à hauteur de 409 500 €, par le groupe ACTIBAC et la Métropole du Grand Nancy. Il contribue à l’ambition collective « Des Hommes et Des Arbres, les racines de demain », labellisée Territoire d’Innovation. Il a également obtenu la labellisation « Solar Impulse Efficient Solution Label »
+    
+- block: markdown    
+  design:
+    columns: '1'    
+    spacing:
+      padding: ["0px", "0", "250px", "0"]
+    background: 
+      color: 'white'
+      image: 
+        filename: funding.png
+        size: contain
+        parallax: false
+
+
+- block: markdown
+  content:    
+    title: "Les Partenaires"
+    text: |-
+      La chaire SAGID+ bénéficie de l’expertise scientifique de l’Unité de Recherche ERPI (Equipe de Recherche sur les Processus Innovatifs) de l’Université de Lorraine, de l’Unité Mixte de Recherche SILVA, sous cotutelle Université de Lorraine, AgroParisTech, INRAE, l’Unité Mixte de Recherche LORIA (Laboratoire lorrain de Recherche en Informatique et ses Applications) sous cotutelle Université de Lorraine, CNRS, INRIA et de l’ENSGSI. Elle bénéficie également de l’expertise industrielle du groupe ACTIBAC, spécialisé dans la gestion des dépendances vertes par l’intermédiaire des entreprises NOREMAT et ACCOPILOT.
+    
+- block: markdown    
+  design:
+    columns: '1'    
+    spacing:
+      padding: ["250px", "0", "200px", "0"]
+    background: 
+      color: 'white'
+      image: 
+        filename: Logos_Partenaires.jpeg
+        size: contain
+        parallax: false
+
 ---
+

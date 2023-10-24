@@ -1,8 +1,27 @@
 ---
+slug: participation
 ## The title of your page (Core)
-title: 'Markdown Elements for Hugo/Wowchemy'  # (Core)
+title: "Participez au projet !"
 ## An optional subtitle that will be displayed under the title
-subtitle: "A complete tutorial for writting markdown on Wowchemy"
+
+sections:
+- block: markdown
+  id: banner
+  content:
+    title: SAGID+
+    subtitle: Soutien aux métiers d’Accoroutiste à travers une Gestion Intégrale et Durable des dépendances vertes      
+  design:
+    columns: '1'
+    background: 
+      image: 
+        filename: Banner.jpg
+        filters:
+          brightness: 0.8
+        size: cover
+        position: center  
+        parallax: false
+        text_color_light: true
+
 
 ## A one-sentence summary of the content on your page. 
 ##    The summary can be shown on the homepage and can also benefit your search engine ranking.
@@ -10,8 +29,8 @@ summary: 'This article gives an overview of the most common formatting options, 
 
 ## Display the authors of the page and link to their user profiles if they exist.
 authors: # (Core)
-- Geo
-- Herb
+- Brice
+
 
 ## Tagging your content helps users to discover similar content on your site. 
 ##    Tags can improve search relevancy and are displayed after the page content and also in the Tag Cloud widget.
@@ -124,3 +143,13 @@ header:  # (It not works.....)
   image: "header.png"
   caption: "Image credit: [**MLflow**](https://mlflow.org)"
 ---
+
+
+
+Les bords de route peuvent être un atout essentiel de notre territoire et il est important de mieux les connaître afin de préserver et valoriser les services et externalités qu’ils nous rendent. La chaire a pour vocation d’être un espace d’échange, de restitution et de mise à disposition des connaissances. **Si vous partagez cette vision, n’hésitez pas à nous rejoindre et à contribuer**.
+
+Cet espace recense les sujets sur lesquels nous souhaitons consulter les experts et acteurs du territoire sur différentes thématiques. Vous pouvez également nous proposer des sujets de consultation.
+
+Vous êtes **professionel de l'entretien des bords de route**, vous pouvez actuellement contribuer aux projets suivants:
+
+

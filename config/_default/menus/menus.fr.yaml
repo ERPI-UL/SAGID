@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Participez au projet !
-    url: '#posts'
+    url: '/participation'
     weight: 20
   - name: Les axes du projet
     url: '#projects'
