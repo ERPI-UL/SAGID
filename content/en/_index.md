@@ -38,7 +38,7 @@ sections:
       text_color_light: true
 - block: about.biography
   content:
-    title: Biography
+    title: Les bords de route
     username: admin
   id: about
 - block: skills

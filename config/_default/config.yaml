@@ -18,17 +18,16 @@ removePathAccents: true
 
 # config.yaml
 languages:
-  en:
-    languageName: English
-    weight: 1
-    contentDir: content/en
-
   fr:
     languageName: Français
-    weight: 2
-    description: SAGID.
-    twitter_handle: 3Languages_france
+    weight: 1
+    description: SAGID
     contentDir: content/fr
+  en:
+    languageName: English
+    weight: 2
+    contentDir: content/en
+
   # es:
   #   languageName: Spanish
   #   weight: 3
@@ -56,15 +55,18 @@ enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+
 permalinks:
   event: '/talk/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
 disableAliases: true
+
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
+
 imaging:
   resampleFilter: lanczos
   quality: 75
