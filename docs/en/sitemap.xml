@@ -202,6 +202,10 @@
                 href="https://erpi-ul.github.io/SAGID/en/publication/journal-article/"
                 />
   </url><url>
+    <loc>https://erpi-ul.github.io/SAGID/en/publication/marche2022/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://erpi-ul.github.io/SAGID/en/publication-type/article-journal/</loc>
     <lastmod>2023-10-19T21:47:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -215,6 +219,10 @@
                 hreflang="en-us"
                 href="https://erpi-ul.github.io/SAGID/en/publication-type/article-journal/"
                 />
+  </url><url>
+    <loc>https://erpi-ul.github.io/SAGID/en/tag/es/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/en/publication/conference-paper/</loc>
     <lastmod>2023-10-19T21:47:26+02:00</lastmod>
@@ -247,16 +255,6 @@
     <loc>https://erpi-ul.github.io/SAGID/en/home/</loc>
     <lastmod>2023-10-24T10:53:32+02:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://erpi-ul.github.io/SAGID/home/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://erpi-ul.github.io/SAGID/en/home/"
-                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/en/categories/</loc>
     <changefreq>weekly</changefreq>
