@@ -10,30 +10,30 @@ main:
   - name: Participe to this project !
     url: 'en/participation'
     weight: 20
-  - name: Les axes du projet
+  - name: Axis of SAGID
     identifier: axes
     weight: 30
-  - name: "Axe 1: Services Ecosystemiques"
+  - name: "Axe 1: Ecosystem Services"
     parent: axes
     url: en/axes/axe-1/
     weight: 10
-  - name: "Axe 2: OUtils d'orientation"
+  - name: "Axe 2: Strategic tools"
     parent: axes
     url: en/axes/axe-2/
     weight: 20 
-  - name: "Axe 3: Filière bioeconomie"
+  - name: "Axe 3: Bioeconomy"
     parent: axes
     url: en/axes/axe-3/
     weight: 30 
-  - name: "Axe 4: Territoire"
+  - name: "Axe 4: Territory"
     parent: axes
     url: en/axes/axe-4/
     weight: 30 
 
-  - name: Actualités et événements
+  - name: News
     url: 'en/post/'
     weight: 40
-  - name: Communauté
+  - name: About us
     url: 'communaute/'
     weight: 60
   - name: Contact
