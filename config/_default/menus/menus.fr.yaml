@@ -32,13 +32,13 @@ main:
     weight: 30 
 
   - name: Actualités et événements
-    url: '#featured'
+    url: '/post'
     weight: 40
   - name: Partenaires
     url: '#contact'
     weight: 60
   - name: Contact
-    url: '#contact'
+    url: 'about/'
     weight: 70
     
 
