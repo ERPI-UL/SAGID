@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | SAGID</title>
+    <link>https://erpi-ul.github.io/SAGID/partners/</link>
+      <atom:link href="https://erpi-ul.github.io/SAGID/partners/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr-FR</language><lastBuildDate>Tue, 05 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://erpi-ul.github.io/SAGID/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://erpi-ul.github.io/SAGID/partners/</link>
+    </image>
+    
+    <item>
+      <title>Laboratoire ERPI</title>
+      <link>https://erpi-ul.github.io/SAGID/partners/erpi/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/partners/erpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UMR SILVA</title>
+      <link>https://erpi-ul.github.io/SAGID/partners/umrsilva/</link>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/partners/umrsilva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UMR LORIA</title>
+      <link>https://erpi-ul.github.io/SAGID/partners/loria/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/partners/loria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actibac</title>
+      <link>https://erpi-ul.github.io/SAGID/partners/actibac/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/partners/actibac/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Future Mobility Lab</title>
+      <link>https://erpi-ul.github.io/SAGID/partners/movilylab/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/partners/movilylab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Des Hommes et Des Arbres -DHDA-</title>
+      <link>https://erpi-ul.github.io/SAGID/partners/dhda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/partners/dhda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

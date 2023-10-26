@@ -13,26 +13,6 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://erpi-ul.github.io/SAGID/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Towards a carbon footprint analysis as an extended environmental indicator for roadside maintenance strategies: a multiscale perspective (Article à paraître)</title>
       <link>https://erpi-ul.github.io/SAGID/publication/axe-3/preprint/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
@@ -98,6 +78,47 @@
 &lt;strong&gt;12:00&lt;/strong&gt;: Pot de l&amp;rsquo;amitié &lt;br&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Laboratoire ERPI</title>
+      <link>https://erpi-ul.github.io/SAGID/partners/erpi/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/partners/erpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UMR SILVA</title>
+      <link>https://erpi-ul.github.io/SAGID/partners/umrsilva/</link>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/partners/umrsilva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UMR LORIA</title>
+      <link>https://erpi-ul.github.io/SAGID/partners/loria/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/partners/loria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actibac</title>
+      <link>https://erpi-ul.github.io/SAGID/partners/actibac/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/partners/actibac/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Future Mobility Lab</title>
+      <link>https://erpi-ul.github.io/SAGID/partners/movilylab/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/partners/movilylab/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -432,12 +453,38 @@ Cette recherche est la première tentative de développer un modèle basé sur l
     </item>
     
     <item>
-      <title>Contact page</title>
-      <link>https://erpi-ul.github.io/SAGID/about/</link>
+      <title>Contactez-nous</title>
+      <link>https://erpi-ul.github.io/SAGID/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/about/</guid>
+      <guid>https://erpi-ul.github.io/SAGID/contact/</guid>
       <description>&lt;p&gt;Pour toutes questions ou demandes vis-à-vis de la chaire, veuillez vous adresser à Brunelle Marche:&lt;/p&gt;
-&lt;p&gt;Brunelle Marche&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Brunelle Marche&lt;/strong&gt;&lt;br&gt;
+Enseignant Chercheur - Université de Lorraine &lt;br&gt;
++33.3.72.74.35.57 &lt;br&gt;
++33.6.70.91.05.45&lt;br&gt;
+brunelle.marche[at]univ-lorraine.fr &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;ENSGSI - Ecole Nationale Supérieure en Génie des Systèmes et de l’Innovation&lt;br&gt;
+ERPI - Equipe de Recherche sur les Processus Innovatifs&lt;br&gt;
+8 rue Bastien Lepage&lt;br&gt;
+BP 90647 - 54010 Nancy Cedex&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Des Hommes et Des Arbres -DHDA-</title>
+      <link>https://erpi-ul.github.io/SAGID/partners/dhda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/partners/dhda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My page</title>
+      <link>https://erpi-ul.github.io/SAGID/communaute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/communaute/</guid>
+      <description>&lt;p&gt;Pour toutes questions ou demandes vis-à-vis de la chaire, veuillez vous adresser à Brunelle Marche:
+Brunelle Marche&lt;/p&gt;
 &lt;p&gt;Enseignant Chercheur - Université de Lorraine&lt;/p&gt;
 &lt;p&gt;+33.3.72.74.35.57&lt;/p&gt;
 &lt;p&gt;+33.6.70.91.05.45&lt;/p&gt;

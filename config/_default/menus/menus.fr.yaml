@@ -34,11 +34,11 @@ main:
   - name: Actualités et événements
     url: '/post'
     weight: 40
-  - name: Partenaires
-    url: '#contact'
+  - name: Communauté
+    url: 'communaute/'
     weight: 60
   - name: Contact
-    url: 'about/'
+    url: 'contact/'
     weight: 70
     
 
