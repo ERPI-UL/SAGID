@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Axes | SAGID</title>
+    <link>https://erpi-ul.github.io/SAGID/en/axes/</link>
+      <atom:link href="https://erpi-ul.github.io/SAGID/en/axes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Axes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://erpi-ul.github.io/SAGID/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Axes</title>
+      <link>https://erpi-ul.github.io/SAGID/en/axes/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://erpi-ul.github.io/SAGID/axe-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/axe-1/</guid>
+      <description>&lt;p&gt;Cet axe de recherche peut lui-même être décomposé en différentes activités:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;La formalisation des services écosystémiques rendus par les bords de route par une revue de la littérature scientifique, normative et techniques.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La quantification biophysique et monétaire des services écosystémiques rendus par les bords de route.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La modélisation des intéractions entre les pratiques humaines et les services écosystémiques.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les avancements et les résultats de cet axe sont actuellement les suivants:&lt;/p&gt;
+&lt;p&gt;:::: {.columns .column-page-inset}
+::: {.column width=&amp;ldquo;80%&amp;rdquo;}&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Article scientifique: &amp;ldquo;Qualitative sustainability assessment of road verge management in France&amp;rdquo; &lt;br&gt;
+MARCHE, B., CAMARGO M., BAUTISTA-RODRIGUEZ, S.C., CHAUDRON, C., MAYER, F., BACHMANN, C. (2022) &lt;br&gt;
+Ce document propose d&amp;rsquo;utiliser le concept de diagrammes de causalité issu de la théorie des systèmes et de l&amp;rsquo;analyse de la littérature. Ce concept permet de structurer et représenter l&amp;rsquo;impact des stratégies d&amp;rsquo;entretien des accotements routiers sur les services écosystémiques et leurs interrelations par le biais de diagrammes de causalité. Neuf diagrammes de causalité interdépendants ont ensuite été élaborés. Ces diagrammes constituent la première tentative d&amp;rsquo;évaluation qualitative de l&amp;rsquo;impact des décisions d&amp;rsquo;entretien des accotements routiers sur les services écosystémiques.
+:::
+::: {.column width=&amp;ldquo;20%&amp;rdquo;}
+&lt;a href=&#34;https://doi.org/10.1016/j.eiar.2022.106911&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lien vers l&amp;rsquo;article&lt;/a&gt;{target=&amp;quot;_blank&amp;quot;}
+:::
+::::&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;:::: {.columns .column-page-inset}
+::: {.column width=&amp;ldquo;80%&amp;rdquo;}&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Article scientifique: &amp;ldquo;Towards a modeling of the impacts of road verge management on the pollination service using System Dynamics: a case study in France.&amp;rdquo;&lt;/strong&gt; &lt;br&gt;
+ORTEGA J.P., DAZA-GACHA D., MARCHE B., CAMARGO PARDO M., CHAUDRON C., MAYER F., &amp;amp; GALVIS J. (2023) &lt;br&gt;
+Cette recherche est la première tentative de développer un modèle basé sur la dynamique des systèmes pour estimer l&amp;rsquo;impact écologique et économique de l&amp;rsquo;entretien du service de pollinisation des accotements routiers en France. Des stratégies d&amp;rsquo;entretien des accotements sont simulées afin de comparer leurs performances.
+:::
+::: {.column width=&amp;ldquo;20%&amp;rdquo;}
+&lt;a href=&#34;https://doi.org/10.4236/am.2023.145022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lien vers l&amp;rsquo;article&lt;/a&gt;{target=&amp;quot;_blank&amp;quot;}
+:::
+::::&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://erpi-ul.github.io/SAGID/axe-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/axe-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://erpi-ul.github.io/SAGID/axe-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/axe-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://erpi-ul.github.io/SAGID/axe-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/axe-4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

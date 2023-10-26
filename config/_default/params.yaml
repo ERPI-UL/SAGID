@@ -36,6 +36,7 @@ header:
     enable: true
     align: c
     show_logo: true
+    show_translations: true
     show_language: true
     show_day_night: false
     show_search: true

@@ -1,43 +1,227 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SAGID</title>
+    <title>My page | SAGID</title>
     <link>https://erpi-ul.github.io/SAGID/en/</link>
       <atom:link href="https://erpi-ul.github.io/SAGID/en/index.xml" rel="self" type="application/rss+xml" />
-    <description>SAGID</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <description>My page</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://erpi-ul.github.io/SAGID/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>SAGID</title>
+      <title>My page</title>
       <link>https://erpi-ul.github.io/SAGID/en/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://erpi-ul.github.io/SAGID/en/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/en/talk/example-talk/</guid>
+      <title>Towards a carbon footprint analysis as an extended environmental indicator for roadside maintenance strategies: a multiscale perspective (Article à paraître)</title>
+      <link>https://erpi-ul.github.io/SAGID/en/publication/axe-3/preprint/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/publication/axe-3/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://erpi-ul.github.io/SAGID/en/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/en/publication/preprint/</guid>
+      <title>Valorisation de la biomasse des bords de route : les apports des démonstrateurs pour le déploiement d’une filière durable (Article à paraître)</title>
+      <link>https://erpi-ul.github.io/SAGID/en/publication/axe-4/marche2024/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/publication/axe-4/marche2024/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>👩🏻‍🏫 Nouvelle thèse lancée</title>
+      <link>https://erpi-ul.github.io/SAGID/en/post/2023-10-13-ziadany/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/post/2023-10-13-ziadany/</guid>
+      <description>&lt;p&gt;Bienvenue à Ziadany Mayoral Solis qui a rejoint la chaire SAGID+ en tant que doctorante lundi 9 octobre.  Sa thèse, intitulée « &lt;em&gt;&lt;strong&gt;Evaluation de la capacité des dépendances vertes à fournir des services écosystémiques et conception de plans de gestion privilégiant un usage durable&lt;/strong&gt;&lt;/em&gt; », s’intègre dans l’&lt;a href=&#34;https://erpi-ul.github.io/SAGID/SAGID/axe-1/&#34;&gt;axe 1&lt;/a&gt; et va se concentrer sur les interactions entre les pratiques humaines et les services écosystémiques rendus par les bords de route.&lt;/p&gt;
+&lt;p&gt;Ziadany a une licence en ingénierie environnementale à l&amp;rsquo;UASLP, au Mexique, où elle a étudié les différents problèmes environnementaux et la manière de les aborder. Au cours de ma troisième année, elle a eu l&amp;rsquo;occasion de participer à un programme d&amp;rsquo;échange avec la France, dans la ville de Lyon, où elle a amélioré sa connaissance du français et de la culture française.&lt;/p&gt;
+&lt;p&gt;Depuis sa licence, elle s’est intéressée aux sciences du sol et au maintien des écosystèmes. Elle a ainsi poursuivi ses études en réalisant un master en France. Au sein de ce cursus, elle a approfondi ses connaissances sur la relation entre le système climatique et la biosphère ainsi que sur le changement climatique. Elle est ensuite retournée au Mexique afin de travailler sur un projet de recherche dans une zone aride de sa région. Avec son équipe, elle a exploré les systèmes agricoles des bergers de chèvres afin de développer et préconiser des stratégies d&amp;rsquo;adaptation au changement climatique.&lt;/p&gt;
+&lt;p&gt;Elle est très heureuse de collaborer dans ce projet, car les bords de route sont des systèmes socio-écologiques complexes dont la gestion peut contribuer à la fourniture de services écosystémiques et à la préservation de l&amp;rsquo;environnement. L&amp;rsquo;une des principales raisons pour lesquelles elle a décidé de poursuivre ses études en doctorat réside dans sa volonté de contribuer à des projets de sciences appliquées, en travaillant notamment sur des stratégies d&amp;rsquo;adaptation et d&amp;rsquo;atténuation au changement climatique.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>👋 Séminaire de lancement de la chaire SAGID&#43; (09/11/2023)</title>
+      <link>https://erpi-ul.github.io/SAGID/en/post/2023-09-13-lancement/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/post/2023-09-13-lancement/</guid>
+      <description>&lt;p&gt;Nous avons le plaisir de vous annoncer le lancement de la chaire &amp;ldquo;Soutien aux métiers d&amp;rsquo;Accoroutiste à travers une Gestion Intégrale et Durable des dépendances vertes&amp;rdquo; (SAGID +). À travers cette chaire, nous cherchons à développer des outils et méthodes dits « clés en main » capables d’évaluer la durabilité des pratiques de gestion des bords de route, contribuer à l’évolution des comportements écoresponsables et à l’intégration du métier d’accoroutiste dans les filières de la bioéconomie.&lt;/p&gt;
+&lt;p&gt;Pour marquer le lancement de la chaire, nous organisons un séminaire le &lt;strong&gt;jeudi 9 novembre matin&lt;/strong&gt; dans les locaux de l’entreprise Noremat (Ludres – 54), regroupant un large public (élus, acteurs de l’entretien, chercheurs, étudiants…). Nous serions ravis de vous compter parmi nous lors de cet évènement.&lt;/p&gt;
+&lt;p&gt;Voici le programme détaillé de cette matinée:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8h30&lt;/strong&gt; : Café d&amp;rsquo;accueil &lt;br&gt;
+&lt;strong&gt;9h00&lt;/strong&gt; : Mot d&amp;rsquo;accueil &lt;br&gt;
+&lt;strong&gt;9h15&lt;/strong&gt;: Présentation de la chaire &lt;br&gt;
+&lt;strong&gt;9h45&lt;/strong&gt; : Présentation autour de la gestion des bords de route &lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Dépendances Routières et Transferts Hydro-Sédimentaires &amp;quot; par Romain Reulier (Université de Caen) &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Vers une gestion plus durable des bords de route - Retour d&amp;rsquo;expériences du département des Côtes d&amp;rsquo;Armor&amp;rdquo; par Frédérique Morin (Service Entretien et Exploitation de la Route des Côtes d&amp;rsquo;Armor) &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Allées d&amp;rsquo;arbre - Allées d&amp;rsquo;avenir&amp;rdquo; par Chantal Pradines (Association Allées Avenues) &lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;11:00&lt;/strong&gt; : Groupe de travail autour des axes de la chaire &lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Workshop 1: &amp;ldquo;Premiers pas vers un outil d&amp;rsquo;aide à la décision pour la gestion des bords de route&amp;rdquo; &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Workshop 2: &amp;ldquo;Vers une prise de décision partagée : expérimentation d&amp;rsquo;un outil pour la construction collective de scénarios de gestion des bords de route&amp;rdquo; &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Workshop 3: &amp;ldquo;Prospective : Réflexions autour des leviers et barrières pour les futures filières de valorisation de la biomasse des bords de route&amp;rdquo; &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;12:00&lt;/strong&gt;: Pot de l&amp;rsquo;amitié &lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Laboratoire ERPI</title>
+      <link>https://erpi-ul.github.io/SAGID/en/partners/erpi/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/partners/erpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UMR SILVA</title>
+      <link>https://erpi-ul.github.io/SAGID/en/partners/umrsilva/</link>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/partners/umrsilva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UMR LORIA</title>
+      <link>https://erpi-ul.github.io/SAGID/en/partners/loria/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/partners/loria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actibac</title>
+      <link>https://erpi-ul.github.io/SAGID/en/partners/actibac/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/partners/actibac/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Future Mobility Lab</title>
+      <link>https://erpi-ul.github.io/SAGID/en/partners/movilylab/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/partners/movilylab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Modeling of the Impacts of Road Verge Management on the Pollination Service Using System Dynamics: A Case Study in France</title>
+      <link>https://erpi-ul.github.io/SAGID/en/publication/axe-1/ortega2023/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/publication/axe-1/ortega2023/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Un observatoire des pratiques d’entretien des bords de route en France</title>
+      <link>https://erpi-ul.github.io/SAGID/en/publication/axe-4/observatoire/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/publication/axe-4/observatoire/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Identification of Sensor Technologies with the Potential to Support Roadside Ecosystem Services</title>
+      <link>https://erpi-ul.github.io/SAGID/en/publication/axe-2/brice2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/publication/axe-2/brice2022/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-Objective Modelling of a Roadside Mowing Problem: A Case Study in France</title>
+      <link>https://erpi-ul.github.io/SAGID/en/publication/axe-2/mihaita2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/publication/axe-2/mihaita2022/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qualitative Sustainability Assessment of Road Verge Management in France: An Approach from Causal Diagrams to Seize the Importance of Impact Pathways</title>
+      <link>https://erpi-ul.github.io/SAGID/en/publication/axe-1/marche2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/publication/axe-1/marche2022/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Smart and Suitable Management of Roadsides: {{System}} Dynamics in the Era of Industry 4.0</title>
+      <link>https://erpi-ul.github.io/SAGID/en/publication/axe-2/sandra2020/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/publication/axe-2/sandra2020/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
@@ -172,19 +356,6 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://erpi-ul.github.io/SAGID/en/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/en/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>External Project</title>
       <link>https://erpi-ul.github.io/SAGID/en/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -193,71 +364,132 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://erpi-ul.github.io/SAGID/en/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/en/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://erpi-ul.github.io/SAGID/en/publication/marche2022/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/en/publication/marche2022/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://erpi-ul.github.io/SAGID/en/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/en/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title></title>
+      <link>https://erpi-ul.github.io/SAGID/axe-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/axe-1/</guid>
+      <description>&lt;p&gt;Cet axe de recherche peut lui-même être décomposé en différentes activités:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;La formalisation des services écosystémiques rendus par les bords de route par une revue de la littérature scientifique, normative et techniques.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La quantification biophysique et monétaire des services écosystémiques rendus par les bords de route.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La modélisation des intéractions entre les pratiques humaines et les services écosystémiques.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les avancements et les résultats de cet axe sont actuellement les suivants:&lt;/p&gt;
+&lt;p&gt;:::: {.columns .column-page-inset}
+::: {.column width=&amp;ldquo;80%&amp;rdquo;}&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Article scientifique: &amp;ldquo;Qualitative sustainability assessment of road verge management in France&amp;rdquo; &lt;br&gt;
+MARCHE, B., CAMARGO M., BAUTISTA-RODRIGUEZ, S.C., CHAUDRON, C., MAYER, F., BACHMANN, C. (2022) &lt;br&gt;
+Ce document propose d&amp;rsquo;utiliser le concept de diagrammes de causalité issu de la théorie des systèmes et de l&amp;rsquo;analyse de la littérature. Ce concept permet de structurer et représenter l&amp;rsquo;impact des stratégies d&amp;rsquo;entretien des accotements routiers sur les services écosystémiques et leurs interrelations par le biais de diagrammes de causalité. Neuf diagrammes de causalité interdépendants ont ensuite été élaborés. Ces diagrammes constituent la première tentative d&amp;rsquo;évaluation qualitative de l&amp;rsquo;impact des décisions d&amp;rsquo;entretien des accotements routiers sur les services écosystémiques.
+:::
+::: {.column width=&amp;ldquo;20%&amp;rdquo;}
+&lt;a href=&#34;https://doi.org/10.1016/j.eiar.2022.106911&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lien vers l&amp;rsquo;article&lt;/a&gt;{target=&amp;quot;_blank&amp;quot;}
+:::
+::::&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;:::: {.columns .column-page-inset}
+::: {.column width=&amp;ldquo;80%&amp;rdquo;}&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Article scientifique: &amp;ldquo;Towards a modeling of the impacts of road verge management on the pollination service using System Dynamics: a case study in France.&amp;rdquo;&lt;/strong&gt; &lt;br&gt;
+ORTEGA J.P., DAZA-GACHA D., MARCHE B., CAMARGO PARDO M., CHAUDRON C., MAYER F., &amp;amp; GALVIS J. (2023) &lt;br&gt;
+Cette recherche est la première tentative de développer un modèle basé sur la dynamique des systèmes pour estimer l&amp;rsquo;impact écologique et économique de l&amp;rsquo;entretien du service de pollinisation des accotements routiers en France. Des stratégies d&amp;rsquo;entretien des accotements sont simulées afin de comparer leurs performances.
+:::
+::: {.column width=&amp;ldquo;20%&amp;rdquo;}
+&lt;a href=&#34;https://doi.org/10.4236/am.2023.145022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lien vers l&amp;rsquo;article&lt;/a&gt;{target=&amp;quot;_blank&amp;quot;}
+:::
+::::&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://erpi-ul.github.io/SAGID/en/home/</link>
+      <link>https://erpi-ul.github.io/SAGID/axe-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/en/home/</guid>
-      <description>
-
-
-&lt;!-- This file is for blogdown only. Please do not edit it. --&gt;
+      <guid>https://erpi-ul.github.io/SAGID/axe-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://erpi-ul.github.io/SAGID/axe-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/axe-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://erpi-ul.github.io/SAGID/axe-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/axe-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://erpi-ul.github.io/SAGID/en/participation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/participation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://erpi-ul.github.io/SAGID/en/project/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/project/example/</guid>
+      <description>&lt;p&gt;!()[assets/media/Bords-de-route.png]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contactez-nous</title>
+      <link>https://erpi-ul.github.io/SAGID/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/contact/</guid>
+      <description>&lt;p&gt;Pour toutes questions ou demandes vis-à-vis de la chaire, veuillez vous adresser à Brunelle Marche:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Brunelle Marche&lt;/strong&gt;&lt;br&gt;
+Enseignant Chercheur - Université de Lorraine &lt;br&gt;
++33.3.72.74.35.57 &lt;br&gt;
++33.6.70.91.05.45&lt;br&gt;
+brunelle.marche[at]univ-lorraine.fr &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;ENSGSI - Ecole Nationale Supérieure en Génie des Systèmes et de l’Innovation&lt;br&gt;
+ERPI - Equipe de Recherche sur les Processus Innovatifs&lt;br&gt;
+8 rue Bastien Lepage&lt;br&gt;
+BP 90647 - 54010 Nancy Cedex&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Des Hommes et Des Arbres -DHDA-</title>
+      <link>https://erpi-ul.github.io/SAGID/en/partners/dhda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/partners/dhda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My page</title>
+      <link>https://erpi-ul.github.io/SAGID/en/communaute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/communaute/</guid>
+      <description>&lt;p&gt;Pour toutes questions ou demandes vis-à-vis de la chaire, veuillez vous adresser à Brunelle Marche:
+Brunelle Marche&lt;/p&gt;
+&lt;p&gt;Enseignant Chercheur - Université de Lorraine&lt;/p&gt;
+&lt;p&gt;+33.3.72.74.35.57&lt;/p&gt;
+&lt;p&gt;+33.6.70.91.05.45&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:brunelle.marche@univ-lorraine.fr&#34;&gt;brunelle.marche@univ-lorraine.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ENSGSI - Ecole Nationale Supérieure en Génie des Systèmes et de l’Innovation&lt;/p&gt;
+&lt;p&gt;ERPI - Equipe de Recherche sur les Processus Innovatifs&lt;/p&gt;
+&lt;p&gt;8 rue Bastien Lepage&lt;/p&gt;
+&lt;p&gt;BP 90647 - 54010 Nancy Cedex&lt;/p&gt;
 </description>
     </item>
     

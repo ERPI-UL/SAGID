@@ -1,8 +1,8 @@
 ---
 banner:
   caption: ""
-  image: ""
-cms_exclude: true
+  image: "Banner.jpg"
+cms_exclude: false
 title: Publications
 view: 4
 ---

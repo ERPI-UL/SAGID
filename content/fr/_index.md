@@ -21,6 +21,7 @@ sections:
         parallax: false
         text_color_light: true
 - block: about.biography
+  id: sagid
   content:
     title: Les bords de route
     username: sagid

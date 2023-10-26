@@ -19,10 +19,30 @@
     <loc>https://erpi-ul.github.io/SAGID/tag/axe3/</loc>
     <lastmod>2023-10-25T16:01:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/tag/axe3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/tag/axe3/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/tag/axe4/</loc>
     <lastmod>2023-10-25T16:01:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/tag/axe4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/tag/axe4/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/publication_types/</loc>
     <lastmod>2023-10-25T16:01:35+02:00</lastmod>
@@ -55,18 +75,58 @@
     <loc>https://erpi-ul.github.io/SAGID/publication/axe-3/preprint/</loc>
     <lastmod>2023-10-25T16:01:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/publication/axe-3/preprint/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/publication/axe-3/preprint/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/publication/axe-4/marche2024/</loc>
     <lastmod>2023-10-25T16:01:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/publication/axe-4/marche2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/publication/axe-4/marche2024/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/post/2023-10-13-ziadany/</loc>
     <lastmod>2023-10-26T10:17:33+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/post/2023-10-13-ziadany/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/post/2023-10-13-ziadany/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/category/actualites/</loc>
     <lastmod>2023-10-26T10:17:33+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/category/actualites/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/category/actualites/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/categories/</loc>
     <lastmod>2023-10-26T10:17:33+02:00</lastmod>
@@ -85,38 +145,114 @@
     <loc>https://erpi-ul.github.io/SAGID/tag/evenements/</loc>
     <lastmod>2023-10-26T10:17:33+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/tag/evenements/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/tag/evenements/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/post/2023-09-13-lancement/</loc>
     <lastmod>2023-10-26T10:17:33+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/post/2023-09-13-lancement/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/post/2023-09-13-lancement/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/category/chaire/</loc>
     <lastmod>2023-10-26T10:17:33+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/category/chaire/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/category/chaire/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/partners/erpi/</loc>
-    <lastmod>2023-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-26T11:52:52+02:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://erpi-ul.github.io/SAGID/partners/</loc>
-    <lastmod>2023-09-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/partners/erpi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/partners/erpi/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/partners/umrsilva/</loc>
-    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-26T11:52:52+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/partners/umrsilva/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/partners/umrsilva/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/partners/loria/</loc>
-    <lastmod>2023-09-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-26T11:52:52+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/partners/loria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/partners/loria/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/partners/actibac/</loc>
-    <lastmod>2023-09-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-26T11:52:52+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/partners/actibac/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/partners/actibac/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/partners/movilylab/</loc>
-    <lastmod>2023-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-26T11:52:52+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/partners/movilylab/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/partners/movilylab/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/publication-type/article-journal/</loc>
     <lastmod>2023-10-25T16:01:35+02:00</lastmod>
@@ -135,26 +271,86 @@
     <loc>https://erpi-ul.github.io/SAGID/tag/axe1/</loc>
     <lastmod>2023-10-25T15:16:19+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/tag/axe1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/tag/axe1/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/publication/axe-1/ortega2023/</loc>
     <lastmod>2023-10-25T15:16:19+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/publication/axe-1/ortega2023/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/publication/axe-1/ortega2023/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/publication/axe-4/observatoire/</loc>
     <lastmod>2023-10-25T16:01:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/publication/axe-4/observatoire/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/publication/axe-4/observatoire/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/tag/axe2/</loc>
     <lastmod>2023-10-25T16:01:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/tag/axe2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/tag/axe2/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/publication/axe-2/brice2022/</loc>
     <lastmod>2023-10-25T16:01:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/publication/axe-2/brice2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/publication/axe-2/brice2022/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/publication/axe-2/mihaita2022/</loc>
     <lastmod>2023-10-25T16:01:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/publication/axe-2/mihaita2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/publication/axe-2/mihaita2022/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/publication-type/paper-conference/</loc>
     <lastmod>2023-10-25T16:01:35+02:00</lastmod>
@@ -173,34 +369,30 @@
     <loc>https://erpi-ul.github.io/SAGID/publication/axe-1/marche2022/</loc>
     <lastmod>2023-10-25T15:16:19+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/publication/axe-1/marche2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/publication/axe-1/marche2022/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/publication/axe-2/sandra2020/</loc>
     <lastmod>2023-10-25T16:01:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://erpi-ul.github.io/SAGID/tag/hugo/</loc>
-    <lastmod>2023-10-24T18:14:50+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://erpi-ul.github.io/SAGID/tag/markdown/</loc>
-    <lastmod>2023-10-24T18:14:50+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://erpi-ul.github.io/SAGID/participation/</loc>
-    <lastmod>2023-10-24T18:14:50+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://erpi-ul.github.io/SAGID/tag/python/</loc>
-    <lastmod>2023-10-24T18:14:50+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://erpi-ul.github.io/SAGID/category/tutorial/</loc>
-    <lastmod>2023-10-24T18:14:50+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://erpi-ul.github.io/SAGID/tag/wowchemy/</loc>
-    <lastmod>2023-10-24T18:14:50+02:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/publication/axe-2/sandra2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/publication/axe-2/sandra2020/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/slides/</loc>
     <lastmod>2023-10-19T21:47:26+02:00</lastmod>
@@ -275,18 +467,72 @@
     <loc>https://erpi-ul.github.io/SAGID/axe-1/</loc>
     <lastmod>2023-10-25T16:01:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/axe-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/axe-1/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/axe-2/</loc>
     <lastmod>2023-10-25T16:01:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/axe-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/axe-2/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/axe-3/</loc>
     <lastmod>2023-10-25T16:01:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/axe-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/axe-3/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/axe-4/</loc>
     <lastmod>2023-10-25T16:01:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/axe-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/axe-4/"
+                />
+  </url><url>
+    <loc>https://erpi-ul.github.io/SAGID/participation/</loc>
+    <lastmod>2023-10-24T18:14:50+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/participation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/participation/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/project/example/</loc>
     <lastmod>2023-10-24T10:53:32+02:00</lastmod>
@@ -319,12 +565,44 @@
     <loc>https://erpi-ul.github.io/SAGID/axes/</loc>
     <lastmod>2023-10-25T16:01:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/axes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/axes/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/contact/</loc>
+    <lastmod>2023-10-26T11:52:52+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/contact/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/partners/dhda/</loc>
+    <lastmod>2023-10-26T11:52:52+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/partners/dhda/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/partners/dhda/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/</loc>
     <lastmod>2023-10-24T18:14:50+02:00</lastmod>
@@ -341,7 +619,18 @@
                 />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/communaute/</loc>
+    <lastmod>2023-10-26T11:52:52+02:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/communaute/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/communaute/"
+                />
   </url><url>
     <loc>https://erpi-ul.github.io/SAGID/publication/</loc>
     <lastmod>2023-10-25T15:16:19+02:00</lastmod>
@@ -355,6 +644,20 @@
                 rel="alternate"
                 hreflang="fr-FR"
                 href="https://erpi-ul.github.io/SAGID/publication/"
+                />
+  </url><url>
+    <loc>https://erpi-ul.github.io/SAGID/partners/</loc>
+    <lastmod>2023-10-26T11:52:52+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://erpi-ul.github.io/SAGID/en/partners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://erpi-ul.github.io/SAGID/partners/"
                 />
   </url>
 </urlset>
