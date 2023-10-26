@@ -4,34 +4,34 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: SAGID+ project
-    url: '/#banner'
+  - name: SAGID+
+    url: 'en/'
     weight: 10
-  - name: Participez au projet !
-    url: '/participation'
+  - name: Participe to this project !
+    url: 'en/participation'
     weight: 20
   - name: Les axes du projet
     identifier: axes
     weight: 30
   - name: "Axe 1: Services Ecosystemiques"
     parent: axes
-    url: axe-1/
+    url: en/axes/axe-1/
     weight: 10
   - name: "Axe 2: OUtils d'orientation"
     parent: axes
-    url: axe-2/
+    url: en/axes/axe-2/
     weight: 20 
   - name: "Axe 3: Filière bioeconomie"
     parent: axes
-    url: axe-3/
+    url: en/axes/axe-3/
     weight: 30 
   - name: "Axe 4: Territoire"
     parent: axes
-    url: axe-4/
+    url: en/axes/axe-4/
     weight: 30 
 
   - name: Actualités et événements
-    url: '/post'
+    url: 'en/post/'
     weight: 40
   - name: Communauté
     url: 'communaute/'
