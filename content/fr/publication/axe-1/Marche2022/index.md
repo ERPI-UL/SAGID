@@ -1,17 +1,16 @@
 ---
 title: "Qualitative Sustainability Assessment of Road Verge Management in France: An Approach from Causal Diagrams to Seize the Importance of Impact Pathways"
-abstract: A road verge, also known as a roadside, is a strip of grass or vegetation, sometimes shrubs and trees, that forms a space on the public property located along a road or highway. They require regular maintenance, one of the most relevant reasons being the safety of road users, which implies for territory planners making decisions about the period of maintenance, frequency, the mowing height, or whether or not remove cut biomass from the roadside among others. As highlighted in previous studies, the maintenance strategy decided on has a range of positive and negative impacts on the ecosystem services provided by road verges. Today, however, there is a lack of a formal and holistic view of how these maintenance practices affect the ecosystem services (ES) provided by the roadside. In order to improve the sustainability management of these areas, this paper proposes to use the concept of causal diagrams from the systems theory and literature analysis. This concept helps to structure and represent the impact of road verge maintenance decisions on ES and their interrelationships through causal networks. Nine interrelated causal diagrams were then developed. These diagrams are the first attempt at a qualitative assessment of the impact of roadside management on ES. This work is the first step towards a formal holistic model to assess the sustainability impacts of road verges and the development of decision-making tools.
+abstract: Un bord de route est une bande d'herbe ou de végétation, parfois d'arbustes et d'arbres, qui forme un espace sur la propriété publique située le long d'une route ou d'une autoroute. Ils nécessitent un entretien régulier, l'une des raisons les plus importantes étant la sécurité des usagers de la route, ce qui implique que les aménageurs du territoire prennent des décisions concernant la période d'entretien, la fréquence, la hauteur de la tonte, ou encore s'il faut enlever ou non la biomasse coupée du bord de route, entre autres. Comme cela a été souligné dans des études précédentes, la stratégie d'entretien choisie a des impacts positifs et négatifs sur les services écosystémiques fournis par les bords de route. Cependant, aujourd'hui, il manque une vision formelle et holistique de la manière dont ces pratiques d'entretien affectent les services écosystémiques (SE) fournis par le bord de route. Afin d'améliorer la gestion durable de ces espaces, cet article propose d'utiliser le concept de diagrammes causaux issus de la théorie des systèmes et de l'analyse de la littérature. Ce concept aide à structurer et à représenter l'impact des décisions d'entretien des bords de route sur les SE et leurs interrelations à travers des réseaux causaux. Neuf diagrammes causaux interdépendants ont ensuite été développés. Ces diagrammes constituent la première tentative d'une évaluation qualitative de l'impact de la gestion des bords de route sur les SE. Ce travail représente la première étape vers un modèle holistique formel pour évaluer les impacts sur la durabilité des bords de route et le développement d'outils de prise de décision.
 author_notes:
 - Corresponding author
 authors:
-- Brunelle
-- Mauricio Camargo 
+- Brunelle Marche
+- Mauricio Camargo
 - Sandra Cecilia Bautista Rodriguez 
 - Clémence Chaudron 
 - Frédérique Mayer 
 - Christophe Bachmann
 date: "2022-11-01T00:00:00Z"
-doi: "10.1016/j.eiar.2022.106911"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
@@ -23,7 +22,6 @@ publication_short: ""
 publication_types:
 - article-journal
 publishDate: "2022-11-01T00:00:00Z"
-slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
@@ -38,12 +36,4 @@ url_pdf: https://doi.org/10.1016/j.eiar.2022.106911
 #url_video: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).

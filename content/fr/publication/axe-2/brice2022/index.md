@@ -1,16 +1,15 @@
 ---
 title: "Identification of Sensor Technologies with the Potential to Support Roadside Ecosystem Services"
-abstract: "In perpetual development, roads are creating a vast network with harmful ecological effects. However, vegetative strips that border them, called roadsides, can mitigate, and even provide additional ecosystem services to the society (biodiversity preservation, water and air filtration,…). Mainly for security reasons, these roadsides must be regularly maintained. Inappropriate roadside management can lead to the decrease in ecosystem services (spread of invasive plants, habitats destruction or modification of the environment by soil enrichment among others). As roadside maintenance is highly recommended, the aim of this review is to identify technological solutions allowing to reduce management effects on ecosystem services provided by roadsides. Based on a systematic review of the scientific literature, five sensor technologies solutions were finally selected: the detection of rare, protected, or invasive plant species, the detection of animals, the automated control of ditches, the assessment of biomass quantity and carbon storage and the assessment of cultural services provided by roadsides."
+abstract: "En développement perpétuel, les routes forment un vaste réseau avec des effets écologiques nuisibles. Cependant, les bandes végétalisées qui les bordent, appelées bords de route, peuvent atténuer ces nuisances, voire fournir des services écosystémiques supplémentaires à la société (préservation de la biodiversité, filtration de l'eau et de l'air, etc.). Principalement pour des raisons de sécurité, ces bords de route doivent être entretenus régulièrement. Une gestion inappropriée des bords de route peut entraîner une diminution des services écosystémiques (propagation de plantes envahissantes, destruction d'habitats ou modification de l'environnement par l'enrichissement du sol, entre autres). Comme l'entretien des bords de route est fortement recommandé, l'objectif de cette revue est d'identifier des solutions technologiques permettant de réduire les effets de la gestion sur les services écosystémiques fournis par les bords de route. Sur la base d'une revue systématique de la littérature scientifique, cinq solutions technologiques de capteurs ont finalement été sélectionnées : la détection d'espèces végétales rares, protégées ou envahissantes, la détection d'animaux, le contrôle automatisé des fossés, l'évaluation de la quantité de biomasse et du stockage de carbone, et l'évaluation des services culturels fournis par les bords de route."
 author_notes:
 - Corresponding author
 authors:
-- Brice, C., 
-- Brunelle, M., 
-- Mauricio, C 
-- Christophe, B 
-- Clémence C 
+- Brice Corrigeux 
+- Brunelle Marche
+- Mauricio Camargo
+- Christophe Bachmann
+- Clémence Chaudron
 date: "2022-11-01T00:00:00Z"
-doi: "10.1109/ICE/ITMC-IAMOT55089.2022.10033185"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
@@ -36,12 +35,4 @@ url_pdf: https://ieeexplore.ieee.org/document/10033185
 #url_video: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).

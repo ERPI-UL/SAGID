@@ -13,19 +13,19 @@ main:
   - name: Les axes du projet
     identifier: axes
     weight: 30
-  - name: "Axe 1: Services Ecosystemiques"
+  - name: "Axe 1: Évaluation des services écosystémiques rendus par les bords de route"
     parent: axes
     url: axe-1/
     weight: 10
-  - name: "Axe 2: Outils d'orientation"
+  - name: "Axe 2: Nouveaux outils d'orientation stratégique et d'accompagnement à la prise de décision"
     parent: axes
     url: axe-2/
     weight: 20 
-  - name: "Axe 3: Filière bioeconomie"
+  - name: "Axe 3: Intégration dans les nouvelles filières de la bioéconomie"
     parent: axes
     url: axe-3/
     weight: 30 
-  - name: "Axe 4: Territoire"
+  - name: "Axe 4: Accompagnement des territoires dans l'évolution des pratiques"
     parent: axes
     url: axe-4/
     weight: 30 

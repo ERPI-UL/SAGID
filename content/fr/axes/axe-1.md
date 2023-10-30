@@ -8,18 +8,18 @@ sections:
       folders:
       - publication
       tag: "axe1"
-    title: "Axe 1: Évaluation des services écosystémiques rendus par les bords de route"
-    subtitle: "Cet axe cherche à mettre en évidence l’impact des pratiques d’entretien sur les services écosystémiques rendus par les bords de route à travers une modélisation des relations de causes à effet entre pratiques humaines et services écosystémiques."      
-    text: |-      
+    title: "Axe 1: Évaluation des services écosystémiques rendus par les bords de route"  
+    text: |-  
+      Cet axe cherche à mettre en évidence l’impact des pratiques d’entretien sur les services écosystémiques rendus par les bords de route à travers une modélisation des relations de causes à effet entre pratiques humaines et services écosystémiques. 
+
       Cet axe de recherche peut lui-même être décomposé en différentes activités: 
       - La formalisation des services écosystémiques rendus par les bords de route par une revue de la littérature scientifique, normative et techniques.
       - La quantification biophysique et monétaire des services écosystémiques rendus par les bords de route.
       - La modélisation des intéractions entre les pratiques humaines et les services écosystémiques.
       
       Les avancements et les résultats de cet axe sont actuellement les suivants:
-
   design:
-    columns: "2"
+    columns: "1"
     view: citation
 
 title: ""
