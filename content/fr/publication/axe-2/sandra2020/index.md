@@ -1,18 +1,17 @@
 ---
-title: "Towards Smart and Suitable Management of Roadsides: {{System}} Dynamics in the Era of Industry 4.0"
-abstract: "Within the aim of supporting territories to create more sustainable systems, road infrastructure plays a paramount role, not only because road shoulders represent a non-negligible land area, including their own biodiversity, but also because this represents the interface with the territory's ecosystems. For this reason, future road management systems should include all the different dimensions of sustainability. However, sustainable management of roadsides can be considered a complex and dynamic process. It requires access to data, from communities, maintenance services, suppliers of mowing equipment, and the roadsides themselves (physiognomy of the terrain, the composition of the soil, biodiversity, the composition of the area to be mowed and pruned, etc.). Therefore, the current development of Industry 4.0 opens opportunities to capture, aggregate, and analyze the information needed to support decision-making by territory planners and to provide the network's various stakeholders with complete visibility. Although generic models for decision-making in big data environments have been proposed in the scientific literature, they fail to deal with the specific characteristics and data requirements of such a system. In this context, this paper proposes the integration of a process based on the dynamic systems theory and the Industry 4.0 paradigm to achieve sustainable management of roadside processing. It will enable us to identify and manage in a proper manner the varying and heterogeneous amount of data that this type of system entails. The proposed model will support territory policy-makers to take sustainable actions in order to ensure efficient decisions with a long-term view, to assess the current situation and future opportunities, and then to contribute to the evolution of territories towards a circular economy."
+title: "Towards Smart and Suitable Management of Roadsides: System Dynamics in the Era of Industry 4.0"
+abstract: "Dans le but de soutenir les territoires dans la création de systèmes plus durables, l'infrastructure routière joue un rôle primordial, non seulement parce que les bords de route représentent une superficie du territoire non négligeable, comprenant leur propre biodiversité, mais aussi parce qu'ils constituent l'interface avec les écosystèmes du territoire. Pour cette raison, les futurs systèmes de gestion des routes devraient inclure toutes les différentes dimensions de la durabilité. Cependant, la gestion durable des bords de route peut être considérée comme un processus complexe et dynamique. Elle nécessite l'accès à des données provenant des communautés, des services d'entretien, des fournisseurs d'équipement d'entretien, ainsi que des bords de route eux-mêmes (physionomie du terrain, composition du sol, biodiversité, composition de la zone à faucher et à élaguer, etc.). Par conséquent, le développement actuel de l'Industrie 4.0 ouvre des opportunités pour capturer, regrouper et analyser les informations nécessaires pour soutenir la prise de décision par les aménageurs du territoire et fournir à divers acteurs du réseau une visibilité complète. Bien que des modèles génériques de prise de décision dans des environnements de big data aient été proposés dans la littérature scientifique, ils échouent à traiter les caractéristiques spécifiques et les besoins en données d'un tel système. Dans ce contexte, cet article propose l'intégration d'un processus basé sur la théorie des systèmes dynamiques et le paradigme de l'Industrie 4.0 pour parvenir à une gestion durable de l'entretien des bords de route. Cela nous permettra d'identifier et de gérer de manière appropriée la quantité de données variable et hétérogène que ce type de système implique. Le modèle proposé soutiendra les décideurs territoriaux dans la prise de mesures durables pour garantir des décisions efficaces à long terme, évaluer la situation actuelle et les opportunités futures, puis contribuer à l'évolution des territoires vers une économie circulaire."
 author_notes:
 - Corresponding author
 authors:
 - Sandra Baustista Rodriguez 
 - Brunelle Marche 
-- Fatima Ezzahra, Hamdani 
-- Mauricio  Camargo and 
+- Fatima Ezzahra Hamdani 
+- Mauricio Camargo 
 - Frederique Mayer 
 - Christophe Bachmann 
 - Davy Monticolo
 date: "2022-11-01T00:00:00Z"
-doi: "10.1016/j.eiar.2022.106911"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
@@ -38,12 +37,4 @@ url_pdf: https://doi.org/10.1016/j.susoc.2020.12.001
 #url_video: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).

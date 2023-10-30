@@ -8,9 +8,10 @@ sections:
       folders:
       - publication
       tag: "axe3"
-    title: "Axe 3: Intégration dans les nouvelles filières de la bioéconomie"
-    subtitle: "Cet axe vise à élaborer des modèles d’organisation innovants permettant de fournir de nouveaux services aux décideurs, d’assurer une complétude de la chaîne de valeur sur le territoire et d’intégrer les métiers liés à l’accoroutisme dans les nouvelles filières de la bioéconomie"      
+    title: "Axe 3: Intégration dans les nouvelles filières de la bioéconomie"    
     text: |-      
+      Cet axe vise à élaborer des modèles d’organisation innovants permettant de fournir de nouveaux services aux décideurs, d’assurer une complétude de la chaîne de valeur sur le territoire et d’intégrer les métiers liés à l’accoroutisme dans les nouvelles filières de la bioéconomie.
+
       Cet axe de recherche peut lui-même être décomposé en différentes activités:
       
       - L'identification de filières de valorisation de la biomasse accompagnée d'études de faisabilité.
@@ -20,7 +21,7 @@ sections:
       Les avancements et les résultats de cet axe sont actuellement les suivants:
 
   design:
-    columns: "2"
+    columns: "1"
     view: citation
 
 title: ""

@@ -3,7 +3,7 @@ title: 👩🏻‍🏫 Nouvelle thèse lancée
 subtitle: "Lancement cette semaine de la thèse intitulée: Évaluation des services écosystémiques rendus par les bords de route."
 
 # Summary for listings and search engines
-summary: 👋 Cet événement est l'occasion de regrouper l'ensemble des partenaires et acteurs impliqués de près ou de loin par les travaux réalisés dans le cadre de la chaire.
+summary: "Lancement cette semaine de la thèse intitulée: Évaluation des services écosystémiques rendus par les bords de route."
 
 # Link this post with a project
 projects: []
@@ -23,16 +23,13 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Ziadany Mayoral Solis'
   focal_point: ''
   placement: 1
   preview_only: false
 
 authors:
   - brice
-
-tags:
-  - Événements
 
 categories:
   - Actualités

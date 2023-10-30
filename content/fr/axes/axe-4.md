@@ -9,8 +9,10 @@ sections:
       - publication
       tag: "axe4"
     title: "Axe 4: Accompagnement des territoires dans l’évolution des pratiques"
-    subtitle: "Cet axe vise à accompagner les territoires en faisant de la chaire un espace d’échange, de restitution et de mise à disposition de connaissances par la démonstration des outils/méthodes développés dans les axes précédents, par la formation et la mise en valeur des bonnes pratiques sur les territoires d’expérimentation."      
+         
     text: |-      
+      Cet axe vise à accompagner les territoires en faisant de la chaire un espace d’échange, de restitution et de mise à disposition de connaissances par la démonstration des outils/méthodes développés dans les axes précédents, par la formation et la mise en valeur des bonnes pratiques sur les territoires d’expérimentation.
+      
       Cet axe de recherche peut lui-même être décomposé en différentes activités:
       
       - La démonstration de la gestion durable des bords de route en validant le bon fonctionnement des outils développés et en servant de vitrine des bonnes pratiques pour les territoires et le grand public.
@@ -20,7 +22,7 @@ sections:
       Les avancements et les résultats de cet axe sont actuellement les suivants:
 
   design:
-    columns: "2"
+    columns: "1"
     view: citation
 
 title: ""

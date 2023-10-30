@@ -3,6 +3,6 @@ cms_exclude: true
 header:
   caption: ""
   image: ""
-title: Recent & Upcoming Talks
+title: Les partenaires de la chaire SAGID+
 view: 2
 ---

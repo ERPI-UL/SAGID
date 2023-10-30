@@ -12,7 +12,7 @@ date: "2023-09-04"
 links:
 - icon: link
   icon_pack: fa
-  name: Website
+  name: Site internet
   url: https://www6.nancy.inrae.fr/silva/
 location: Nancy, France
 ---

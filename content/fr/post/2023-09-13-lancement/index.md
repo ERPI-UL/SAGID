@@ -4,7 +4,7 @@ subtitle: "Cet événement est l'occasion de regrouper l'ensemble des partenaire
 date: 2023-09-13
 
 # Summary for listings and search engines
-summary: 👋 Cet événement est l'occasion de regrouper l'ensemble des partenaires et acteurs impliqués de près ou de loin par les travaux réalisés dans le cadre de la chaire.
+summary: Cet événement est l'occasion de regrouper l'ensemble des partenaires et acteurs impliqués de près ou de loin par les travaux réalisés dans le cadre de la chaire.
 
 # Link this post with a project
 projects: []
@@ -32,14 +32,9 @@ image:
 authors:
   - brice
 
-tags:
-  - Événements
-
 categories:
-  - Chaire
+  - Événements
 ---
-
-
 
 Nous avons le plaisir de vous annoncer le lancement de la chaire "Soutien aux métiers d'Accoroutiste à travers une Gestion Intégrale et Durable des dépendances vertes" (SAGID +). À travers cette chaire, nous cherchons à développer des outils et méthodes dits « clés en main » capables d’évaluer la durabilité des pratiques de gestion des bords de route, contribuer à l’évolution des comportements écoresponsables et à l’intégration du métier d’accoroutiste dans les filières de la bioéconomie. 
 
@@ -63,5 +58,5 @@ Voici le programme détaillé de cette matinée:
 - Workshop 1: "Premiers pas vers un outil d'aide à la décision pour la gestion des bords de route" <br>
 - Workshop 2: "Vers une prise de décision partagée : expérimentation d'un outil pour la construction collective de scénarios de gestion des bords de route" <br>
 - Workshop 3: "Prospective : Réflexions autour des leviers et barrières pour les futures filières de valorisation de la biomasse des bords de route" <br>
-<br>
+
 **12:00**: Pot de l'amitié <br>

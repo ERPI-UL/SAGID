@@ -12,7 +12,7 @@ date: "2023-09-03"
 links:
 - icon: link
   icon_pack: fa
-  name: Website
+  name: Site internet
   url: https://www.loria.fr/fr/
 location: Nancy, France
 ---

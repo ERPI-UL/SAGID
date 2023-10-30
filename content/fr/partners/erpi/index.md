@@ -12,7 +12,7 @@ date: "2023-09-05"
 links:
 - icon: link
   icon_pack: fa
-  name: Website
+  name: Site internet
   url: https://erpi.univ-lorraine.fr/
 location: Nancy, France
 ---

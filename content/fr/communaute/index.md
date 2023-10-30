@@ -9,8 +9,7 @@ sections:
   - block: markdown
     id: banner
     content:
-      title: SAGID+
-      subtitle: Soutien aux métiers d’Accoroutiste à travers une Gestion Intégrale et Durable des dépendances vertes      
+      title: Communauté de la chaire      
     design:
       columns: '1'
       background: 
@@ -37,6 +36,8 @@ sections:
       columns: '1'
       # Choose your content listing view - here we use the `showcase` view
       view: showcase
+      background:
+         color: 'white'
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: false
 ---
@@ -44,21 +45,3 @@ sections:
 
 
 
-Pour toutes questions ou demandes vis-à-vis de la chaire, veuillez vous adresser à Brunelle Marche:
-Brunelle Marche
-
-Enseignant Chercheur - Université de Lorraine
-
-+33.3.72.74.35.57
-
-+33.6.70.91.05.45
-
-brunelle.marche@univ-lorraine.fr
-
-ENSGSI - Ecole Nationale Supérieure en Génie des Systèmes et de l’Innovation
-
-ERPI - Equipe de Recherche sur les Processus Innovatifs
-
-8 rue Bastien Lepage
-
-BP 90647 - 54010 Nancy Cedex

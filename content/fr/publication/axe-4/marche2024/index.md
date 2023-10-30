@@ -1,6 +1,6 @@
 ---
-title: "Valorisation de la biomasse des bords de route : les apports des démonstrateurs pour le déploiement d’une filière durable (Article à paraître)"
-abstract: "Cet article cherche à proposer un cadre conceptuel, pour l’implémentation d’un démonstrateur de la gestion durable des bords de route à des fins de valorisation, reposant sur le croisement des informations issues de la littérature sur les démonstrateurs et sur la filière durable."
+title: "Valorisation de la biomasse des bords de route : les apports des démonstrateurs pour le déploiement d’une filière durable"
+abstract: "Le contexte actuel marqué par l’accélération du dérèglement climatique, la raréfaction des ressources et les tensions géopolitiques implique de revoir la stratégie énergétique française, en privilégiant la biomasse-énergie comme principale source d’énergies renouvelables. Les dépendances vertes longeant les routes françaises représentent près de 5 000 km², constituant ainsi un potentiel de biomasse encore non valorisé. Ainsi, considérer les bords de route comme gisement de filière durable de la bioéconomie nécessite un changement de pratiques, afin de mieux valoriser cette potentialité. Plusieurs études ont mis en avant l’importance des démonstrateurs territoriaux pour l’implémentation de pratiques et des filières émergentes. Dans cette perspective, cet article cherche à proposer un cadre conceptuel, pour l’implémentation d’un démonstrateur pour de la gestion durable des bords de route à des fins de valorisation, reposant sur le croisement des informations issues de la littérature sur les démonstrateurs et sur la filière durable."
 authors:
 - Brunelle Marche
 - Mauricio Camargo
@@ -14,17 +14,13 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Hal Version
-  url: http://example.org
 projects:
 - internal-project
 publication: ""
 publication_short: ""
 publication_types:
-- article
+- article-journal
 publishDate: "2022-01-01T00:00:00Z"
-#slides: example
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - axe4
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
@@ -37,8 +33,3 @@ tags:
 #url_video: '#'
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
