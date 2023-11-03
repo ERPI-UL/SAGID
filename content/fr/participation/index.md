@@ -3,8 +3,7 @@ sections:
 - block: markdown
   id: banner
   content:
-    title: Participez au projet !
-    subtitle: Soutien aux métiers d’Accoroutiste à travers une Gestion Intégrale et Durable des dépendances vertes      
+    title: Participez au projet !     
   design:
     columns: '1'
     background: 

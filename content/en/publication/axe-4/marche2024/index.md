@@ -1,6 +1,6 @@
 ---
-title: "Valorisation de la biomasse des bords de route : les apports des démonstrateurs pour le déploiement d’une filière durable (Article à paraître)"
-abstract: "Cet article cherche à proposer un cadre conceptuel, pour l’implémentation d’un démonstrateur de la gestion durable des bords de route à des fins de valorisation, reposant sur le croisement des informations issues de la littérature sur les démonstrateurs et sur la filière durable."
+title: "Recovery of roadside biomass: the contribution of demonstrators to the deployment of a sustainable supply chain"
+abstract: "The current context marked by the acceleration of climate change, the scarcity of resources and geopolitical tensions implies a review of the French energy strategy, giving priority to biomass-energy as the main source of renewable energy. The roadsides along French roads represent nearly 5,000 km², thus constituting a biomass potential that has not yet been recovered. Thus, considering roadsides as a source of sustainable bioeconomy requires a change in practices in order to better exploit this potential. Several studies have highlighted the importance of territorial demonstrators for the implementation of practices and emerging supply chains. In this perspective, this article seeks to propose a conceptual framework for the implementation of a demonstrator for the sustainable management of roadsides for valorization purposes, based on the cross-referencing of information from the literature on demonstrators and on the sustainable supply chain."
 authors:
 - Brunelle Marche
 - Mauricio Camargo
@@ -14,17 +14,13 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Hal Version
-  url: http://example.org
 projects:
 - internal-project
 publication: ""
 publication_short: ""
 publication_types:
-- article
+- article-journal
 publishDate: "2022-01-01T00:00:00Z"
-#slides: example
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - axe4
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
@@ -36,9 +32,3 @@ tags:
 #url_source: '#'
 #url_video: '#'
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).

@@ -8,7 +8,7 @@ authors:
 - Brunelle Marche
 - Mauricio Camargo
 - Iman Rahimi
-- Chirstophe Bachmann
+- Christophe Bachmann
 date: "2022-11-01T00:00:00Z"
 featured: false
 image:

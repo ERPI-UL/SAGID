@@ -1,5 +1,5 @@
 ---
-#url: /axe-3/
+url: /axe-3-en
 sections:
 - block: collection
   content:
@@ -8,19 +8,20 @@ sections:
       folders:
       - publication
       tag: "axe3"
-    title: "Axe 3: Intégration dans les nouvelles filières de la bioéconomie"
-    subtitle: "Cet axe vise à élaborer des modèles d’organisation innovants permettant de fournir de nouveaux services aux décideurs, d’assurer une complétude de la chaîne de valeur sur le territoire et d’intégrer les métiers liés à l’accoroutisme dans les nouvelles filières de la bioéconomie"      
+    title: "Axis 3: Integration into New Bioeconomy Sectors" 
     text: |-      
-      Cet axe de recherche peut lui-même être décomposé en différentes activités:
+      "This axis aims to develop innovative organizational models to provide new services to decision-makers, ensure the completeness of the value chain within the territory, and integrate professions related to roadside vegetation management into new bioeconomy sectors.
+
+      This research axis can itself be broken down into different activities:
+
+      - Identifying biomass valorization sectors accompanied by feasibility studies.
+      - Studying the governance of these sectors and their sustainability.
+      - Modeling the sectors to support the development of a territorial bioeconomy based on roadside biomass.
       
-      - L'identification de filières de valorisation de la biomasse accompagnée d'études de faisabilité.
-      - L'étude de la gouvernance de ces filières et de leur durabilité.
-      - La modélisation des filières pour aider au développement d'une bioéconomie territoriale à partir de la biomasse des bords de route.
-      
-      Les avancements et les résultats de cet axe sont actuellement les suivants:
+      The current progress and results of this axis are as follows:"
 
   design:
-    columns: "2"
+    columns: "1"
     view: citation
 
 title: ""

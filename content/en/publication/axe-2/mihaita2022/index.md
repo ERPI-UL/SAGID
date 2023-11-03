@@ -1,16 +1,15 @@
 ---
 title: "Multi-Objective Modelling of a Roadside Mowing Problem: A Case Study in France"
-abstract: 
+abstract: "Roadside maintenance is a significant challenge for many territories worldwide. For safety reasons, these roadsides have to be maintained regularly, which has a substantial economic impact requiring a significant investment of staff and material. This paper addresses the problem of planning optimal trajectories of mowing machines within a dedicated territory in order to meet several objective criteria such as: minimising the travel distance, the number of mowing machines, as well as minimising the time and the cost associated with each yearly operation. Firstly, we define the mathematical methodology of the multi-objective criteria that we need to calculate. Secondly, we propose a clustering approach based on the k-means algorithm in order to identify the best sub-sectors of road sections that each technical centre needs to plan in order and maintain using existing equipment. Thirdly, we apply an optimal routing between each cluster based on TomTom API routing and identify the distance used to formulate our multi-objective optimisation criteria to minimise the cost and the use time associated with various mowing scenarios. Finally, we analyse the best setup to satisfy all criteria in the current case study area and present future projections of a local versus global optimisation approach."
 author_notes:
 - Corresponding author
 authors:
-- Mihaita, Adriana-Simona 
-- Marche, Brunelle 
-- Camargo, Mauricio -
--  Rahimi, Iman 
-- Bachmann, Chirstophe
+- Adriana-Simona Mihaita
+- Brunelle Marche
+- Mauricio Camargo
+- Iman Rahimi
+- Christophe Bachmann
 date: "2022-11-01T00:00:00Z"
-doi: "10.1109/ICE/ITMC-IAMOT55089.2022.10033303"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
@@ -20,7 +19,7 @@ projects: []
 publication: '*2022 IEEE 28th International Conference on Engineering, Technology and Innovation (ICE/ITMC) & 31st International Association For Management of Technology (IAMOT) Joint Conference.*'
 publication_short: ""
 publication_types:
-- article-journal
+- paper-conference
 publishDate: "2022-11-01T00:00:00Z"
 #slides: example
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -35,13 +34,3 @@ url_pdf: https://ieeexplore.ieee.org/document/10033303
 #url_source: ""
 #url_video: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).

@@ -66,7 +66,7 @@ sections:
 
 - block: markdown
   content:    
-    title: Quelles sont les objectifs?    
+    title: Quels sont les objectifs?    
   design:
     background:
       color: 'white'
@@ -102,7 +102,7 @@ sections:
   content:    
     title: "**Opérationnels**"
     text: |-
-      1. Renforcer les connaissances sur les bords de Route.
+      1. Renforcer les connaissances sur les bords de route.
       2. Développer des outils et méthodes capables d’évaluer la durabilité des pratiques de gestion des bords de route.
       3. Accompagner la gestion et l’action publique en faveur des bords de route.
   design:

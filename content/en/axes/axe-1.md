@@ -1,5 +1,5 @@
 ---
-#url: /axe-1/
+url: /axe-1-en
 sections:
 - block: collection
   content:
@@ -8,34 +8,26 @@ sections:
       folders:
       - publication
       tag: "axe1"
-    title: "Axe 1: Évaluation des services écosystémiques rendus par les bords de route"
-    subtitle: "Cet axe cherche à mettre en évidence l’impact des pratiques d’entretien sur les services écosystémiques rendus par les bords de route à travers une modélisation des relations de causes à effet entre pratiques humaines et services écosystémiques."      
-    text: |-      
-      Cet axe de recherche peut lui-même être décomposé en différentes activités: 
-      - La formalisation des services écosystémiques rendus par les bords de route par une revue de la littérature scientifique, normative et techniques.
-      - La quantification biophysique et monétaire des services écosystémiques rendus par les bords de route.
-      - La modélisation des intéractions entre les pratiques humaines et les services écosystémiques.
-      
-      Les avancements et les résultats de cet axe sont actuellement les suivants:
+    title: "Axis 1: Assessment of Ecosystem Services Provided by Roadside"
+    text: |-
+      This axis aims to highlight the impact of maintenance practices on the ecosystem services provided by roadside through a modeling of the cause-and-effect relationships between human practices and ecosystem services.
 
+      This research axis can itself be divided into different activities:
+
+      Formalizing the ecosystem services provided by roadside through a review of scientific, normative, and technical literature.
+      Biophysical and monetary quantification of the ecosystem services provided by roadside.
+      Modeling the interactions between human practices and ecosystem services.
+    
+      The current progress and results of this axis are as follows:
+  
   design:
-    columns: "2"
+    columns: "1"
     view: citation
 
 title: ""
 type: landing
 
 ---
-
-Cet axe de recherche peut lui-même être décomposé en différentes activités:
-
-- La formalisation des services écosystémiques rendus par les bords de route par une revue de la littérature scientifique, normative et techniques.
-
-- La quantification biophysique et monétaire des services écosystémiques rendus par les bords de route.
-
-- La modélisation des intéractions entre les pratiques humaines et les services écosystémiques.
-
-Les avancements et les résultats de cet axe sont actuellement les suivants:
 
 :::: {.columns .column-page-inset}
 ::: {.column width="80%"}

@@ -1,6 +1,6 @@
 ---
-title: "Towards a carbon footprint analysis as an extended environmental indicator for roadside maintenance strategies: a multiscale perspective (Article à paraître)"
-abstract: " "
+title: "Towards a carbon footprint analysis as an extended environmental indicator for roadside maintenance strategies: a multiscale perspective"
+abstract: "Within the framework of the bioeconomy, a value chain resulting from the valorization of grass roadside verges maintenance activities is currently emerging. It represents a potential sink of biomass which could be valorized as source of energy (heat or electricity) or others applications, thanks to the availability of technologies and the growing biomass demand. However, the assessment of these emerging activities could not any longer be made exclusively under technical and economic considerations. As a consequence, there is an urgent need to evaluate these new activities from a more holistic manner, especially regarding their environmental impact. The present paper aims to introduce the carbon footprint analysis as an environmental indicator for establishing the relevance of the maintenance strategies with and without biomass recovery. Results show that the carbon footprint of this emerging valorization value chain could be positive, compared to the traditional maintenance strategy when including the valorization activities."
 authors:
 - Brunelle Marche
 - Brice Corrigeux 
@@ -8,24 +8,20 @@ authors:
 - Christophe Bachmann
 
 date: "2024-04-07T00:00:00Z"
-doi: ""
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 links:
-- name: Hal Version
-  url: http://example.org
 projects:
 - internal-project
 publication: ""
 publication_short: ""
 publication_types:
-- article
+- paper-conference
 publishDate: "2017-01-01T00:00:00Z"
-#slides: example
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 tags:
 - axe3
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
@@ -38,8 +34,4 @@ tags:
 #url_video: '#'
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
+Article à paraître

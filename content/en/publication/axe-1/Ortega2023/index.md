@@ -4,15 +4,14 @@ abstract: Several research studies have proven that eliciting and predicting the
 author_notes:
 - Corresponding author
 authors:
-- Ortega, Juan Pablo 
-- Daza-Gacha, Diana 
-- Marche, Brunelle 
-- Camargo, Mauricio 
+- Juan Pablo Ortega
+- Diana Daza-Gacha
+- Brunelle Marche
+- Mauricio Camargo
 - Clémence Chaudron 
 - Frédérique Mayer 
 - Juan Galvis
 date: "2023-05-26"
-doi: "10.4236/am.2023.145022"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
@@ -24,27 +23,15 @@ publication_short: ""
 publication_types:
 - article-journal
 publishDate: "2022-11-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 tags:
 - axe1
 #url_code: ""
 #url_dataset: ""
-url_pdf: https://doi.org/10.1016/j.eiar.2022.106911
+url_pdf: https://www.scirp.org/journal/paperinformation.aspx?paperid=125387
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
 #url_source: ""
 #url_video: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).

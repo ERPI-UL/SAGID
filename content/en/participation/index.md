@@ -3,8 +3,7 @@ sections:
 - block: markdown
   id: banner
   content:
-    title: SAGID+
-    subtitle: Soutien aux métiers d’Accoroutiste à travers une Gestion Intégrale et Durable des dépendances vertes      
+    title: Participe to this project !      
   design:
     columns: '1'
     background: 
@@ -18,18 +17,19 @@ sections:
         text_color_light: true
 - block: markdown
   content:    
-    title: La chaire SAGID+
+    title: A common interest in collaborating
     text: |-
-      Les bords de route peuvent être un atout essentiel de notre territoire et il est important de mieux les connaître afin de préserver et valoriser les services et externalités qu’ils nous rendent. La chaire a pour vocation d’être un espace d’échange, de restitution et de mise à disposition des connaissances. **Si vous partagez cette vision, n’hésitez pas à nous rejoindre et à contribuer**. 
-      
-      Cet espace recense les sujets sur lesquels nous souhaitons consulter les experts et acteurs du territoire sur différentes thématiques. Vous pouvez également nous proposer des sujets de consultation.
-      
-      Vous êtes **professionel de l'entretien des bords de route**, vous pouvez actuellement contribuer aux projets suivants:
+      Roadside can be a crucial asset for our territory, and it's important to better understand them in order to preserve and enhance the services and externalities they provide us. The chair's mission is to be a space for exchange, dissemination, and knowledge sharing. **If you share this vision, please feel free to join us and contribute.**
 
+      This space collects the topics on which we seek input from experts and stakeholders on various themes. You can also suggest consultation topics.
 
-      
+      If you are a **professional in roadside vegetation management**, you can currently contribute to the following projects: 
+
   design:
-    columns: '2'
+    background:
+      color: 'white'
+    spacing:
+      padding: ["50px", "0", "20px", "0"]    
 
 title: ""
 type: landing

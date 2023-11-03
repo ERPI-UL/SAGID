@@ -10,27 +10,27 @@ main:
   - name: Participe to this project !
     url: 'en/participation'
     weight: 20
-  - name: Axis of SAGID
+  - name: Axes of the project
     identifier: axes
     weight: 30
-  - name: "Axe 1: Ecosystem Services"
+  - name: "Axis 1: Assessment of Ecosystem Services Provided by Roadside Areas"
     parent: axes
-    url: en/axes/axe-1/
+    url: en/axes/axe-1-en/
     weight: 10
-  - name: "Axe 2: Strategic tools"
+  - name: "Axis 2: New Tools for Strategic Guidance and Decision Support"
     parent: axes
-    url: en/axes/axe-2/
+    url: en/axes/axe-2-en/
     weight: 20 
-  - name: "Axe 3: Bioeconomy"
+  - name: "Axis 3: Integration into New Bioeconomy Sectors" 
     parent: axes
-    url: en/axes/axe-3/
+    url: en/axes/axe-3-en/
     weight: 30 
-  - name: "Axe 4: Territory"
+  - name: "Axis 4: Supporting Territories in the Evolution of Practices"
     parent: axes
-    url: en/axes/axe-4/
-    weight: 30 
+    url: en/axes/axe-4-en/
+    weight: 40 
 
-  - name: News
+  - name: News and events
     url: 'en/post/'
     weight: 40
   - name: About us

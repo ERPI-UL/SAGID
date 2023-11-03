@@ -1,10 +1,10 @@
 ---
-title: 👋 Séminaire de lancement de la chaire SAGID+ (09/11/2023)
-subtitle: "Cet événement est l'occasion de regrouper l'ensemble des partenaires et acteurs impliqués de près ou de loin par les travaux réalisés dans le cadre de la chaire"
+title: 👋 Launch seminar for the SAGID+ chair (11/09/2023)
+subtitle: "This event is an opportunity to bring together all the partners and stakeholders involved, to varying degrees, in the work carried out within the framework of the chair."
 date: 2023-09-13
 
 # Summary for listings and search engines
-summary: 👋 Cet événement est l'occasion de regrouper l'ensemble des partenaires et acteurs impliqués de près ou de loin par les travaux réalisés dans le cadre de la chaire.
+summary: "This event is an opportunity to bring together all the partners and stakeholders involved, to varying degrees, in the work carried out within the framework of the chair."
 
 # Link this post with a project
 projects: []
@@ -39,29 +39,25 @@ categories:
   - Chaire
 ---
 
+We are pleased to announce the launch of the chair 'Support for Roadside Vegetation Management Professions through Comprehensive and Sustainable Management' (SAGID+). Through this chair, we aim to develop 'turnkey' tools and methods capable of assessing the sustainability of roadside management practices, contribute to the evolution of eco-responsible behaviors, and integrate the profession of roadside vegetation manager into bioeconomy sectors.
 
+To mark the launch of the chair, we are organizing a seminar on the morning of Thursday, November 9th, at the facilities of Noremat (Ludres – 54), bringing together a diverse audience, including elected officials, maintenance professionals, researchers, and students. We would be delighted to have you join us for this event.
 
-Nous avons le plaisir de vous annoncer le lancement de la chaire "Soutien aux métiers d'Accoroutiste à travers une Gestion Intégrale et Durable des dépendances vertes" (SAGID +). À travers cette chaire, nous cherchons à développer des outils et méthodes dits « clés en main » capables d’évaluer la durabilité des pratiques de gestion des bords de route, contribuer à l’évolution des comportements écoresponsables et à l’intégration du métier d’accoroutiste dans les filières de la bioéconomie. 
+Here is the detailed program for the morning:
 
-Pour marquer le lancement de la chaire, nous organisons un séminaire le **jeudi 9 novembre matin** dans les locaux de l’entreprise Noremat (Ludres – 54), regroupant un large public (élus, acteurs de l’entretien, chercheurs, étudiants…). Nous serions ravis de vous compter parmi nous lors de cet évènement. 
+**8:30**: Welcome Coffee <br>
+**9:00**: Welcome Speech <br>
+**9:15**: Presentation of the Chair <br>
+**9:45**: Presentation on Roadside Management <br>
 
-Voici le programme détaillé de cette matinée:
+- "Roadside Dependencies and Hydro-Sediment Transfers" by Romain Reulier (University of Caen) <br>
+- "Towards More Sustainable Roadside Management - Lessons from the Côtes d'Armor Department" by Frédérique Morin (Road Maintenance and Operation Department of Côtes d'Armor) <br>
+- "Tree-lined Avenues - Pathways to the Future" by Chantal Pradines (Allées Avenues Association) <br>
 
-**8h30** : Café d'accueil <br>
-**9h00** : Mot d'accueil <br>
-**9h15**: Présentation de la chaire <br>
-**9h45** : Présentation autour de la gestion des bords de route <br>
+**11:00**: Working Groups on Chair Axes <br>
 
-- "Dépendances Routières et Transferts Hydro-Sédimentaires " par Romain Reulier (Université de Caen) <br>
-- "Vers une gestion plus durable des bords de route - Retour d'expériences du département des Côtes d'Armor" par Frédérique Morin (Service Entretien et Exploitation de la Route des Côtes d'Armor) <br>
-- "Allées d'arbre - Allées d'avenir" par Chantal Pradines (Association Allées Avenues) <br>
+Workshop 1: "First Steps Towards a Decision Support Tool for Roadside Management" <br>
+Workshop 2: "Towards Shared Decision-Making: Experimenting with a Tool for Collective Scenario Building for Roadside Management" <br>
+Workshop 3: "Prospective: Reflections on the Drivers and Barriers for Future Biomass Valorization Sectors of Roadside Biomass" <br>
 
-
-**11:00** : Groupe de travail autour des axes de la chaire <br>
-
-
-- Workshop 1: "Premiers pas vers un outil d'aide à la décision pour la gestion des bords de route" <br>
-- Workshop 2: "Vers une prise de décision partagée : expérimentation d'un outil pour la construction collective de scénarios de gestion des bords de route" <br>
-- Workshop 3: "Prospective : Réflexions autour des leviers et barrières pour les futures filières de valorisation de la biomasse des bords de route" <br>
-<br>
-**12:00**: Pot de l'amitié <br>
+**12:00**: Networking and Refreshments <br>

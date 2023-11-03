@@ -8,7 +8,7 @@ sections:
   id: banner
   content:
     title: SAGID+
-    subtitle: Soutien aux métiers d’Accoroutiste à travers une Gestion Intégrale et Durable des dépendances vertes      
+    subtitle: "Support for Roadside Vegetation Management Professions through Comprehensive and Sustainable Management"   
   design:
     columns: '1'
     background: 
@@ -20,34 +20,59 @@ sections:
         position: center  
         parallax: false
         text_color_light: true
-- block: about.biography
-  id: sagid
-  content:
-    title: Les bords de route
-    username: sagid
+
 - block: markdown
   content:    
-    title: Qu'est que SAGID Propose?
-    text: <br>![This is Sagid](SAGID-00.jpg) 
-- block: markdown
-  content:    
-    title: La chaire SAGID+
+    title: "Roadside"
     text: |-
-      Cette chaire porte une attention particulière aux dépendances vertes (bords de route) et s’intéresse à la **mise en place d’une gestion durable de ces espaces végétalisés**, ayant la capacité de mitiger les impacts négatifs des routes sur la biodiversité et jouer un rôle fondamental pour son maintien. Cependant, à l’heure actuelle, les diverses parties prenantes à l’échelle d’un territoire ne disposent pas de méthodologies/modèles opérationnels leur permettant de prendre en compte et d’évaluer simultanément l’ensemble des enjeux évoqués préalablement. 
+      Transport infrastructures, comprising roadways and their associated green areas, are central to concerns related to the sustainable development of territories. They involve both environmental preservation and economic aspects associated with transportation, road safety, and quality of life, among others.
 
-      Des études récentes ont démontré que la recherche actuelle sur la gestion des bords de route était abordée de manière fragmentée et disciplinaire. Elles ont également mis en évidence un manque de modèles formels permettant la prise en compte de la complexité d’un tel système et l’intégration des données provenant de sources et de disciplines diverses.
+      The consequences of choices made by public authorities, particularly in terms of planning and maintenance of these spaces, have long-term implications. Indeed, a transport infrastructure must provide service to users, including accessibility, travel time, comfort, safety, while also integrating into its environment. These social, economic, and environmental functions depend on the quality of the environment and, therefore, on the management practices implemented in the territory.
+  design:
+    background:
+      color: 'white'
 
-      > L’objectif global de la chaire est de développer des outils et méthodes dits « clés en main » capables d’évaluer la durabilité des pratiques mises en œuvre lors du processus de décision soutenus par l’intelligence artificielle, pour ensuite contribuer à l’intégration du métier dans les filières de la bioéconomie et à l’évolution des comportements écoresponsables.
+
+- block: markdown
+  content:    
+    title:    
+  design:
+    columns: '1'
+    spacing:
+      padding: ["0px", "0", "20px", "0"]    
+- block: markdown    
+  design:
+    columns: '1'    
+    spacing:
+      padding: ["0px", "0", "400px", "0"]
+    background: 
+      color: 'white'
+      image: 
+        filename: SAGID-00.jpg
+        size: contain
+        parallax: false
+
+- block: markdown
+  content:    
+    title: The chair SAGID+
+    text: |-
+      This chair places special emphasis on roadside and is interested in establishing sustainable management of these vegetated spaces, with the ability to mitigate the negative impacts of roads on biodiversity and play a fundamental role in its preservation. However, currently, various stakeholders at the territorial level lack operational methodologies/models that enable them to simultaneously consider and assess all the previously mentioned challenges.
+
+      Recent studies have shown that current research on roadside management is approached in a fragmented and disciplinary manner. They have also highlighted a lack of formal models for addressing the complexity of such a system and integrating data from various sources and disciplines.
+
+      The overall goal of the chair is to develop 'turnkey' tools and methods capable of assessing the sustainability of practices implemented in the decision-making process, supported by artificial intelligence, and then contribute to integrating the profession into bioeconomy sectors and promoting eco-responsible behaviors.
   design:
     columns: '2'
 
 - block: markdown
   content:    
-    title: Quelles sont les objectifs?    
+    title: What are the objectives ?  
   design:
+    background:
+      color: 'white'
     columns: '1'
     spacing:
-      padding: ["80px", "0", "20px", "0"]    
+      padding: ["0px", "0", "20px", "0"]    
 - block: markdown    
   design:
     columns: '1'    
@@ -62,22 +87,24 @@ sections:
 
 - block: markdown
   content:    
-    title: "**Scientifiques**"
+    title: "**Scientific**"
     text: |-
-      1. Améliorer les performances économiques, environnementales et socio-territoriales des bords de route
-      2. Soutenir des comportements écoresponsables en termes de gestion des bords de route
-      3. Intégrer le métier d’accoroutiste dans les filières de la bioéconomie
+      1. Enhance the economic, environmental, and socio-territorial performance of roadside.
+      2. Promote eco-responsible behaviors regarding roadside management.
+      3. Integrate the profession of roadside vegetation manager into the bioeconomy sectors.
   design:
+    background: 
+      color: 'white'
     columns: '2'
     spacing:
       padding: ["80px", "0", "20px", "0"]    
 - block: markdown
   content:    
-    title: "**Opérationnels**"
+    title: "**Opérational**"
     text: |-
-      1. Renforcer les connaissances sur les bords de Route.
-      2. Développer des outils et méthodes capables d’évaluer la durabilité des pratiques de gestion des bords de route.
-      3. Accompagner la gestion et l’action publique en faveur des bords de route.
+      1. Enhance knowledge about roadside.
+      2. Develop tools and methods capable of assessing the sustainability of roadside management practices.
+      3. Support public management and actions in favor of roadside.
   design:
     columns: '2'
     background: 
@@ -87,33 +114,38 @@ sections:
 
 - block: features
   content:
-    title: Axes de Recherche
-    subtitle: Le projet est structué autour de 4 axes
+    title: Axes of research
+    subtitle: The project is structured around 4 axes.
     items:
-      - name: Évaluation des services écosystémiques rendus par les bords de route        
+      - name: Assessment of Ecosystem Services Provided by Roadside      
         icon: Icon-ES
         icon_pack: custom
-      - name: Nouveaux outils d’orientation stratégique et d’accompagnement à la prise de décision
+        url: /axes/axe-1
+      - name: New Tools for Strategic Guidance and Decision Support
         icon: Icon-Bio
         icon_pack: custom
-      - name: Intégration dans les nouvelles filières de la bioéconomie
+      - name: Integration into New Bioeconomy Sectors
         icon: Icon-Strategy
         icon_pack: custom
-      - name: Accompagnement des territoires dans l’évolution des pratiques
+      - name: Supporting Territories in the Evolution of Practices
         icon: Icon-Pedagogy
-        icon_pack: custom        
+        icon_pack: custom  
+  design:
+    background:
+      color: 'white'      
 
 - block: markdown
   content:    
-    title: "Avec le Soutien"
-    text: |-
-      Le projet SAGID+ est cofinancé par l’Union Européenne avec le Fonds Européen de Développement régional à hauteur de 409 500 €, par le groupe ACTIBAC et la Métropole du Grand Nancy. Il contribue à l’ambition collective « Des Hommes et Des Arbres, les racines de demain », labellisée Territoire d’Innovation. Il a également obtenu la labellisation « Solar Impulse Efficient Solution Label »
+    title: "With the support of"
+  design:
+    spacing:
+      padding: ["20px", "0", "20px", "0"]  
     
 - block: markdown    
   design:
     columns: '1'    
     spacing:
-      padding: ["0px", "0", "250px", "0"]
+      padding: ["0px", "0", "150px", "0"]
     background: 
       color: 'white'
       image: 
@@ -121,18 +153,30 @@ sections:
         size: contain
         parallax: false
 
+- block: markdown
+  content:    
+    text: |-
+      The SAGID+ project is co-funded by the European Union through the European Regional Development Fund with a total of €409,500, along with contributions from the ACTIBAC group and the Greater Nancy Metropolitan Area. It contributes to the collective ambition 'Men and Trees, the Roots of Tomorrow,' which is labeled as a Territory of Innovation. It has also received the 'Solar Impulse Efficient Solution Label' certification.
+  design:
+    spacing:
+      padding: ["0px", "0", "20px", "0"]  
+    
+
 
 - block: markdown
   content:    
-    title: "Les Partenaires"
+    title: "The partners"
     text: |-
-      La chaire SAGID+ bénéficie de l’expertise scientifique de l’Unité de Recherche ERPI (Equipe de Recherche sur les Processus Innovatifs) de l’Université de Lorraine, de l’Unité Mixte de Recherche SILVA, sous cotutelle Université de Lorraine, AgroParisTech, INRAE, l’Unité Mixte de Recherche LORIA (Laboratoire lorrain de Recherche en Informatique et ses Applications) sous cotutelle Université de Lorraine, CNRS, INRIA et de l’ENSGSI. Elle bénéficie également de l’expertise industrielle du groupe ACTIBAC, spécialisé dans la gestion des dépendances vertes par l’intermédiaire des entreprises NOREMAT et ACCOPILOT.
-    
+      The SAGID+ chair benefits from the scientific expertise of the ERPI Research Unit (Research Team on Innovative Processes) at the University of Lorraine, the SILVA Joint Research Unit, under the co-supervision of the University of Lorraine, AgroParisTech, INRAE, the LORIA Joint Research Unit (Lorraine Laboratory of Computer Science and its Applications), under the co-supervision of the University of Lorraine, CNRS, and INRIA, and the ENSGSI. It also benefits from the industrial expertise of the ACTIBAC group, specializing in the management of green areas through the companies NOREMAT and ACCOPILOT.
+  design:
+    background:
+      color: 'white'
+
 - block: markdown    
   design:
     columns: '1'    
     spacing:
-      padding: ["250px", "0", "200px", "0"]
+      padding: ["100px", "0", "150px", "0"]
     background: 
       color: 'white'
       image: 

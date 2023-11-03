@@ -1,5 +1,5 @@
 ---
-#url: /axe-2/
+url: /axe-2-en
 sections:
 - block: collection
   content:
@@ -8,18 +8,21 @@ sections:
       folders:
       - publication
       tag: "axe2"
-    title: "Axe 2: Nouveaux outils d’orientation stratégique et d’accompagnement à la prise de décision"
-    subtitle: "Cet axe vise à proposer un système d’évaluation et de recommandation de la durabilité des pratiques de gestion des territoires pour les accompagner dans la mise en place de leurs stratégies d'entretien"      
-    text: |-      
-      Cet axe de recherche peut lui-même être décomposé en différentes activités:      
-      - La formalisation, la modélisation et la représentation des connaissances. Il s'agit principalement d'identifier les sources de données qui peuvent être utilisées dans le développement des outils.
-      - Le développement d'une technologie permettant de regrouper l'ensemble des données nécessaires.
-      - La définition des stratégies de fauchage par l'intelligence artificielle en considérant l'évolution de l'environnement à long terme.
-      - La conception d'un outil d'orientation stratégique et d'accompagnement à la décision qui regroupera l'ensemble des modèles issus des travaux de recherche développés dans la chaire. 
-      
-      Les avancements et les résultats de cet axe sont actuellement les suivants:
+    title: "Axis 2: New Tools for Strategic Guidance and Decision Support"
+    subtitle:      
+    text: |-  
+      This axis aims to propose an evaluation and recommendation system for the sustainability of land management practices to assist them in implementing their maintenance strategies.
+
+      This research axis can itself be broken down into different activities:
+
+      - Formalization, modeling, and representation of knowledge. This primarily involves identifying data sources that can be used in the development of tools.
+      - Development of a technology to gather all necessary data.
+      - Definition of mowing strategies by artificial intelligence, considering long-term environmental changes.
+      - Design of a strategic guidance and decision support tool that will consolidate all models derived from the research work developed within the chair.
+
+      The current progress and results of this axis are as follows:
   design:
-    columns: "2"
+    columns: "1"
     view: citation
 
 title: ""
