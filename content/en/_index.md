@@ -31,7 +31,7 @@ sections:
   design:
     background:
       color: 'white'
-
+    
 
 - block: markdown
   content:    
@@ -39,7 +39,7 @@ sections:
   design:
     columns: '1'
     spacing:
-      padding: ["0px", "0", "20px", "0"]    
+      padding: ["0px", "0", "0px", "0"]    
 - block: markdown    
   design:
     columns: '1'    
@@ -73,17 +73,6 @@ sections:
     columns: '1'
     spacing:
       padding: ["0px", "0", "20px", "0"]    
-- block: markdown    
-  design:
-    columns: '1'    
-    spacing:
-      padding: ["0px", "0", "250px", "0"]
-    background: 
-      color: 'white'
-      image: 
-        filename: Territoire.jpg
-        size: contain
-        parallax: false
 
 - block: markdown
   content:    
@@ -97,7 +86,7 @@ sections:
       color: 'white'
     columns: '2'
     spacing:
-      padding: ["80px", "0", "20px", "0"]    
+      padding: ["0px", "0", "20px", "0"]    
 - block: markdown
   content:    
     title: "**Opérational**"
@@ -110,24 +99,24 @@ sections:
     background: 
       color: 'white'
     spacing:
-      padding: ["80px", "0", "20px", "0"]  
+      padding: ["0px", "0", "20px", "0"]  
 
 - block: features
   content:
     title: Axes of research
     subtitle: The project is structured around 4 axes.
     items:
-      - name: Assessment of Ecosystem Services Provided by Roadside      
+      - name: "<a href='/SAGID/axe-1-en/'>Assessment of Ecosystem Services Provided by Roadside</a>"     
         icon: Icon-ES
         icon_pack: custom
         url: /axes/axe-1
-      - name: New Tools for Strategic Guidance and Decision Support
+      - name: "<a href='/SAGID/axe-2-en/'>New Tools for Strategic Guidance and Decision Support</a>"
         icon: Icon-Bio
         icon_pack: custom
-      - name: Integration into New Bioeconomy Sectors
+      - name: "<a href='/SAGID/axe-3-en/'>Integration into New Bioeconomy Sectors</a>"
         icon: Icon-Strategy
         icon_pack: custom
-      - name: Supporting Territories in the Evolution of Practices
+      - name: "<a href='/SAGID/axe-4-en/'>Supporting Territories in the Evolution of Practices</a>"
         icon: Icon-Pedagogy
         icon_pack: custom  
   design:
@@ -139,7 +128,9 @@ sections:
     title: "With the support of"
   design:
     spacing:
-      padding: ["20px", "0", "20px", "0"]  
+      padding: ["20px", "0", "20px", "0"]
+    background: 
+      color: 'white'  
     
 - block: markdown    
   design:
@@ -159,8 +150,9 @@ sections:
       The SAGID+ project is co-funded by the European Union through the European Regional Development Fund with a total of €409,500, along with contributions from the ACTIBAC group and the Greater Nancy Metropolitan Area. It contributes to the collective ambition 'Men and Trees, the Roots of Tomorrow,' which is labeled as a Territory of Innovation. It has also received the 'Solar Impulse Efficient Solution Label' certification.
   design:
     spacing:
-      padding: ["0px", "0", "20px", "0"]  
-    
+      padding: ["0px", "0", "0px", "0"]  
+    background: 
+      color: 'white' 
 
 
 - block: markdown

@@ -1,9 +1,9 @@
 ---
-title: Laboratoire ERPI
+title: ERPI Laboratory
 summary: |-
-  L’ERPI (Équipe de Recherche sur les Processus Innovatifs) est un des laboratoires de l’Université de Lorraine, labellisé Équipe d’Accueil (EA n° 3767) par le Ministère de l’Enseignement Supérieur et de la Recherche. L’ERPI est membre de la FR 2863 : Fédération de Recherche Jacques Villermaux pour la Mécanique, l’Energie, les Procédés (FR JV) et est rattaché au pôle scientifique EMPP - Énergie, Mécanique, Procédés, Produits. L’équipe ERPI a pour vocation de mener des recherches dans le domaine de la conduite et du pilotage de projet innovant à travers le développement de méthodes et d’outils dédiés.
-  
-  Au sein de la chaire, le laboratoire ERPI est responsable de l’encadrement des travaux de recherche du projet. Il apporte son savoir-faire en modélisation permettant de mettre en évidence les relations de causalité entre décisions et impacts et en implémentation de démonstrateurs.
+  The ERPI (Research Team on Innovative Processes) is one of the laboratories at the University of Lorraine, accredited as a Research Team (EA No. 3767) by the Ministry of Higher Education and Research. ERPI is a member of FR 2863: Jacques Villermaux Research Federation for Mechanics, Energy, Processes (FR JV) and is affiliated with the scientific field EMPP - Energy, Mechanics, Processes, Products. The ERPI team's mission is to conduct research in the field of project management and control of innovative projects through the development of dedicated methods and tools.
+
+  Within the chair, the ERPI laboratory is responsible for supervising the research work of the project. It brings its expertise in modeling to highlight causality relationships between decisions and impacts, as well as in the implementation of demonstrators.
 
 date: "2023-09-05"
 #publishDate: "2023-09-01"

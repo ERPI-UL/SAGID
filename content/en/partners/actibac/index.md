@@ -1,9 +1,9 @@
 ---
 title: Actibac
 summary: |-
-  ACTIBAC : Le groupe industriel ACTIBAC est spécialisé dans la gestion des dépendances vertes. Sa mission est d’assurer la sécurité des routes, d’aménager et de valoriser le territoire dans les meilleures conditions qualitatives, sociales et économiques. Ses actions s’expriment en France comme à l’international, au travers de solutions innovantes servies par des équipes de spécialistes engagés.
-  
-  Au sein de la chaire, le groupe industriel ACTIBAC, par l’intermédiaire des entreprise NOREMAT et ACCOPILOT, contribue au développement technologique permettant l’acquisition de données et aux études des filières de la bioéconomie en émergence ainsi qu’aux expérimentations sur le territoire.
+  The industrial group ACTIBAC specializes in the management of roadside. Its mission is to ensure road safety, develop and enhance the territory under the best qualitative, social, and economic conditions. Its actions are expressed both in France and internationally through innovative solutions delivered by dedicated specialist teams.
+
+  Within the chair, the industrial group ACTIBAC, through the companies NOREMAT and ACCOPILOT, contributes to technological development for data acquisition, studies of emerging bioeconomy sectors, and experiments in the territory.
 
 date: "2023-09-02"
 #publishDate: "2023-09-01"
@@ -17,6 +17,6 @@ links:
 location: Nancy, France
 ---
 
----
+
 
 

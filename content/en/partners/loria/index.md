@@ -1,9 +1,9 @@
 ---
 title: UMR LORIA
 summary: |-
-  Le Loria, Laboratoire lorrain de Recherche en Informatique et ses Applications est une Unité Mixte de Recherche (UMR 7503), commune à plusieurs établissements : le CNRS, l’Université de Lorraine et Inria. Depuis sa création en 1997, le Loria a pour mission la recherche fondamentale et appliquée en sciences informatiques.
-  
-  Au sein de la chaire, le laboratoire LORIA apportera son savoir-faire en intelligence artificielle, avec un accent particulier sur la conception de systèmes de recommandation par des approches d’apprentissage automatique et d’exploration de données.
+  Loria, the Lorraine Laboratory of Computer Science and its Applications, is a Joint Research Unit (UMR 7503) shared by several institutions: CNRS, the University of Lorraine, and Inria. Since its creation in 1997, Loria's mission has been fundamental and applied research in computer science.
+
+  Within the chair, the Loria laboratory will contribute its expertise in artificial intelligence, with a particular focus on the design of recommendation systems using machine learning and data exploration approaches.
 
 date: "2023-09-03"
 #publishDate: "2023-09-01"

@@ -16,7 +16,7 @@ featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 projects: []
 publication: '*Sustainable Operations and Computers*'
 publication_short: ""

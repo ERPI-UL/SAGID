@@ -1,6 +1,7 @@
 ---
 url: /axe-1
 sections:
+
 - block: collection
   content:
     filters:

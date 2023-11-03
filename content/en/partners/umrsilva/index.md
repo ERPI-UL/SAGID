@@ -1,9 +1,9 @@
 ---
 title: UMR SILVA
 summary: |-
-  L’UMR Silva rassemble des agents d’AgroParisTech, de l’INRAE, et de l’Université de Lorraine afin de mener des travaux de recherche pluridisciplinaires sur le bois, les arbres et les écosystèmes forestiers. Elle a pour objectifs de développer des travaux de recherche fondamentale et finalisée, afin de répondre aux interrogations de la société, et en particulier des gestionnaires forestiers, sur l’adaptation des écosystèmes forestiers aux changements globaux et sur les services que ceux-ci fournissent comme la production de bois ou leur contribution à l’atténuation du changement climatique.
-  
-  Au sein de la chaire, l’UMR Silva apporte son savoir-faire en écologie afin de caractériser les services écosystémiques rendus par les bords de route et d’améliorer les pratiques de gestion en tenant compte de ces externalités.
+  The UMR Silva brings together researchers from AgroParisTech, INRAE, and the University of Lorraine to conduct interdisciplinary research on wood, trees, and forest ecosystems. Its objectives include developing fundamental and applied research to address societal questions, particularly those of forest managers, regarding the adaptation of forest ecosystems to global changes and the services they provide, such as wood production or their contribution to climate change mitigation.
+
+  Within the chair, UMR Silva contributes its expertise in ecology to characterize the ecosystem services provided by roadside areas and improve management practices while considering these externalities.
 
 date: "2023-09-04"
 #publishDate: "2023-09-01"

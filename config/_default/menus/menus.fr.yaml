@@ -7,9 +7,9 @@ main:
   - name: Le projet SAGID+
     url: '/#banner'
     weight: 10
-  - name: Participez au projet !
-    url: '/participation'
-    weight: 20
+  #- name: Participez au projet !
+  #  url: '/participation'
+  #  weight: 20
   - name: Les axes du projet
     identifier: axes
     weight: 30

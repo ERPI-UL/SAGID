@@ -1,7 +1,7 @@
 ---
 title: Future Mobility Lab
 summary: |-
-  Future Mobility Lab : Le Future Mobility lab (FMlab) fait partie d’un nouvel institut de science des données lancé en janvier 2019 par l’Université de technologie de Sydney dans le cadre de la faculté d’ingénierie et d’informatique. Le laboratoire de recherche se concentre sur le développement de modèles avancés axés sur les données pour résoudre certains problèmes brûlants du monde réel tels que la congestion du trafic, l’habitabilité des villes intelligentes, la fluidité de la mobilité et la transition vers de nouveaux modes de transport émergents tels que les véhicules connectés et autonomes, le transport à la demande, les communications de véhicule à véhicule et de véhicule à infrastructure.
+  The Future Mobility Lab (FMlab) is part of a new data science institute launched in January 2019 by the University of Technology Sydney, as part of the Faculty of Engineering and Information Technology. The research laboratory focuses on the development of advanced data-driven models to address real-world challenges such as traffic congestion, livability in smart cities, mobility fluidity, and the transition to new emerging modes of transport such as connected and autonomous vehicles, on-demand transportation, vehicle-to-vehicle and vehicle-to-infrastructure communications.
   
 date: "2023-08-30"
 #publishDate: "2023-09-01"

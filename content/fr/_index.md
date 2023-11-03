@@ -25,13 +25,14 @@ sections:
   content:    
     title: Les bords de route
     text: |-
+      
       Les infrastructures de transport, composées des voies de circulation et de leurs dépendances vertes, sont au cœur des préoccupations liées au développement durable des territoires. Elles impliquent simultanément des sujets liés à la préservation de l’environnement, ainsi que des éléments d’ordre économique associés au transport, à la sécurité routière et au cadre de vie entre autres.
 
       Les conséquences des choix effectués par les acteurs publics, notamment en termes d’aménagement et d’entretien de ces espaces, se répercutent sur le long terme. En effet, une infrastructure de transport doit garantir un service aux usagers, notamment en matière d’accessibilité, temps de transport, confort, sécurité, tout en s’intégrant dans son environnement. Ces fonctions sociales, économiques et environnementales dépendent de la bonne qualité du milieu et donc des pratiques de gestion mises en œuvre sur le territoire.
+      
   design:
     background:
       color: 'white'
-
 
 - block: markdown
   content:    
@@ -39,7 +40,9 @@ sections:
   design:
     columns: '1'
     spacing:
-      padding: ["0px", "0", "20px", "0"]    
+      padding: ["0px", "0", "0px", "0"]    
+
+
 - block: markdown    
   design:
     columns: '1'    
@@ -72,7 +75,7 @@ sections:
       color: 'white'
     columns: '1'
     spacing:
-      padding: ["0px", "0", "20px", "0"]    
+      padding: ["0px", "0", "0px", "0"]    
 - block: markdown    
   design:
     columns: '1'    
@@ -97,7 +100,7 @@ sections:
       color: 'white'
     columns: '2'
     spacing:
-      padding: ["80px", "0", "20px", "0"]    
+      padding: ["40px", "0", "0px", "0"]    
 - block: markdown
   content:    
     title: "**Opérationnels**"
@@ -110,24 +113,23 @@ sections:
     background: 
       color: 'white'
     spacing:
-      padding: ["80px", "0", "20px", "0"]  
+      padding: ["20px", "0", "0px", "0"]  
 
 - block: features
   content:
     title: Axes de Recherche
     subtitle: Le projet est structué autour de 4 axes
     items:
-      - name: Évaluation des services écosystémiques rendus par les bords de route        
+      - name: "<a href='/SAGID/axe-1/'>Évaluation des services écosystémiques rendus par les bords de route</a>"     
         icon: Icon-ES
         icon_pack: custom
-        url: /axes/axe-1
-      - name: Nouveaux outils d’orientation stratégique et d’accompagnement à la prise de décision
+      - name: "<a href='/SAGID/axe-2/'>Nouveaux outils d’orientation stratégique et d’accompagnement à la prise de décision</a>"
         icon: Icon-Bio
         icon_pack: custom
-      - name: Intégration dans les nouvelles filières de la bioéconomie
+      - name: "<a href='/SAGID/axe-3/'>Intégration dans les nouvelles filières de la bioéconomie</a>"
         icon: Icon-Strategy
         icon_pack: custom
-      - name: Accompagnement des territoires dans l’évolution des pratiques
+      - name: "<a href='/SAGID/axe-4/'>Accompagnement des territoires dans l’évolution des pratiques</a>"
         icon: Icon-Pedagogy
         icon_pack: custom  
   design:
@@ -136,7 +138,7 @@ sections:
 
 - block: markdown
   content:    
-    title: "Avec le soutien de"
+    title: "Soutien"
     text: |-
       Le projet SAGID+ est cofinancé par l’Union Européenne avec le Fonds Européen de Développement régional à hauteur de 409 500 €, par le groupe ACTIBAC et la Métropole du Grand Nancy. Il contribue à l’ambition collective « Des Hommes et Des Arbres, les racines de demain », labellisée Territoire d’Innovation. Il a également obtenu la labellisation « Solar Impulse Efficient Solution Label »
   design:
@@ -165,7 +167,7 @@ sections:
   design:
     columns: '1'    
     spacing:
-      padding: ["100px", "0", "150px", "0"]
+      padding: ["0px", "0", "250px", "0"]
     background: 
       color: 'white'
       image: 

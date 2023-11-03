@@ -23,19 +23,18 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ''
   placement: 1
-  preview_only: false
+  preview_only: true
 
 authors:
   - brice
 
 categories:
-  - Actualités
+  - News
 
 ---
-
 
 Welcome to Ziadany Mayoral Solis, who joined the SAGID+ chair as a doctoral candidate on Monday, October 9th. Her thesis, titled Assessment of the Capacity of Roadside to Provide Ecosystem Services and the Design of Management Plans Focusing on Sustainable Use,is part of Axis 1 and will focus on the interactions between human practices and the ecosystem services provided by roadside.
 

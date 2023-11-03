@@ -7,10 +7,8 @@ Pour toutes questions ou demandes vis-à-vis de la chaire, veuillez vous adresse
 **Brunelle Marche**<br>
 Enseignant Chercheur - Université de Lorraine <br>
 +33.3.72.74.35.57 <br>
-+33.6.70.91.05.45<br>
-brunelle.marche[at]univ-lorraine.fr <br>
+brunelle.marche@univ-lorraine.fr <br>
 
-ENSGSI - Ecole Nationale Supérieure en Génie des Systèmes et de l’Innovation<br>
 ERPI - Equipe de Recherche sur les Processus Innovatifs<br>
 8 rue Bastien Lepage<br>
 BP 90647 - 54010 Nancy Cedex

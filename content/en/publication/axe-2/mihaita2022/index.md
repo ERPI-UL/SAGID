@@ -14,7 +14,7 @@ featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 projects: []
 publication: '*2022 IEEE 28th International Conference on Engineering, Technology and Innovation (ICE/ITMC) & 31st International Association For Management of Technology (IAMOT) Joint Conference.*'
 publication_short: ""
