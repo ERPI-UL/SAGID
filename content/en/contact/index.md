@@ -1,5 +1,6 @@
 ---
 title: Contact us
+share: false
 ---
 
 For any questions or requests regarding the chair, please contact Brunelle Marche:

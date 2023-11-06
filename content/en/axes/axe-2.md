@@ -1,5 +1,5 @@
 ---
-url: /axe-2-en
+url: /en/axe-2/
 sections:
 - block: collection
   content:

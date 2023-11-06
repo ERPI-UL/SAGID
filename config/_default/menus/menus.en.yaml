@@ -15,19 +15,19 @@ main:
     weight: 30
   - name: "Axis 1: Assessment of Ecosystem Services Provided by Roadside Areas"
     parent: axes
-    url: axe-1-en/
+    url: en/axe-1/
     weight: 10
   - name: "Axis 2: New Tools for Strategic Guidance and Decision Support"
     parent: axes
-    url: axe-2-en/
+    url: en/axe-2/
     weight: 20 
   - name: "Axis 3: Integration into New Bioeconomy Sectors" 
     parent: axes
-    url: axe-3-en/
+    url: en/axe-3/
     weight: 30 
   - name: "Axis 4: Supporting Territories in the Evolution of Practices"
     parent: axes
-    url: axe-4-en/
+    url: en/axe-4/
     weight: 40 
 
   - name: News and events

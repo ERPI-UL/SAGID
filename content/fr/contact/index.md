@@ -1,5 +1,6 @@
 ---
 title: Contactez-nous
+share: false
 ---
 
 Pour toutes questions ou demandes vis-à-vis de la chaire, veuillez vous adresser à Brunelle Marche:
