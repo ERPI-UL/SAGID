@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | SAGID</title>
+    <title>Les partenaires de la chaire SAGID&#43; | SAGID</title>
     <link>https://erpi-ul.github.io/SAGID/partners/</link>
       <atom:link href="https://erpi-ul.github.io/SAGID/partners/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
+    <description>Les partenaires de la chaire SAGID&#43;</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>fr-FR</language>
     <image>
       <url>https://erpi-ul.github.io/SAGID/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Les partenaires de la chaire SAGID&#43;</title>
       <link>https://erpi-ul.github.io/SAGID/partners/</link>
     </image>
     
@@ -47,9 +47,9 @@
     
     <item>
       <title>Future Mobility Lab</title>
-      <link>https://erpi-ul.github.io/SAGID/partners/movilylab/</link>
+      <link>https://erpi-ul.github.io/SAGID/partners/mobilitylab/</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/partners/movilylab/</guid>
+      <guid>https://erpi-ul.github.io/SAGID/partners/mobilitylab/</guid>
       <description></description>
     </item>
     

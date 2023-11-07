@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rapport | SAGID</title>
+    <link>https://erpi-ul.github.io/SAGID/publication-type/rapport/</link>
+      <atom:link href="https://erpi-ul.github.io/SAGID/publication-type/rapport/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rapport</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr-FR</language><lastBuildDate>Fri, 07 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://erpi-ul.github.io/SAGID/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Rapport</title>
+      <link>https://erpi-ul.github.io/SAGID/publication-type/rapport/</link>
+    </image>
+    
+    <item>
+      <title>Un observatoire des pratiques d’entretien des bords de route en France</title>
+      <link>https://erpi-ul.github.io/SAGID/publication/axe-4/observatoire/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/publication/axe-4/observatoire/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
