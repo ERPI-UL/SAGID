@@ -24,7 +24,7 @@ sections:
     columns: "1"
     view: citation
 
-title: ""
+title: "Axis 1"
 type: landing
 
 ---

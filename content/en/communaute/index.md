@@ -1,6 +1,6 @@
 ---
 # Page title
-title: My page
+title: Community
 # Page type - we want a landing page (such as a homepage)
 type: landing
 

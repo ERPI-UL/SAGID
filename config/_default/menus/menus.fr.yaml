@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Le projet SAGID+
+  - name: SAGID+
     url: '/#banner'
     weight: 10
   #- name: Participez au projet !

@@ -23,7 +23,7 @@ sections:
     columns: "1"
     view: citation
 
-title: ""
+title: Axe 1
 type: landing
 
 ---
