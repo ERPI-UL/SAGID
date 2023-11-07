@@ -125,7 +125,7 @@ sections:
 
 - block: markdown
   content:    
-    title: "With the support of"
+    title: "Support"
   design:
     spacing:
       padding: ["20px", "0", "20px", "0"]
@@ -140,7 +140,7 @@ sections:
     background: 
       color: 'white'
       image: 
-        filename: funding.png
+        filename: Soutien.jpg
         size: contain
         parallax: false
 

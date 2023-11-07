@@ -28,6 +28,8 @@ image:
   placement: 1
   preview_only: true
 
+share: false
+
 authors:
   - brice
 

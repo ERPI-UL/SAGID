@@ -153,7 +153,7 @@ sections:
     background: 
       color: 'white'
       image: 
-        filename: funding.png
+        filename: Soutien.jpg
         size: contain
         parallax: false
 
