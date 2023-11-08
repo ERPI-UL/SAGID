@@ -5,7 +5,7 @@ summary: |-
 
   Within the chair, the ERPI laboratory is responsible for supervising the research work of the project. It brings its expertise in modeling to highlight causality relationships between decisions and impacts, as well as in the implementation of demonstrators.
 
-date: "2023-09-05"
+date: "2023-09-10"
 #publishDate: "2023-09-01"
 #date_end: "2030-06-01T15:00:00Z"
 

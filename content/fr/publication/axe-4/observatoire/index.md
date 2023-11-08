@@ -26,7 +26,7 @@ tags:
 - axe4
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
-url_pdf: https://drive.google.com/file/d/15xHW4QB07705LAqrpRR5bm0CmlJw2Bjj/view?usp=drive_link
+url_pdf: https://hal.science/hal-04274245v1
 #url_poster: '#'
 #url_project: ""
 #url_slides: ""

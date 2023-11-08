@@ -5,7 +5,7 @@ summary: |-
   
   Au sein de la chaire, le laboratoire ERPI est responsable de l’encadrement des travaux de recherche du projet. Il apporte son savoir-faire en modélisation permettant de mettre en évidence les relations de causalité entre décisions et impacts et en implémentation de démonstrateurs.
 
-date: "2023-09-05"
+date: "2023-09-10"
 #publishDate: "2023-09-01"
 #date_end: "2030-06-01T15:00:00Z"
 

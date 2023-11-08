@@ -5,7 +5,7 @@ summary: |-
   
   Au sein de la chaire, le groupe industriel ACTIBAC, par l’intermédiaire des entreprise NOREMAT et ACCOPILOT, contribue au développement technologique permettant l’acquisition de données et aux études des filières de la bioéconomie en émergence ainsi qu’aux expérimentations sur le territoire.
 
-date: "2023-09-02"
+date: "2023-09-08"
 #publishDate: "2023-09-01"
 #date_end: "2030-06-01T15:00:00Z"
 

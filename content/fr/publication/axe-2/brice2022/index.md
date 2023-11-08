@@ -27,7 +27,7 @@ tags:
 - axe2
 #url_code: ""
 #url_dataset: ""
-url_pdf: https://ieeexplore.ieee.org/document/10033185
+url_pdf: https://hal.science/hal-03987390v1
 #url_poster: ""
 #url_project: ""
 #url_slides: ""

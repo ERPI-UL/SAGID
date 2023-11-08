@@ -5,7 +5,7 @@ summary: |-
 
   Within the chair, the industrial group ACTIBAC, through the companies NOREMAT and ACCOPILOT, contributes to technological development for data acquisition, studies of emerging bioeconomy sectors, and experiments in the territory.
 
-date: "2023-09-02"
+date: "2023-09-09"
 #publishDate: "2023-09-01"
 #date_end: "2030-06-01T15:00:00Z"
 
