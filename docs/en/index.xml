@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My page | SAGID</title>
+    <title>Presentation | SAGID</title>
     <link>https://erpi-ul.github.io/SAGID/en/</link>
       <atom:link href="https://erpi-ul.github.io/SAGID/en/index.xml" rel="self" type="application/rss+xml" />
-    <description>My page</description>
+    <description>Presentation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://erpi-ul.github.io/SAGID/media/icon_huefee54201d62ccde1196a534a2200366_6097_512x512_fill_lanczos_center_3.png</url>
-      <title>My page</title>
+      <title>Presentation</title>
       <link>https://erpi-ul.github.io/SAGID/en/</link>
     </image>
     
@@ -289,38 +289,6 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://erpi-ul.github.io/SAGID/en/axe-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/en/axe-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://erpi-ul.github.io/SAGID/en/axe-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/en/axe-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://erpi-ul.github.io/SAGID/en/axe-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/en/axe-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://erpi-ul.github.io/SAGID/en/axe-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/en/axe-4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://erpi-ul.github.io/SAGID/en/participation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://erpi-ul.github.io/SAGID/en/participation/</guid>
@@ -334,6 +302,46 @@ $$&lt;/p&gt;
       <guid>https://erpi-ul.github.io/SAGID/en/project/example/</guid>
       <description>&lt;p&gt;!()[assets/media/Bords-de-route.png]&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Axis 1</title>
+      <link>https://erpi-ul.github.io/SAGID/en/axe-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/axe-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axis 2</title>
+      <link>https://erpi-ul.github.io/SAGID/en/axe-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/axe-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axis 3</title>
+      <link>https://erpi-ul.github.io/SAGID/en/axe-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/axe-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axis 4</title>
+      <link>https://erpi-ul.github.io/SAGID/en/axe-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/axe-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>https://erpi-ul.github.io/SAGID/en/communaute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/communaute/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -357,14 +365,6 @@ BP 90647 - 54010 Nancy Cedex&lt;/p&gt;
       <link>https://erpi-ul.github.io/SAGID/en/partners/dhda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://erpi-ul.github.io/SAGID/en/partners/dhda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My page</title>
-      <link>https://erpi-ul.github.io/SAGID/en/communaute/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/en/communaute/</guid>
       <description></description>
     </item>
     

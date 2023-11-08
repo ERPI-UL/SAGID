@@ -292,6 +292,23 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>https://erpi-ul.github.io/SAGID/participation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/participation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://erpi-ul.github.io/SAGID/project/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/project/example/</guid>
+      <description>&lt;p&gt;!()[assets/media/Bords-de-route.png]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Axe 1</title>
       <link>https://erpi-ul.github.io/SAGID/axe-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://erpi-ul.github.io/SAGID/axe-1/</guid>
@@ -336,7 +353,7 @@ Cette recherche est la première tentative de développer un modèle basé sur l
     </item>
     
     <item>
-      <title></title>
+      <title>Axe 2</title>
       <link>https://erpi-ul.github.io/SAGID/axe-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://erpi-ul.github.io/SAGID/axe-2/</guid>
@@ -344,7 +361,7 @@ Cette recherche est la première tentative de développer un modèle basé sur l
     </item>
     
     <item>
-      <title></title>
+      <title>Axe 3</title>
       <link>https://erpi-ul.github.io/SAGID/axe-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://erpi-ul.github.io/SAGID/axe-3/</guid>
@@ -352,7 +369,7 @@ Cette recherche est la première tentative de développer un modèle basé sur l
     </item>
     
     <item>
-      <title></title>
+      <title>Axe 4</title>
       <link>https://erpi-ul.github.io/SAGID/axe-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://erpi-ul.github.io/SAGID/axe-4/</guid>
@@ -360,20 +377,11 @@ Cette recherche est la première tentative de développer un modèle basé sur l
     </item>
     
     <item>
-      <title></title>
-      <link>https://erpi-ul.github.io/SAGID/participation/</link>
+      <title>Communauté</title>
+      <link>https://erpi-ul.github.io/SAGID/communaute/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/participation/</guid>
+      <guid>https://erpi-ul.github.io/SAGID/communaute/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://erpi-ul.github.io/SAGID/project/example/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/project/example/</guid>
-      <description>&lt;p&gt;!()[assets/media/Bords-de-route.png]&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -397,14 +405,6 @@ BP 90647 - 54010 Nancy Cedex&lt;/p&gt;
       <link>https://erpi-ul.github.io/SAGID/partners/dhda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://erpi-ul.github.io/SAGID/partners/dhda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My page</title>
-      <link>https://erpi-ul.github.io/SAGID/communaute/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/communaute/</guid>
       <description></description>
     </item>
     
