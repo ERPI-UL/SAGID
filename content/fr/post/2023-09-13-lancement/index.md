@@ -31,9 +31,6 @@ image:
   placement: 2
   preview_only: true
 
-authors:
-  - brice
-
 categories:
   - Événements
 ---

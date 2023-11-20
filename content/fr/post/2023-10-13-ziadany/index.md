@@ -30,9 +30,6 @@ image:
 
 share: false
 
-authors:
-  - brice
-
 categories:
   - Actualités
 

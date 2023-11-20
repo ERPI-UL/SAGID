@@ -10,10 +10,7 @@ summary: "This event is an opportunity to bring together all the partners and st
 projects: []
 
 # Date published
-date: '2023-09-13T00:00:00Z'
-
-# Date updated
-lastmod: '2023-09-15'
+date: '2023-09-13'
 
 # Is this an unpublished draft?
 draft: false
@@ -30,9 +27,6 @@ image:
   focal_point: ''
   placement: 2
   preview_only: true
-
-authors:
-  - brice
 
 categories:
   - Event

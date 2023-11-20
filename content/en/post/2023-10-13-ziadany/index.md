@@ -11,9 +11,6 @@ projects: []
 # Date published
 date: '2023-10-12'
 
-# Date updated
-lastmod: '2023-10-12'
-
 # Is this an unpublished draft?
 draft: false
 
@@ -29,9 +26,6 @@ image:
   focal_point: ''
   placement: 1
   preview_only: true
-
-authors:
-  - brice
 
 categories:
   - News
