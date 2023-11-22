@@ -31,6 +31,17 @@
     
     <item>
       <title>👩🏻‍🏫 Nouvelle thèse lancée</title>
+      <link>https://erpi-ul.github.io/SAGID/post/2023-11-20-ignacio/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/post/2023-11-20-ignacio/</guid>
+      <description>&lt;p&gt;Ignacio Castañeda-Rodríguez est un ingénieur industriel chilien diplômé de l&amp;rsquo;Université de Santiago du Chili, avec des intérêts de recherche axés sur la conception de chaînes d&amp;rsquo;approvisionnement à travers les processus et la gestion des déchets. Sa ligne de recherche se concentre sur la conception de chaînes d&amp;rsquo;approvisionnement durables grâce à l&amp;rsquo;optimisation multi-objectif, développant non seulement la dimension économique, mais aussi les aspects environnementaux, sociaux, politiques et technologiques de la durabilité. Il promeut également le développement de la production et du recyclage à l&amp;rsquo;échelle locale distribuée. Ignacio a travaillé sur différents projets de recherche liés à la conception de chaînes d&amp;rsquo;approvisionnement et au recyclage distribué.&lt;/p&gt;
+&lt;p&gt;Ignacio a obtenu son diplôme de bachelier en sciences de l&amp;rsquo;ingénierie à l&amp;rsquo;Université de Santiago, et également de la même institution, il détient un diplôme de master en sciences de l&amp;rsquo;ingénierie avec une mention en génie industriel, dans le domaine de l&amp;rsquo;optimisation et de la recherche opérationnelle. Il a remporté une bourse française pour effectuer un stage de recherche à l&amp;rsquo;Université de Lorraine à Nancy (France), où il a travaillé sur le recyclage distribué au sein de l&amp;rsquo;équipe de recherche sur les processus d&amp;rsquo;innovation (ERPI) au Lorraine Fab Living Lab (LF2F). De plus, il a participé à différentes conférences internationales sur les sujets de la recherche opérationnelle et de la technologie dans des pays tels que l&amp;rsquo;Argentine, le Brésil et l&amp;rsquo;Espagne.&lt;/p&gt;
+&lt;p&gt;Il est un jeune chercheur travailleur, responsable et engagé, doté de compétences dans des logiciels tels que Python, GAMS et MATLAB pour l&amp;rsquo;optimisation ; R, pour la statistique et l&amp;rsquo;analyse de mégadonnées ; SimaPro pour les évaluations du cycle de vie, et LaTeX pour la rédaction. Il a reçu un prix pour son engagement en tant que jeune chercheur du département d&amp;rsquo;ingénierie de l&amp;rsquo;Université de Santiago du Chili.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>👩🏻‍🏫 Nouvelle thèse lancée</title>
       <link>https://erpi-ul.github.io/SAGID/post/2023-10-13-ziadany/</link>
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://erpi-ul.github.io/SAGID/post/2023-10-13-ziadany/</guid>
@@ -71,8 +82,25 @@
     <item>
       <title>Laboratoire ERPI</title>
       <link>https://erpi-ul.github.io/SAGID/partners/erpi/</link>
-      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://erpi-ul.github.io/SAGID/partners/erpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actibac</title>
+      <link>https://erpi-ul.github.io/SAGID/partners/actibac/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/partners/actibac/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Des Hommes et Des Arbres -DHDA-</title>
+      <link>https://erpi-ul.github.io/SAGID/partners/dhda/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/partners/dhda/</guid>
       <description></description>
     </item>
     
@@ -90,15 +118,6 @@
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://erpi-ul.github.io/SAGID/partners/loria/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Actibac</title>
-      <link>https://erpi-ul.github.io/SAGID/partners/actibac/</link>
-      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/partners/actibac/</guid>
-      <description>&lt;hr&gt;
-</description>
     </item>
     
     <item>
@@ -398,14 +417,6 @@ Enseignant Chercheur - Université de Lorraine &lt;br&gt;
 8 rue Bastien Lepage&lt;br&gt;
 BP 90647 - 54010 Nancy Cedex&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Des Hommes et Des Arbres -DHDA-</title>
-      <link>https://erpi-ul.github.io/SAGID/partners/dhda/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/partners/dhda/</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -31,6 +31,17 @@
     
     <item>
       <title>👩🏻‍🏫 New thesis launched</title>
+      <link>https://erpi-ul.github.io/SAGID/en/post/2023-11-20-ignacio/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/post/2023-11-20-ignacio/</guid>
+      <description>&lt;p&gt;Ignacio Castañeda-Rodríguez is a Chilean industrial engineer from the University of Santiago of Chile with research interests in supply chain designing through processes and waste management. His research line is the design of sustainable supply chains through multi-objective optimization, developing not only the economic area, but also the environmental, social, political, and technological dimensions of sustainability, and promoting the development of distributed local scale production and recycling. He has worked on different research projects related to supply chain design and distributed recycling.&lt;/p&gt;
+&lt;p&gt;Ignacio earned his Bachelor’s degree of Science in Engineering at the University of Santiago, and also, from the same house of studies, he has a master’s degree of Science in engineering with mention in Industrial engineering, in the scope of optimization and operation research. He won a French scholarship to do a research internship at the University of Lorraine in Nancy (France), where he worked on distributed recycling in the Research Team on Innovation Process (ERPI) at the Lorraine Fab Living Lab (LF2F). In addition, he has participated in different international conferences on the topics of operation research and technology in countries such as Argentina, Brazil, and Spain.&lt;/p&gt;
+&lt;p&gt;He is a hard-working, responsible, and committed young researcher with competencies in software such as Python, GAMS, and MATLAB for optimization; R, for statistics and big data analysis; SimaPro for Life Cycle Assessments, and Latex for writing. He has received an award for his commitment as a young researcher from the Engineering Department at the University of Santiago of Chile.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>👩🏻‍🏫 New thesis launched</title>
       <link>https://erpi-ul.github.io/SAGID/en/post/2023-10-13-ziadany/</link>
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://erpi-ul.github.io/SAGID/en/post/2023-10-13-ziadany/</guid>
@@ -69,8 +80,24 @@ Workshop 3: &amp;ldquo;Prospective: Reflections on the Drivers and Barriers for 
     <item>
       <title>ERPI Laboratory</title>
       <link>https://erpi-ul.github.io/SAGID/en/partners/erpi/</link>
-      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://erpi-ul.github.io/SAGID/en/partners/erpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actibac</title>
+      <link>https://erpi-ul.github.io/SAGID/en/partners/actibac/</link>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/partners/actibac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Des Hommes et Des Arbres -DHDA-</title>
+      <link>https://erpi-ul.github.io/SAGID/en/partners/dhda/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://erpi-ul.github.io/SAGID/en/partners/dhda/</guid>
       <description></description>
     </item>
     
@@ -87,14 +114,6 @@ Workshop 3: &amp;ldquo;Prospective: Reflections on the Drivers and Barriers for 
       <link>https://erpi-ul.github.io/SAGID/en/partners/loria/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://erpi-ul.github.io/SAGID/en/partners/loria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Actibac</title>
-      <link>https://erpi-ul.github.io/SAGID/en/partners/actibac/</link>
-      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/en/partners/actibac/</guid>
       <description></description>
     </item>
     
@@ -358,14 +377,6 @@ Enseignant Chercheur - Université de Lorraine &lt;br&gt;
 8 rue Bastien Lepage&lt;br&gt;
 BP 90647 - 54010 Nancy Cedex&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Des Hommes et Des Arbres -DHDA-</title>
-      <link>https://erpi-ul.github.io/SAGID/en/partners/dhda/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://erpi-ul.github.io/SAGID/en/partners/dhda/</guid>
-      <description></description>
     </item>
     
   </channel>
