@@ -26,6 +26,8 @@ sections:
 title: Axe 1
 type: landing
 
+share: false
+
 ---
 
 Cet axe de recherche peut lui-même être décomposé en différentes activités:

@@ -28,7 +28,7 @@ image:
   preview_only: true
 
 categories:
-  - News
+  - Actualités
 
 ---
 
