@@ -12,4 +12,4 @@ brunelle.marche@univ-lorraine.fr <br>
 
 ERPI - Equipe de Recherche sur les Processus Innovatifs<br>
 8 rue Bastien Lepage<br>
-BP 90647 - 54010 Nancy Cedex
+BP 90647 - 54000 Nancy Cedex
