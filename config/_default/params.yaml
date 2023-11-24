@@ -14,11 +14,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Project
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Université de Lorraine'
+    description: 'Site de présentation de la chaire SAGID+, Soutien aux métiers d'Accoroutiste à travers une Gestion Intégrale et. Durable des dépendances vertes'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
