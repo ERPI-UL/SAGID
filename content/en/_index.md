@@ -106,17 +106,17 @@ sections:
     title: Axes of research
     subtitle: The project is structured around 4 axes.
     items:
-      - name: "<a href='/SAGID/axe-1-en/'>Assessment of Ecosystem Services Provided by Roadside</a>"     
+      - name: "<a href='/SAGID/en/axe-1/'>Assessment of Ecosystem Services Provided by Roadside</a>"     
         icon: Icon-ES
         icon_pack: custom
         url: /axes/axe-1
-      - name: "<a href='/SAGID/axe-2-en/'>New Tools for Strategic Guidance and Decision Support</a>"
+      - name: "<a href='/SAGID/en/axe-2/'>New Tools for Strategic Guidance and Decision Support</a>"
         icon: Icon-Bio
         icon_pack: custom
-      - name: "<a href='/SAGID/axe-3-en/'>Integration into New Bioeconomy Sectors</a>"
+      - name: "<a href='/SAGID/en/axe-3/'>Integration into New Bioeconomy Sectors</a>"
         icon: Icon-Strategy
         icon_pack: custom
-      - name: "<a href='/SAGID/axe-4-en/'>Supporting Territories in the Evolution of Practices</a>"
+      - name: "<a href='/SAGID/en/axe-4/'>Supporting Territories in the Evolution of Practices</a>"
         icon: Icon-Pedagogy
         icon_pack: custom  
   design:
