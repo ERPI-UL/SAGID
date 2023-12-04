@@ -120,16 +120,16 @@ sections:
     title: Axes de Recherche
     subtitle: Le projet est structué autour de 4 axes
     items:
-      - name: "<a href='/SAGID/axe-1/'>Évaluation des services écosystémiques rendus par les bords de route</a>"     
+      - name: "<a href='/axe-1/'>Évaluation des services écosystémiques rendus par les bords de route</a>"     
         icon: Icon-ES
         icon_pack: custom
-      - name: "<a href='/SAGID/axe-2/'>Nouveaux outils d’orientation stratégique et d’accompagnement à la prise de décision</a>"
+      - name: "<a href='/axe-2/'>Nouveaux outils d’orientation stratégique et d’accompagnement à la prise de décision</a>"
         icon: Icon-Bio
         icon_pack: custom
-      - name: "<a href='/SAGID/axe-3/'>Intégration dans les nouvelles filières de la bioéconomie</a>"
+      - name: "<a href='/axe-3/'>Intégration dans les nouvelles filières de la bioéconomie</a>"
         icon: Icon-Strategy
         icon_pack: custom
-      - name: "<a href='/SAGID/axe-4/'>Accompagnement des territoires dans l’évolution des pratiques</a>"
+      - name: "<a href='/axe-4/'>Accompagnement des territoires dans l’évolution des pratiques</a>"
         icon: Icon-Pedagogy
         icon_pack: custom  
   design:
