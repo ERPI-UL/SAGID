@@ -8,6 +8,7 @@ title: "SAGID+" # Website name
 baseURL: 'https://erpi-ul.github.io/SAGID/' # Website URL
 publishDir: docs  # To establish the output folder for Github configuration
 
+google_site_verification: 4_jWgCztjAGCJ1il2k6qZ-HMCWubPjAR8TWrq8cEYCM
 
 ############################
 ## LANGUAGE
