@@ -1,7 +1,9 @@
 ---
-<meta name="google-site-verification" content="4_jWgCztjAGCJ1il2k6qZ-HMCWubPjAR8TWrq8cEYCM" />
 # Page title
 title: Présentation
+
+meta name: "google-site-verification" 
+  content: "4_jWgCztjAGCJ1il2k6qZ-HMCWubPjAR8TWrq8cEYCM"
 # Page type - we want a landing page (such as a homepage)
 type: landing
 sections:
