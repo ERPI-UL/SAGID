@@ -7,9 +7,9 @@ main:
   - name: SAGID+
     url: '/#banner'
     weight: 10
-  #- name: Participez au projet !
-  #  url: '/participation'
-  #  weight: 20
+  - name: La communauté 
+    url: 'communaute/'
+    weight: 20
   - name: Les axes du projet
     identifier: axes
     weight: 30
@@ -33,8 +33,8 @@ main:
   - name: Actualités et événements
     url: '/post'
     weight: 40
-  - name: Communauté
-    url: 'communaute/'
+  - name: Acteurs de la chaire
+    url: 'acteurs/'
     weight: 60
   - name: Contact
     url: 'contact/'
