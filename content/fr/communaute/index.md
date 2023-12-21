@@ -1,4 +1,7 @@
 ---
+
+title: La communauté
+
 sections:
 - block: markdown
   id: banner

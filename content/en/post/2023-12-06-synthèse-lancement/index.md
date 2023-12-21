@@ -28,7 +28,7 @@ image:
   preview_only: false
 
 categories:
-  - Événements
+  - Events
 
 ---
 

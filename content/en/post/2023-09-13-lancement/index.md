@@ -29,7 +29,7 @@ image:
   preview_only: true
 
 categories:
-  - Event
+  - Events
 ---
 
 We are pleased to announce the launch of the chair 'Support for Roadside Vegetation Management Professions through Comprehensive and Sustainable Management' (SAGID+). Through this chair, we aim to develop 'turnkey' tools and methods capable of assessing the sustainability of roadside management practices, contribute to the evolution of eco-responsible behaviors, and integrate the profession of roadside vegetation manager into bioeconomy sectors.
