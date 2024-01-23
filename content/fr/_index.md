@@ -172,7 +172,7 @@ sections:
     background: 
       color: 'white'
       image: 
-        filename: Logos_Partenaires.jpeg
+        filename: Logos_partenaires.jpg
         size: contain
         parallax: false
 
