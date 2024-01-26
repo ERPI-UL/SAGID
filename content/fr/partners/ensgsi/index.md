@@ -1,7 +1,7 @@
 ---
 title: ENSGSI
 summary: |-
-  L'Ecole Nationale Supérieure en Génie des Systèmes et de l'Innovation (ENSGSI) est une composante de l'Université de Lorraine et fait partie du collégium Lorraine INP.  Elle sera impliquée dans le volet formation de la chaire, l’ensemble de ces compétences et outils permettra aux nouveaux diplômes d’avoir une vision globale et intégrale de leurs projets. 
+  L'Ecole Nationale Supérieure en Génie des Systèmes et de l'Innovation (ENSGSI) est une composante de l'Université de Lorraine et fait partie du collégium Lorraine INP.  Elle sera impliquée dans le volet formation de la chaire, l’ensemble de ces compétences et outils permettra aux nouveaux diplômés d’avoir une vision globale et intégrale de leurs projets. 
 
 date: "2023-09-02"
 #publishDate: "2023-09-01"
