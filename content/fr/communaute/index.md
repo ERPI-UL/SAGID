@@ -87,7 +87,18 @@ sections:
     background:
       color: 'white'
     spacing:
-      padding: ["50px", "0", "20px", "0"]    
+      padding: ["50px", "0", "20px", "0"] 
+- block: markdown    
+  design:
+    columns: '1'    
+    spacing:
+      padding: ["0px", "80", "150px", "0"]
+    background: 
+      color: 'white'
+      image: 
+        filename: Collectivite_logo.jpg
+        size: contain
+        parallax: false
 
 
 title: ""
