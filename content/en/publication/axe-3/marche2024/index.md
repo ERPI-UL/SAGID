@@ -7,7 +7,7 @@ authors:
 - Mauricio Camargo
 - Christophe Bachmann
 
-date: "2024-04-07T00:00:00Z"
+date: "2024-01-07T00:00:00Z"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
@@ -26,7 +26,7 @@ tags:
 - axe3
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://hal.science/hal-04381955/document
 #url_poster: '#'
 #url_project: ""
 #url_slides: ""
@@ -34,4 +34,3 @@ tags:
 #url_video: '#'
 ---
 
-Article à paraître
