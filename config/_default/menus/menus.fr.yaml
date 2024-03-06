@@ -8,8 +8,16 @@ main:
     url: '/#banner'
     weight: 10
   - name: La communauté 
-    url: 'communaute/'
+    identifier: communaute
     weight: 20
+  - name: Un intérêt commun à collaborer
+    parent: communaute
+    url: 'communaute/'
+    weight: 21
+  - #name: Forum SAGID+
+    #parent: communaute
+    #url: https://forumsagid.forumactif.com
+    #weight: 22
   - name: Les axes du projet
     identifier: axes
     weight: 30

@@ -34,7 +34,7 @@ main:
     url: 'en/post/'
     weight: 50
   - name: Community
-    url: 'communaute/'
+    url: 'acteurs/'
     weight: 60
   - name: Contact
     url: 'contact/'
