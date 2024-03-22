@@ -83,6 +83,8 @@ sections:
       Personne contact: Frédérique Morin, Référente gestion durable dépendances vertes et bleues (frederique.morin@cotesdarmor.fr)
 
       **La communauté de communes des Terres Touloises:** cette collaboration qui date d'avant le lancement de la chaire industrielle a permis de réaliser les premières expérimentations et avoir un premier aperçu des fonctionnement d'une collectivité en matière d'entretien des espaces verts. Dernièrement la communauté de communes des Terres Touloises a été mobilisée dans le cadre d'un module de cours de l'ENSGSI visant à développer un dispositif de sensibilisation concernant la gestion des dépendances vertes.
+
+      **La métropole du Grand Nancy:** les objectifs sont de collecter des données sur les chantiers d'entretien. Plusieurs expérimentations seront également menées en parallèle dans le but d'évaluer les impacts de changements dans les pratiques d'entretien. Les changements de pratiques concernent notamment la hauteur de fauche, les périodes de fauchage ainsi que la mise en place de fauchage en damier.
   design:
     background:
       color: 'white'
