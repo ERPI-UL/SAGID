@@ -1,12 +1,12 @@
 ---
 
-title: D'autres projets
+title: Projets d'intérêt
 
 sections:
 - block: markdown
   id: banner
   content:
-    title: D'autres projets d'intérêt
+    title: Projets d'intérêt
   design:
     columns: '1'
     background: 
