@@ -43,7 +43,7 @@ sections:
     text: |-
       Le projet de recherche et développement RESP'HAIES (RESilience et Performances des exploitations agricoles liées aux HAIES) s’est déroulé de 2019 à 2022 avec pour objectif de renforcer les connaissances sur les haies. Coordonné par l’Afac-Agroforesteries, ce projet a bénéficié du soutien du ministère de l’Agriculture et de la Souveraineté Alimentaire.
 
-      Les objectfis de ce projet étaient très similaires à ceux viser par SAGID+:
+      Les objectfis de ce projet étaient très similaires à ceux visés par SAGID+:
       - Produire de nouveaux outils et référentiels qui seront mis à disposition des agriculteurs et de tous les acteurs qui mènent des actions sur les haies (conseillers-techniciens agroforestiers, gestionnaires territoriaux, enseignants-formateurs, apprenants)
       - Guider l'action publique en faveur des haies.
 
