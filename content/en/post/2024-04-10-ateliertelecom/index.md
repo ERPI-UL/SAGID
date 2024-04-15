@@ -32,9 +32,9 @@ categories:
 
 ---
 
-Over two days, students from Telecom Nancy applied their skills to advance discussions on intelligent territory management, particularly focusing on roadsides. Under the guidance of Laurent Dupont (research engineer at UL) and Didier Grimaldi (researcher at La Salle University in Barcelona), eight students delved into the topic of "Smart Territory" through the SAGID+ case study.
+Over two days, students from Telecom Nancy applied their skills to advance discussions on intelligent territory management, particularly focusing on roadsides. Under the guidance of Laurent Dupont (research engineer - ENSGSI - ERPI (UL)) and Didier Grimaldi (researcher at La Salle University in Barcelona), eight students delved into the topic of "Smart Territory" through the SAGID+ case study.
 
-Taking advantage of the LF2L Living Lab space, three working groups were formed to address three different themes within this short timeframe:
+Taking advantage of the LF2L collaborative space, three working groups were formed to address three different themes within this short timeframe:
 
 Data collection from expert organizations (e.g., OFB, IGN, etc.) or through reports (farmers, residents, etc.)
 Data exploitation, functionalities aimed at users
