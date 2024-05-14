@@ -35,6 +35,6 @@ categories:
   - Actualités
 ---
 
-Suite aux travaux scientifiques publiés dans l'article scientifique [Valorisation de la biomasse des bords de route : les apports des démonstrateurs pour le déploiement d’une filière durable](https://hal.science/hal-04423693v1), les recherches réalisées sur la valorisation de la biomasse des bords de route a été valorisée dans un article de blog dans [Alternatives Economiques](https://www.alternatives-economiques.fr), le blog du Réseau de Recherche sur l'Innovation.
+Suite aux travaux scientifiques publiés dans l'article scientifique [Valorisation de la biomasse des bords de route : les apports des démonstrateurs pour le déploiement d’une filière durable](https://hal.science/hal-04423693v1), les résultats de cet article ont été résumés dans un article de blog dans [Alternatives Economiques](https://www.alternatives-economiques.fr), le blog du Réseau de Recherche sur l'Innovation.
 
 [Lien vers l'article.](https://blogs.alternatives-economiques.fr/reseauinnovation/2024/05/08/la-biomasse-des-bords-de-route-source-d-energie-durable)
