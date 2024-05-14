@@ -45,6 +45,6 @@ Sébastien Demange, directeur digital du groupe Actibac, est venu faire profiter
 
 ![Tests](tests.jpg)
 
-Les étudiants ont pu testé leur algorithme de reconnaissance par intelligence artificielle en conditions extérieurs. Les premiers résultats sont encourageants et pourraient donner lieu à une poursuite des travaux.
+Les étudiants ont pu tester leur algorithme de reconnaissance par intelligence artificielle en conditions extérieurs. Les premiers résultats sont encourageants et pourraient donner lieu à une poursuite des travaux.
 
 Une restitution de l'ensemble des travaux aura lieu fin avril et l'objectif pour les étudiants sera de présenter un ensemble d'idée cohérent.
