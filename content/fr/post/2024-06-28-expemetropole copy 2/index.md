@@ -41,11 +41,13 @@ Dans le cadre du projet de recherche SAGID+, mobilisant l’Université de Lorra
 
 Ce matin, la société Orme Paysage a réalisé pour le compte de la métropole du fauchage alterné sur la commune de Ludres, route de Mirecourt.
 
-![Zone non fauchée](fauchealternee.jpg)
+![Fauche](tracteurfauche.jpg)
 
 Cette alternance entre zones fauchées et non fauchées d'environ 50m permet de garder tout au long de l'année des zones qui peuvent fournir un refuge pour la biodiversité. 
 Les zones non fauchées aujourd'hui le seront à l'automne fin septembre. 
 L'année prochaine, les dates de fauche des différentes zones seront inversées.
+
+![Zone non fauchée](fauchealternee.jpg)
 
 Trois autres sites d'expérimentation sont prévus pour l'année 2025 à Malzéville, Essey et Jarville.
 Un suivi des populations d'insectes pollinisateurs sera effectué sur certains secteurs afin de pouvoir mesurer l'impact de ces nouvelles pratiques sur ces populations.
