@@ -24,7 +24,7 @@ sections:
 
 - block: markdown
   content:    
-    title: Les bords de route
+    title: La gestion durable des dépendances vertes 
     text: |-
       
       Les infrastructures de transport, composées des voies de circulation et de leurs dépendances vertes, sont au cœur des préoccupations liées au développement durable des territoires. Elles impliquent simultanément des sujets liés à la préservation de l’environnement, ainsi que des éléments d’ordre économique associés au transport, à la sécurité routière et au cadre de vie entre autres.
