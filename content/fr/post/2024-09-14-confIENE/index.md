@@ -47,11 +47,13 @@ Cela a commencé mardi après-midi avec la présentation de Ziadany à propos de
 
 Brice a ensuite présenté les résultats obtenus lors de l'enquête réalisée en 2022 auprès des départements français. Cela a également permis d'exposer les objectifs du projet et de les faire connaître auprès de la communauté.
 
+![Brice](brice.jpg)
+
 Dans la foulée, Ignacio a pu présenter son poster sur l'optimisation multi-approche des activités d'entretien des bords de route au cours d'une session où les intéressés se sont succédés.
 
 ![Ignacio](ignacio.jpg)
 
-Oûtre ces présentations, nous avons pu assister à de nombreuses présentations très intéressantes sur des sujets variés. Nous avons ainsi pu prendre connaissance du travail commun réalisé par l'INRAE et la SNCF sur le traitement par bâchage de la Renouée du Japon, des expérimentations menées par la Suède sur la collecte de la biomasse ou encore le développement d'un système d'intelligence artificielle pour la reconnaissance d'espèces végétales au Danemark entre autres.
+Outre ces présentations, nous avons pu assister à de nombreuses présentations très intéressantes sur des sujets variés. Nous avons ainsi pu prendre connaissance du travail commun réalisé par l'INRAE et la SNCF sur le traitement par bâchage de la Renouée du Japon, des expérimentations menées par la Suède sur la collecte de la biomasse ou encore le développement d'un système d'intelligence artificielle pour la reconnaissance d'espèces végétales au Danemark entre autres.
 
 Les nombreuses discussions que nous avons pu avoir nous ont permis de faire la connaissance de chercheurs ou d'acteurs du territoire faisant face à des problématiques similaires à celle que nous rencontrons et pourraient être le début de futures collaborations.
 
