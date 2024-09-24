@@ -47,6 +47,8 @@ This started on Tuesday afternoon with Ziadany's presentation on the characteriz
 
 Brice then presented the results obtained from the 2022 survey conducted with French departments. This also provided an opportunity to outline the project's goals and raise awareness within the community.
 
+![Brice](brice.jpg)
+
 Following this, Ignacio had the chance to present his poster on the multi-approach optimization of roadside maintenance activities during a session where attendees could walk around and discuss the work presented.
 
 ![Ignacio](ignacio.jpg)
