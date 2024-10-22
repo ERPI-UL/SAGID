@@ -89,5 +89,42 @@ sections:
     spacing:
       padding: ["50px", "0", "20px", "0"]  
 
+- block: markdown
+  content:    
+    title: The SPIGEst association
+  design:
+    background:
+      color: 'white'
+    spacing:
+      padding: ["50px", "0", "20px", "0"]    
+- block: markdown    
+  design:
+    columns: '1'    
+    spacing:
+      padding: ["0px", "40", "150px", "0"]
+    background: 
+      color: 'white'
+      image: 
+        filename: spigest_logo.jpg
+        size: contain
+        parallax: false
+- block: markdown
+  content:    
+    text: |-
+      The association "Synergie Plantes Invasives Grand Est", [SPIGEst](https://spigestinvasives.com) aims to bring together actors from public, academic, associative, and professional spheres involved in the fight against invasive plants.
+      The main objectives of SPIGEst are:
+      - to acquire new technical and scientific knowledge about these plants and their invasion strategies,
+      - to identify and map their areas of establishment,
+      - to develop effective control methods to limit the spread of these plants, which are economically sustainable and socially acceptable,
+      - to raise awareness and disseminate the results of its experimental work to various communities.
+
+      The work carried out within this association has notably led to the publication of a scientific article: ["Ecological restoration combining mowing and competition limits the development of invasive Reynoutria japonica"](https://hal.univ-lorraine.fr/hal-04647748).
+      
+  design:
+    background:
+      color: 'white'
+    spacing:
+      padding: ["50px", "0", "20px", "0"]  
+
 type: landing
 ---
