@@ -1,5 +1,5 @@
 ---
-title: Début d'un contrat en alterance
+title: Début d'un contrat en alternance
 subtitle: "Bahae fait son retour dans l'équipe en débutant son contrat en alternance"
 
 # Summary for listings and search engines
