@@ -9,10 +9,10 @@ summary: "Rodrigo joins the team to contribute to the development of the SAGID+ 
 projects: []
 
 # Date published
-date: '2024-11-04'
+date: '2024-11-12'
 
 # Date updated
-lastmod: '2024-11-04'
+lastmod: '2024-11-12'
 
 # Is this an unpublished draft?
 draft: false
@@ -25,7 +25,7 @@ featured: false
 image:
   caption: ''
   focal_point: ''
-  placement: 1
+  placement: ''
   preview_only: true
 
 share: false

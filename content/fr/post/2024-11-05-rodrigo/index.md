@@ -25,7 +25,7 @@ featured: false
 image:
   caption: ''
   focal_point: ''
-  placement: 1
+  placement: ''
   preview_only: true
 
 share: false
