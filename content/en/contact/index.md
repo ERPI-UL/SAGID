@@ -150,7 +150,7 @@ sections:
     text: |-
       <center>
 
-      PhD candidate on the chair SAGID+ <br>
+      PhD student on the chair SAGID+ <br>
       ziadany.mayoral-solis@univ-lorraine.fr
 
       <center>
@@ -185,8 +185,183 @@ sections:
     text: |-
       <center>
 
-      PhD candidate on the chair SAGID+ <br>
+      PhD student on the chair SAGID+ <br>
       ignacio.castaneda@univ-lorraine.fr
+
+      <center>
+  design:
+    background:
+      color: 'white'
+    spacing:
+      padding: ["50px", "0", "20px", "0"]  
+
+- block: markdown
+  content:    
+    title: Aly Kounta
+  design:
+    background:
+      color: 'white'
+    columns: '1'
+    spacing:
+      padding: ["40px", "0", "20px", "0"]    
+- block: markdown    
+  design:
+    columns: '1'    
+    spacing:
+      padding: ["0px", "0", "250px", "0"]
+    background: 
+      color: 'white'
+      image: 
+        filename: aly.jpg
+        size: contain
+        parallax: false
+- block: markdown
+  content:    
+    text: |-
+      <center>
+
+      Geomatician engineer on SAGID+ project <br>
+      aly.kounta@univ-lorraine.fr
+
+      <center>
+  design:
+    background:
+      color: 'white'
+    spacing:
+      padding: ["50px", "0", "20px", "0"]  
+
+- block: markdown
+  content:    
+    title: Rodrigo Contreras
+  design:
+    background:
+      color: 'white'
+    columns: '1'
+    spacing:
+      padding: ["40px", "0", "20px", "0"]    
+- block: markdown    
+  design:
+    columns: '1'    
+    spacing:
+      padding: ["0px", "0", "250px", "0"]
+    background: 
+      color: 'white'
+      image: 
+        filename: rodrigo.png
+        size: contain
+        parallax: false
+- block: markdown
+  content:    
+    text: |-
+      <center>
+
+      PhD student on the chair SAGID+ <br>
+      rodrigo-alexis.contreras-nunez@univ-lorraine.fr
+
+      <center>
+  design:
+    background:
+      color: 'white'
+    spacing:
+      padding: ["50px", "0", "20px", "0"]  
+
+- block: markdown
+  content:    
+    title: Mathias Couraud
+  design:
+    background:
+      color: 'white'
+    columns: '1'
+    spacing:
+      padding: ["40px", "0", "20px", "0"]    
+- block: markdown    
+  design:
+    columns: '1'    
+    spacing:
+      padding: ["0px", "0", "250px", "0"]
+    background: 
+      color: 'white'
+      image: 
+        filename: mathias.jpg
+        size: contain
+        parallax: false
+- block: markdown
+  content:    
+    text: |-
+      <center>
+
+      PhD student on the chair SAGID+ <br>
+      mathias.couraud@univ-lorraine.fr
+
+      <center>
+  design:
+    background:
+      color: 'white'
+    spacing:
+      padding: ["50px", "0", "20px", "0"]  
+
+- block: markdown
+  content:    
+    title: Lorena Espinoza Perez
+  design:
+    background:
+      color: 'white'
+    columns: '1'
+    spacing:
+      padding: ["40px", "0", "20px", "0"]    
+- block: markdown    
+  design:
+    columns: '1'    
+    spacing:
+      padding: ["0px", "0", "250px", "0"]
+    background: 
+      color: 'white'
+      image: 
+        filename: lorena.jpg
+        size: contain
+        parallax: false
+- block: markdown
+  content:    
+    text: |-
+      <center>
+
+      PhD student on the chair SAGID+ <br>
+      lorena.espinoza-perez@univ-lorraine.fr
+
+      <center>
+  design:
+    background:
+      color: 'white'
+    spacing:
+      padding: ["50px", "0", "20px", "0"]  
+
+- block: markdown
+  content:    
+    title: Bahae Bekkouche
+  design:
+    background:
+      color: 'white'
+    columns: '1'
+    spacing:
+      padding: ["40px", "0", "20px", "0"]    
+- block: markdown    
+  design:
+    columns: '1'    
+    spacing:
+      padding: ["0px", "0", "250px", "0"]
+    background: 
+      color: 'white'
+      image: 
+        filename: bahae.jpeg
+        size: contain
+        parallax: false
+- block: markdown
+  content:    
+    text: |-
+      <center>
+
+      Intern student at ACTIBAC <br>
+      m.bekkouche@actibac.fr
 
       <center>
   design:

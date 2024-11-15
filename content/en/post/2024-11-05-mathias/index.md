@@ -39,5 +39,9 @@ The SAGID+ team welcomes a new member, Mathias Couraud.
 Mathias is starting his PhD today, with the objective of developing a recommendation system to guide policy-making for the maintenance of roadside green areas.
 Here is his introduction:
 
+My name is Mathias Couraud, and I am an engineer in data and artificial intelligence (AI) with a degree from ECE Paris. Over the course of my career, I worked at Dassault Systèmes on the HomeByMe product, where I developed an AI-powered image filtering solution for a search engine. Later, during my final internship at the French Alternative Energies and Atomic Energy Commission (CEA) in Cadarache, I contributed to an anomaly detection project for an experimental device within the ITER project. Finally, my capstone project focused on using AI techniques to solve complex astrophysics equations.
 
+Deeply passionate about recent advancements in AI, I am joining the SAGID+ chair today to work on Area 2: new strategic orientation tools and decision-making support. My doctoral research will focus on designing a decision-support system for the sustainable management of roadside green areas.
+
+Welcome, Mathias!*
 
