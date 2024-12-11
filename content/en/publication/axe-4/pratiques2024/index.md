@@ -1,6 +1,6 @@
 ---
-title: "Aperçu des pratiques d'entretien durable mises en place"
-abstract: "Ce rapport vise à comprendre et à diffuser la manière dont les territoires mettent en place des pratiques d’entretien vertueuses pour l’environnement et les impacts qui peuvent en découler. Ce rapport vise à recenser et à promouvoir les initiatives d’évolution des pratiques d’entretien des bords de route portées par dix-sept départements français métropolitains, incluant le fauchage différencié, la gestion des déchets et des plantes invasives, ainsi que des actions préventives contre les risques d’inondation. En adoptant ces pratiques, les gestionnaires des infrastructures routières espèrent contribuer de manière proactive à la protection des écosystèmes locaux et à la sécurité des citoyens."
+title: "Overview of sustainable maintenance practices implemented in french department"
+abstract: "This report aims to understand and disseminate how regions implement environmentally friendly maintenance practices and the impacts they may have. It seeks to catalog and promote initiatives to evolve roadside maintenance practices undertaken by seventeen metropolitan French departments, including differentiated mowing, waste management, control of invasive plants, and preventive actions against flood risks. By adopting these practices, road infrastructure managers aim to proactively contribute to the protection of local ecosystems and the safety of citizens."
 authors:
 - Brice Corrigeux
 - Brunelle Marche

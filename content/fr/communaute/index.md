@@ -18,13 +18,46 @@ sections:
         position: center  
         parallax: false
         text_color_light: true
+
+- block: markdown
+  content:    
+    title: La communauté "Gestion des dépendances vertes routières"
+  design:
+    background:
+      color: 'white'
+    spacing:
+      padding: ["50px", "0", "20px", "0"]
+- block: markdown    
+  design:
+    columns: '1'    
+    spacing:
+      padding: ["0px", "40", "150px", "0"]
+    background: 
+      color: 'white'
+      image: 
+        filename: bandeau_communaute.png
+        size: contain
+        parallax: false
+- block: markdown
+  content:    
+    text: |-
+      Les bords de route peuvent être un atout essentiel de notre territoire et il est important de mieux les connaître afin de préserver et valoriser les services et externalités qu’ils nous rendent. La chaire a pour vocation d’être un espace d’échange, de restitution et de mise à disposition des connaissances. 
+
+      Pour répondre à cet objectif, nous avons décidé de créer une communauté d'échange sur la gestion des dépendances vertes routières. Cette communauté est hébergée sur la plateforme [Expertises Territoires](https://www.expertises-territoires.fr) gérée par le CEREMA. 
+
+      Créez gratuitement un compte sur la plateforme et demandez à rejoindre la communauté "Gestion des dépendances vertes routières" pour avoir accès à son contenu et participer aux réflexions pour un entretien durable du territoire.
+
+  design:
+    background:
+      color: 'white'
+    spacing:
+      padding: ["50px", "0", "20px", "0"]
+
 - block: markdown
   content:    
     title: Un intérêt commun à collaborer
     text: |-
-      Les bords de route peuvent être un atout essentiel de notre territoire et il est important de mieux les connaître afin de préserver et valoriser les services et externalités qu’ils nous rendent. La chaire a pour vocation d’être un espace d’échange, de restitution et de mise à disposition des connaissances. 
-      
-      Pour que les résultats issus des travaux de recherches réalisés dans le cadre de la chaire soit en accord et répondent aux problématiques du terrain, il est nécessaire de créer un lien entre la recherche et les acteurs de l'entretien des bords de route. Pour cette raison nous recherchons activement des territoires intéressés par les porblématiques traitées par la chaire et qui souhaiteraient partager leurs expériences, contribuer aux travaux de recherche ou bien être accompagnés dans leurs démarches de changement de pratiques.   
+      Pour que les résultats issus des travaux de recherches réalisés dans le cadre de la chaire soit en accord et répondent aux problématiques du terrain, il est nécessaire de créer un lien entre la recherche et les acteurs de l'entretien des bords de route. Pour cette raison nous recherchons activement des territoires intéressés par les problématiques traitées par la chaire et qui souhaiteraient partager leurs expériences, contribuer aux travaux de recherche ou bien être accompagnés dans leurs démarches de changement de pratiques.   
   design:
     background:
       color: 'white'
