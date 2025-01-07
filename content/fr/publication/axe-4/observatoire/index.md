@@ -1,5 +1,5 @@
 ---
-title: "Un observatoire des pratiques d’entretien des bords de route en France"
+title: "Un état des lieux des pratiques d’entretien des bords de route en France"
 abstract: "L’objectif est de faire un état des lieux des pratiques d’entretien des bords de route au niveau départemental dans le but d’identifier et de formaliser des scénarios d’entretien. Une enquête a été réalisée auprès de plus d’une vingtaine de conseils départementaux et ce rapport permet de compiler l’ensemble des résultats."
 authors:
 - Brunelle Marche
