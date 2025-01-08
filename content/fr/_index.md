@@ -67,6 +67,17 @@ sections:
       > L’objectif global de la chaire est de développer des outils et méthodes dits « clés en main » capables d’évaluer la durabilité des pratiques mises en œuvre lors du processus de décision soutenus par l’intelligence artificielle, pour ensuite contribuer à l’intégration du métier dans les filières de la bioéconomie et à l’évolution des comportements écoresponsables.
   design:
     columns: '2'
+    spacing:
+      padding: ["100px", "0", "0px", "0"]
+
+- block: markdown
+  content:    
+    title: Présentation en vidéo
+    text: |-
+      {{< youtube id="qePec9Y7FsU" >}}
+  design:
+    background: 
+      color: 'white'  
 
 - block: markdown
   content:    
@@ -76,7 +87,7 @@ sections:
       color: 'white'
     columns: '1'
     spacing:
-      padding: ["0px", "0", "0px", "0"]    
+      padding: ["50px", "0", "0px", "0"]    
 - block: markdown    
   design:
     columns: '1'    
@@ -143,6 +154,8 @@ sections:
     text: |-
       Le projet SAGID+ est cofinancé par l’Union Européenne avec le Fonds Européen de Développement régional à hauteur de 409 500 €, par le groupe ACTIBAC et la Métropole du Grand Nancy. Il contribue à l’ambition collective « Des Hommes et Des Arbres, les racines de demain », labellisée Territoire d’Innovation. Il a également obtenu la labellisation « Solar Impulse Efficient Solution Label »
   design:
+    background: 
+      color: 'white'  
     spacing:
       padding: ["20px", "0", "20px", "0"]  
     
@@ -163,6 +176,9 @@ sections:
     title: "Les Partenaires"
     text: |-
       La chaire SAGID+ bénéficie de l’expertise scientifique de l’Unité de Recherche ERPI (Equipe de Recherche sur les Processus Innovatifs) de l’Université de Lorraine, de l’Unité Mixte de Recherche SILVA, sous cotutelle Université de Lorraine, AgroParisTech, INRAE, l’Unité Mixte de Recherche LORIA (Laboratoire lorrain de Recherche en Informatique et ses Applications) sous cotutelle Université de Lorraine, CNRS, INRIA et de l’ENSGSI. Elle bénéficie également de l’expertise industrielle du groupe ACTIBAC, spécialisé dans la gestion des dépendances vertes par l’intermédiaire des entreprises NOREMAT et ACCOPILOT.
+  design:
+    background: 
+      color: 'white'
     
 - block: markdown    
   design:
