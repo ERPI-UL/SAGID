@@ -126,5 +126,29 @@ sections:
     spacing:
       padding: ["50px", "0", "20px", "0"]  
 
+- block: markdown
+  content:    
+    title: Le projet PADDLe (Partenariats de gestion durable dans les dépendances vertes des infrastructures linéaires de transport)
+  design:
+    background:
+      color: 'white'
+    spacing:
+      padding: ["50px", "0", "0px", "0"]    
+
+- block: markdown
+  content:    
+    text: |-
+      L’établissement de partenariats de gestion pour l’entretien des dépendances vertes des ILT, entre les gestionnaires d’infrastructures, des acteurs locaux (associations, agriculteurs, organismes de conservation ou de formation…) et le cas échéant des propriétaires fonciers, peut être une solution pragmatique et efficace pour mettre en œuvre des pratiques d’entretien efficaces sur le plan écologique et répondant aux attentes socio-économiques. Or à ce jour les partenariats sont peu développés et les expériences se heurtent souvent à des problèmes de viabilité.
+
+      Le premier objectif du projet a été de conduire une réflexion sur les conditions de réalisation de partenariats durables entre les parties prenantes potentielles (opérateurs d’ILT, propriétaires des emprises et acteurs locaux susceptibles de prendre en charge l’entretien des dépendances vertes dans divers objectifs et avec divers moyens). Le second objectif a été de transformer la compréhension des difficultés et potentialités en formulation de propositions pour la création de partenariats efficaces, durables et acceptables pour toutes les parties prenantes. Afin d’en faire une solution plus facilement généralisable, l’objectif concret a été d’élaborer un cadre robuste permettant de guider les partenaires potentiels dans la co-construction de projets aux objectifs, moyens et règles de fonctionnement clairs. Les quatre grands type d’ILT que sont les (auto)routes, les voies ferrées, les voies navigables et les lignes de transport d’électricité, ont été pris en compte dans l’analyse comme dans la construction de la solution.
+
+      Les livrables du projet sont disponibles à ce lien: [Projet PADDLe ITTECOP](https://ittecop.fr/fr/tous-les-projets/recherches-2020/projets-de-recherche-2020/item/713-paddle).
+      
+  design:
+    background:
+      color: 'white'
+    spacing:
+      padding: ["20px", "0", "20px", "0"]  
+
 type: landing
 ---

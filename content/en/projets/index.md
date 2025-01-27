@@ -124,7 +124,32 @@ sections:
     background:
       color: 'white'
     spacing:
-      padding: ["50px", "0", "20px", "0"]  
+      padding: ["50px", "0", "20px", "0"] 
+      
+- block: markdown
+  content:    
+    title: Le projet PADDLe (Partenariats de gestion durable dans les dépendances vertes des infrastructures linéaires de transport)
+  design:
+    background:
+      color: 'white'
+    spacing:
+      padding: ["50px", "0", "0px", "0"]    
+
+- block: markdown
+  content:    
+    text: |-
+        The establishment of management partnerships for maintaining the green dependencies of linear transport infrastructures (LTIs) between infrastructure managers, local stakeholders (such as associations, farmers, conservation or training organizations), and, where applicable, landowners, can be a pragmatic and effective solution for implementing ecologically sound maintenance practices that also meet socio-economic expectations. However, partnerships remain underdeveloped to date, and existing initiatives often face viability issues.
+
+        The first objective of the project was to reflect on the conditions for creating sustainable partnerships among potential stakeholders (LTI operators, landowners, and local actors capable of managing the maintenance of green dependencies with various objectives and means). The second objective was to transform the understanding of challenges and opportunities into actionable proposals for creating effective, sustainable, and acceptable partnerships for all stakeholders. To facilitate broader adoption, the concrete aim was to develop a robust framework to guide potential partners in the co-construction of projects with clear objectives, means, and operating rules. The analysis and solution design took into account the four major types of LTIs: (auto)roads, railways, waterways, and electricity transmission lines.
+
+        The project deliverables are available at this link: [ITTECOP PADDLe project](https://ittecop.fr/fr/tous-les-projets/recherches-2020/projets-de-recherche-2020/item/713-paddle).
+      
+      
+  design:
+    background:
+      color: 'white'
+    spacing:
+      padding: ["20px", "0", "20px", "0"] 
 
 type: landing
 ---
