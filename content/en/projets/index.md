@@ -143,8 +143,7 @@ sections:
         The first objective of the project was to reflect on the conditions for creating sustainable partnerships among potential stakeholders (LTI operators, landowners, and local actors capable of managing the maintenance of green dependencies with various objectives and means). The second objective was to transform the understanding of challenges and opportunities into actionable proposals for creating effective, sustainable, and acceptable partnerships for all stakeholders. To facilitate broader adoption, the concrete aim was to develop a robust framework to guide potential partners in the co-construction of projects with clear objectives, means, and operating rules. The analysis and solution design took into account the four major types of LTIs: (auto)roads, railways, waterways, and electricity transmission lines.
 
         The project deliverables are available at this link: [ITTECOP PADDLe project](https://ittecop.fr/fr/tous-les-projets/recherches-2020/projets-de-recherche-2020/item/713-paddle).
-      
-      
+          
   design:
     background:
       color: 'white'
