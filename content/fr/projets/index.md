@@ -58,6 +58,39 @@ sections:
 
 - block: markdown
   content:    
+    title: Le projet ARHYCO
+  design:
+    background:
+      color: 'white'
+    spacing:
+      padding: ["50px", "0", "20px", "0"]    
+- block: markdown    
+  design:
+    columns: '1'    
+    spacing:
+      padding: ["0px", "40", "150px", "0"]
+    background: 
+      color: 'white'
+      image: 
+        filename: logo_arhyco.PNG
+        size: contain
+        parallax: false
+- block: markdown
+  content:    
+    text: |-
+      Le projet ARHYCO est un projet ANR qui vise à étudier le rôle des bords de route dans les flux hydro-sédimentaires des bassins versants agricoles. Ce projet est porté par le [laboratoire de recherche IDEES](https://umr-idees.fr) (Identité et Différenciation de l'Espace, de l'Environnement et des Sociétés) basé à Caen et spécialisé en études géographiques et sociales.
+
+      Les objectifs du projet sont notamment de comprendre l'impact de la configuration des bords de route, de leur réseau ainsi que des pratiques d'entretien qui y sont appliquées sur les flux hydro-sédimentaires.
+
+      Le projet vise à développer des moyens de cartographie automatisés des bords de route particulièrement intéressants pour une utilisation plus large que le projet de recherche en lui-même.
+  design:
+    background:
+      color: 'white'
+    spacing:
+      padding: ["50px", "0", "20px", "0"]  
+
+- block: markdown
+  content:    
     title: Le projet BISON
   design:
     background:
