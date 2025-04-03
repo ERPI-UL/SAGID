@@ -42,12 +42,12 @@ Un déplacement en terre bretonne avec plusieurs objectifs:
 - Lancer la collecte de données de chantier réalisées avec la solution AccoPilot. L'objectif de cette collecte est de récupérer un maximum de données sur les chantiers d'entretien et notamment le temps passé pour ces activités afin de pouvoir intégrer ces données dans les modèles d'évaluation développés dans le cadre du projet.
 - Présenter le projet à la direction des infrastructures et des mobilités
 
-La journée de mardi a commencé au centre d'exploitation de Trévé (antenne départementale de Loudéac). Dès 8h présentation de la solution AccoPilot aux accoroutistes et aux chefs d'équipe déjà au fait de la démarche SAGID+ par leur implication antérieure dans le projet. Lucas Marchal, commercial d'AccoPilot, mène les échanges très riches autour de l'utilisation de l'application pour que celle-ci puisse apporter des données exploitables pour le projet. Les agents du département ont tous montré un fort intérêt pour la solution et ont tout de suite perçu les intérêts qu'ils pouvaient en tirer dans leur travail avec notamment le relevé des obstacles cachés par la végétation.
+La journée de mardi a commencé au centre d'exploitation de Trévé (antenne départementale de Loudéac). Dès 8h, présentation de la solution AccoPilot aux accoroutistes et aux chefs d'équipe déjà au fait de la démarche SAGID+ par leur implication antérieure dans le projet. Lucas Marchal, commercial d'AccoPilot, a mené les échanges très riches autour de l'utilisation de l'application pour que celle-ci puisse apporter des données exploitables pour le projet. Les agents du département ont tous montré un fort intérêt pour la solution et ont tout de suite perçu les intérêts qu'ils pouvaient en tirer dans leur travail avec notamment le relevé des obstacles cachés par la végétation.
 La matinée s'est conclue par des échanges entre l'équipe SAGID+ et les agents afin de découvrir et d'intégrer la manière de travailler des agents dans les réflexions menées autour des différents travaux de thèse notamment.
 
 ![image accopilot](accopilot.jpg)
 
-Rebelotte l'après-midi avec un échange du même type au centre d'exploitation de Plancoët. Une présentation d'AccoPilot effectuée par nos soins accompagnée d'une présentation du projet pour des agents qui ne connaissaient cette fois pas le projet mais toujours aussi motivés pour y contribuer. 
+On recommence l'après-midi avec un échange du même type au centre d'exploitation de Plancoët: une présentation d'AccoPilot effectuée par nos soins accompagnée d'une présentation du projet pour des agents qui ne connaissaient cette fois pas le projet mais toujours aussi motivés pour y contribuer. Les échanges sont une nouvelles fois conclus avec des discussions entre agents et membres de l'équipe.
 
 ![image discussion1](discussion1.jpg)
 
