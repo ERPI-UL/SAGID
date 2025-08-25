@@ -20,6 +20,12 @@ sections:
       - La dissémination, la communication et l'exploitation des résultats de démonstration dans le but d'encourager un changement vers des pratiques durables.
 
       Les avancements et les résultats de cet axe sont actuellement les suivants:
+      
+      *Livrables:*
+      - 4.1.a: Brunelle MARCHE, Brice CORRIGEUX et Johan ARTUNDUAGA (2025). [De la connaissance à l'action: Vers une gestion éclairée des bords de route](https://hal.science/hal-05219136v1)
+      - 4.1.b: Brunelle MARCHE, Brice CORRIGEUX (2025). [De la perception à l'action: Comprendre et structurer le processus métier des bords de route](https://hal.science/hal-05219117v1)
+      
+      *Publications:*
 
   design:
     columns: "1"
