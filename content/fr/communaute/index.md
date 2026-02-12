@@ -21,7 +21,7 @@ sections:
 
 - block: markdown
   content:    
-    title: La communauté "Gestion des dépendances vertes routières"
+    title: La communauté "Gestion des dépendances vertes et bleues"
   design:
     background:
       color: 'white'

@@ -7,6 +7,9 @@ main:
   - name: SAGID+
     url: '/#banner'
     weight: 10
+  - name: La concertation
+    url: 'concertation/'
+    weight: 15
   - name: La communauté 
     url: 'communaute/'
     weight: 20
