@@ -26,7 +26,7 @@ sections:
     text: |-
       Un des objectifs du projet SAGID+ est d'évaluer l'impact des pratiques d'entretien des bords de route sur les services écosystémiques fournis par ceux-ci. C'est notamment l'enjeu de la thèse de l'axe 1 intitulée "Evaluation des services écosystémiques des bords de route".
       
-      Pour répondre à ce besoin de connaissances, et en complément des travaux réalisés dans la thèse (bibliographie, ateliers participatifs), nous lançons une grande concertation auprès d'experts en écologie disponible à ce lien: https://concertation.sagid.eu
+      Pour répondre à ce besoin de connaissances, et en complément des travaux réalisés dans la thèse (bibliographie, ateliers participatifs), nous lançons une grande concertation auprès d'experts en écologie disponible à ce lien: https://concertation.sagid.eu/fr/
       
       5 services écosystémiques ont été retenus pour cette étude:
   design:
