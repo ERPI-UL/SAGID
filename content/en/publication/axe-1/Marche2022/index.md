@@ -28,7 +28,7 @@ tags:
 - axe1
 #url_code: ""
 #url_dataset: ""
-url_pdf: https://doi.org/10.1016/j.eiar.2022.106911
+url_pdf: https://hal.science/hal-03774814v1
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
