@@ -24,7 +24,7 @@ tags:
 - axe4
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
-url_pdf: https://hal.univ-lorraine.fr/hal-04819341v1
+url_pdf: https://hal.univ-lorraine.fr/hal-04819341v1/document
 #url_poster: '#'
 #url_project: ""
 #url_slides: ""

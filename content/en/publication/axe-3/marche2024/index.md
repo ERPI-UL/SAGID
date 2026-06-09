@@ -16,7 +16,7 @@ image:
 links:
 projects:
 - internal-project
-publication: ""
+publication: "*2023 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC)*"
 publication_short: ""
 publication_types:
 - paper-conference

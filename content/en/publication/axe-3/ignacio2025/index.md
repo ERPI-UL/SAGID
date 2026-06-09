@@ -26,7 +26,7 @@ image:
 links:
 projects:
 - internal-project
-publication: ""
+publication: "*Networks*"
 publication_short: ""
 publication_types:
 - article-journal
@@ -36,7 +36,7 @@ tags:
 - axe3
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
-url_pdf: https://onlinelibrary-wiley-com.bases-doc.univ-lorraine.fr/doi/abs/10.1002/net.70016
+url_pdf: https://hal.science/hal-05480829v1/document
 #url_poster: '#'
 #url_project: ""
 #url_slides: ""

@@ -1,8 +1,7 @@
 ---
 title: "Qualitative Sustainability Assessment of Road Verge Management in France: An Approach from Causal Diagrams to Seize the Importance of Impact Pathways"
 abstract: A road verge, also known as a roadside, is a strip of grass or vegetation, sometimes shrubs and trees, that forms a space on the public property located along a road or highway. They require regular maintenance, one of the most relevant reasons being the safety of road users, which implies for territory planners making decisions about the period of maintenance, frequency, the mowing height, or whether or not remove cut biomass from the roadside among others. As highlighted in previous studies, the maintenance strategy decided on has a range of positive and negative impacts on the ecosystem services provided by road verges. Today, however, there is a lack of a formal and holistic view of how these maintenance practices affect the ecosystem services (ES) provided by the roadside. In order to improve the sustainability management of these areas, this paper proposes to use the concept of causal diagrams from the systems theory and literature analysis. This concept helps to structure and represent the impact of road verge maintenance decisions on ES and their interrelationships through causal networks. Nine interrelated causal diagrams were then developed. These diagrams are the first attempt at a qualitative assessment of the impact of roadside management on ES. This work is the first step towards a formal holistic model to assess the sustainability impacts of road verges and the development of decision-making tools.
-author_notes:
-- Corresponding author
+
 authors:
 - Brunelle Marche
 - Mauricio Camargo
@@ -28,7 +27,7 @@ tags:
 - axe1
 #url_code: ""
 #url_dataset: ""
-url_pdf: https://hal.science/hal-03774814v1
+url_pdf: https://hal.science/hal-03774814v1/document
 #url_poster: ""
 #url_project: ""
 #url_slides: ""

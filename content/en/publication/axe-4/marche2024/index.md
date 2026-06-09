@@ -16,7 +16,7 @@ image:
 links:
 projects:
 - internal-project
-publication: ""
+publication: "*Technologie et innovation*"
 publication_short: ""
 publication_types:
 - article-journal
@@ -25,7 +25,7 @@ tags:
 - axe4
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
-url_pdf: https://hal.science/hal-04423693v1
+url_pdf: https://www.openscience.fr/IMG/pdf/iste_techinn24v9n1_5.pdf
 #url_poster: '#'
 #url_project: ""
 #url_slides: ""
