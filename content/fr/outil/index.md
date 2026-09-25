@@ -1,12 +1,12 @@
 ---
 
-title: Concertation SAGID+
+title: L'outil SAGID
 
 sections:
 - block: markdown
   id: banner
   content:
-    title: Concertation SAGID+
+    title: L'outil SAGID
   design:
     columns: '1'
     background: 
@@ -18,22 +18,36 @@ sections:
         position: center  
         parallax: false
         text_color_light: true
-
-
+        
 - block: markdown
   content:
-    title: Contexte de la concertation
     text: |-
-      Un des objectifs du projet SAGID+ est d'évaluer l'impact des pratiques d'entretien des bords de route sur les services écosystémiques fournis par ceux-ci. C'est notamment l'enjeu de la thèse de l'axe 1 intitulée "Evaluation des services écosystémiques des bords de route".
+      Accédez gratuitement à l'outil ici: https://outil.sagid.eu/
       
-      Pour répondre à ce besoin de connaissances, et en complément des travaux réalisés dans la thèse (bibliographie, ateliers participatifs), nous lançons une grande concertation auprès d'experts en écologie disponible à ce lien: https://concertation.sagid.eu/fr/
-      
-      5 services écosystémiques ont été retenus pour cette étude:
   design:
     background:
       color: 'white'
     spacing:
       padding: ["50px", "0", "20px", "0"]
+
+
+- block: markdown
+  content:
+    title: Le principe de l'outil
+    text: |-
+      L'outil SAGID est un outil d'aide à la décision qui a pour but d'accompagner les gestionnaires, prinicpalement les collectivités territoriales, dans la définition d'une politique d'entretien durable des bords de route.
+      
+      Il permet en effet d'évaluer les impacts de la mise en oeuvre de pratiques d'entretien sur un territoire donné. Les aspects évalués sont économiques mais aussi et surtout environnementaux.
+      
+      L'outil intègre notamment la notion de service écosystémique et il permet d'évaluer l'impact de la politique d'entretien configurée sur 5 d'entre eux:
+      
+  design:
+    background:
+      color: 'white'
+    spacing:
+      padding: ["50px", "0", "20px", "0"]
+      
+      
 - block: markdown    
   design:
     columns: '1'    
@@ -45,6 +59,18 @@ sections:
         filename: services écosystémiques.png
         size: contain
         parallax: false
+        
+- block: markdown
+  content:
+    text: |-
+      Les impacts sont évalués sur la base d'indicateurs de moyen issus de la concertation réalisée auprès de nombreux experts qui ont pu évaluer les impacts relatifs de chaque pratique sur l'écosystème. La méthodologie est détaillée au lien suivant: https://outil.sagid.eu/Page_m%C3%A9thodologie.pdf
+      
+  design:
+    background:
+      color: 'white'
+    spacing:
+      padding: ["50px", "0", "20px", "0"]
+      
 
 - block: markdown
   content:    
