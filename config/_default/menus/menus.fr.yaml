@@ -8,7 +8,7 @@ main:
     url: '/#banner'
     weight: 10
   - name: L'outil SAGID
-    url: 'https://outil.sagid.eu/'
+    url: 'outil/'
     weight: 15
   - name: La communauté 
     url: 'communaute/'

@@ -22,7 +22,7 @@ sections:
 - block: markdown
   content:
     text: |-
-      Accédez gratuitement à l'outil ici: https://outil.sagid.eu/
+      Accédez gratuitement à l'outil ici: [Outil SAGID](https://outil.sagid.eu/)
       
   design:
     background:
@@ -63,7 +63,7 @@ sections:
 - block: markdown
   content:
     text: |-
-      Les impacts sont évalués sur la base d'indicateurs de moyen issus de la concertation réalisée auprès de nombreux experts qui ont pu évaluer les impacts relatifs de chaque pratique sur l'écosystème. La méthodologie est détaillée au lien suivant: https://outil.sagid.eu/Page_m%C3%A9thodologie.pdf
+      Les impacts sont évalués sur la base d'indicateurs de moyen issus de la concertation réalisée auprès de nombreux experts qui ont pu évaluer les impacts relatifs de chaque pratique sur l'écosystème. La méthodologie est détaillée au lien suivant: [Méthodologie](https://outil.sagid.eu/Page_m%C3%A9thodologie.pdf)
       
   design:
     background:
@@ -71,73 +71,53 @@ sections:
     spacing:
       padding: ["50px", "0", "20px", "0"]
       
-
 - block: markdown
-  content:    
-    title: La démarche et les objectifs
-  design:
-    background:
-      color: 'white'
-    spacing:
-      padding: ["50px", "0", "0px", "0"]  
-      
-- block: markdown    
-  design:
-    columns: '1'    
-    spacing:
-      padding: ["0px", "20", "120px", "0"]
-    background: 
-      color: 'white'
-      image: 
-        filename: étapes concertation.png
-        size: contain
-        parallax: false
-      
-- block: markdown
-  content: 
+  content:
+    title: Un développement en concertation avec les utilisateurs finaux
     text: |-
-      Pour pouvoir réaliser l'évaluation souhaitée, il a fallu commencer par définir précisément les pratiques d'entretien qui allaient être considérées dans l'étude. Pour cela, nous avons consulté des professionnels du métier, en particulier des gestionnaires de réseau qui ont la charge de la gestion des bords de route lors d'interview individuels et d'ateliers collaboratifs. Ce premier travail nous a permis d'arriver à la validation d'une taxonomie de pratiques d'entretien.  
+      Tout au long du développement de l'outil, des tests utilisateurs ont été réalisés avec des gestionnaires volontaires pour nous apporter leur retour sur les fonctionnalités et l'ergonomie de l'outil.
       
-      La seconde étape consiste à lancer la consultation à grande échelle afin de recueillir un maximum de réponses de la part d'experts de différents domaines. Cette enquête aura pour but de faire le lien entre la taxonomie de pratiques d'entretien et les services écosystémiques retenus.
-      
-      Enfin, dans un dernier temps, les données obtenues seront analysées afin de déterminer s'il existe un consensus sur l'impact des pratiques de gestion des bords de route.
   design:
     background:
       color: 'white'
     spacing:
-      padding: ["50px", "0", "20px", "0"]    
-
-- block: markdown
-  content:    
-    title: Le déroulé de la concertation 
-  design:
-    background:
-      color: 'white'
-    spacing:
-      padding: ["50px", "0", "20px", "0"]    
+      padding: ["50px", "0", "20px", "0"]
 
 - block: markdown    
   design:
     columns: '1'    
     spacing:
-      padding: ["0px", "0", "400px", "0"]
+      padding: ["0px", "40", "150px", "0"]
     background: 
       color: 'white'
       image: 
-        filename: écran accueil.png
+        filename: methode_agile.jpg
         size: contain
         parallax: false
-        
+
 - block: markdown
-  content:    
+  content:
     text: |-
-      Pour faciliter la collecte et l'analyse des réponses des experts, la concertation SAGID+ s'appuiera sur la méthodologie et les outils mis en oeuvre dans le cadre d'un projet similaire du Muséum national d'Histoire naturelle intitulé Puzzling Biodiversity.
+      Nous tenons donc à remercier tous ces participants qui ont permis d'améliorer l'outil SAGID afin que celui-ci répondent au mieux aux besoins des gestionnaires de réseau routier. Merci aux conseils départementaux des Côtes d'Armor, de la Manche, de la Charente, de l'Hérault, de Seine Maritime, du Var, de l'Ardèche, à la DIR Ile de France et à la Métropole du Grand Nancy.
       
-      La plateforme permettant le recueil des réponses a été adapté aux besoins du projet SAGID+ et permet donc aux experts d'évaluer l'impact de la taxonomie de pratiques d'entretien sur chacun des 5 services écosystémiques. 
+  design:
+    background:
+      color: 'white'
+    spacing:
+      padding: ["50px", "0", "20px", "0"]
       
-      Toute personne ayant des connaissances scientifiques ou techniques a la possibilité de répondre au questionnaire. Il est bien évidemment possible de répondre aux questionnaires uniquement sur les services écosystémiques désirés.
+- block: markdown
+  content:
+    text: |-
+      Maintenant que l'outil SAGID est disponible en ligne, nous sommes toujours preneur de vos retours sur l'utilisation de l'outil et notamment vis-à-vis des résultats que celui-ci fournit.
       
-      Pour y répondre, il est possible d'accéder à la plateforme via ce lien: https://concertation.sagid.eu. L'enquête sera accessible jusqu'au 31 mars 2026.
+      Pour tout avis ou question, merci de contacter Brice Corrigeux à l'adresse mail suivante: brice.corrigeux@univ-lorraine.fr
+      
+  design:
+    background:
+      color: 'white'
+    spacing:
+      padding: ["50px", "0", "20px", "0"]     
       
 
 
