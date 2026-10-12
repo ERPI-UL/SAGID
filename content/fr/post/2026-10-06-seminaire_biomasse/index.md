@@ -41,7 +41,7 @@ Le 6 octobre dernier, chercheurs, gestionnaires routiers, collectivités, entrep
 
 La matinée a été consacrée à une série de conférences permettant d'aborder différents aspects de la valorisation de la biomasse des bords de route.
 
-Les deux premières présentations ont permis de comprendre la valorisation de la biomasse du côté du gestionnaire de réseaux avec des retours d'expérience de la communauté de communes du Couesnon Marches de Bretagne (35) et le conseil départemental de Seine Maritime représentés respectivement par Henri-Pierre Rouault et Annabelle Marais. Ces deux premières intervantions ont permis de mettre en lumière les bénéfices que le fauchage avec exportation peuvent générer sur un territoire mais aussi les contraintes liées à sa mise en place.
+Les deux premières présentations ont permis de comprendre la valorisation de la biomasse du côté du gestionnaire de réseaux avec des retours d'expérience de la communauté de communes du Couesnon Marches de Bretagne (35) et le conseil départemental de Seine Maritime représentés respectivement par Henri-Pierre Rouault et Annabelle Marais. Ces deux premières interventions ont permis de mettre en lumière les bénéfices que le fauchage avec exportation peuvent générer sur un territoire mais aussi les contraintes liées à sa mise en place.
 
 ![territoire](marais.jpg)
 <div align="center"> Retour d'expérience du CD76 par Annabelle Marais </div> <br>
@@ -52,7 +52,7 @@ Ensuite, les travaux scientifiques engagés dans la chaire SAGID+ ont été expo
 La matinée s'est achevée par deux présentations d'entreprise de valorisation des déchets. Loïc Delettre nous a présenté l'expertise de l'entreprise ABCDE axée autour de la séparation des différents types de matières dans le but de valoriser des déchets organiques de différentes sources allant des restes alimentaires aux sables de voiries. Christian Roggeman a clôturé la session en présentant le concept de l'entreprise Gramitherm qui valorise l'herbe issue d'espaces non cultivés pour en faire des panneaux d'isolation.
 
 ![entreprise](delettre.jpeg)
-<div align="center"> Loïc Delettre présente l'entrerpise ABCDE </div> <br>
+<div align="center"> Loïc Delettre présente l'entrepise ABCDE </div> <br>
 
 **Des retours d’expérience européens**
 
@@ -76,7 +76,7 @@ Elles ont été regroupées en six chantiers : connaissance de la ressource, dé
 
 **Ce que la table ronde nous a appris**
 - Un langage commun est indispensable entre des acteurs issus d’univers différents, tout comme la pédagogie et le partage des connaissances.
-Les acteurs pivots, ceux qui gèrent ou mobilisent de gros flux de matière, peuvent structurer les futures filières.
+- Les acteurs pivots, ceux qui gèrent ou mobilisent de gros flux de matière, peuvent structurer les futures filières.
 - Multiplier les débouchés plutôt que chercher une voie unique, selon la ressource et le territoire.
 - Sortir du cercle vicieux du financement : les investisseurs attendent des projets matures, mais la maturation exige des moyens. Les démonstrateurs et les retours d’expérience sont la clé.
 - L’échelle locale est un niveau pertinent pour expérimenter et fédérer.
