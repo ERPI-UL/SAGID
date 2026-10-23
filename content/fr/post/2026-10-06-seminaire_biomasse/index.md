@@ -1,9 +1,9 @@
 ---
 title: Biomasse des bords de route, construire ensemble les filières de demain
-subtitle: "La chaire SAGID+ a organisé son deuxième séminaire scientifique, cette fois la thématique était portée sur la valorisation de la biomasse des bords de route"
+subtitle: "La chaire SAGID+ a organisé son deuxième séminaire scientifique, cette fois la thématique était portée sur la valorisation de la biomasse des bords de route."
 
 # Summary for listings and search engines
-summary: "La chaire SAGID+ a organisé son deuxième séminaire scientifique, cette fois la thématique était portée sur la valorisation de la biomasse des bords de route"
+summary: "La chaire SAGID+ a organisé son deuxième séminaire scientifique, cette fois la thématique était portée sur la valorisation de la biomasse des bords de route."
 
 # Link this post with a project
 projects: []
