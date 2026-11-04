@@ -44,4 +44,4 @@ La deuxième présentation était un relais des travaux réalisés par les Côte
 
 Ce séminaire a également été l'occasion de rencontrer des contacts intéressants dont les travaux sont souvent proches de ceux réalisés dans le cadre de la chaire SAGID+.
 
-Ce séminaire est un bel exemple d'action permettant d'amorcer un changement dans les pratiques de gestion. En rassemblant l'ensemble des acteurs concernés, les échanges ont permis de soulever les problématiques importantes pour la gestion du Parc et de confronter les solutions proposées aux contraintes du terrain.
+Ce séminaire est un bel exemple d'action permettant d'amorcer un changement dans les pratiques de gestion. En rassemblant l'ensemble des acteurs concernés, les échanges ont permis de soulever les problématiques importantes pour la gestion du Parc et de confronter les solutions proposées aux contraintes du terrain..
