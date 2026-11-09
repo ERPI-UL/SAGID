@@ -30,7 +30,7 @@ tags:
 - axe1
 #url_code: ""
 #url_dataset: ""
-url_pdf: https://oneecosystem.pensoft.net/article/200222/
+url_pdf: https://hal.science/hal-05851802v1/document
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
