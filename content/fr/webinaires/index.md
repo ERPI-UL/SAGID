@@ -144,7 +144,7 @@ sections:
   content:
     title: Gestion des plantes invasives
     text: |-
-      Présentation interactive de Mitra Tehranchi (Association SPIGEst) sur la gestion des plantes invasives.
+      Présentation interactive de Mitra Tehranchi, Association SPIGEst, sur la gestion des plantes invasives.
       
   design:
     background:
