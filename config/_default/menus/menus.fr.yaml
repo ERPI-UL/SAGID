@@ -13,6 +13,9 @@ main:
   - name: La communauté 
     url: 'communaute/'
     weight: 20
+    name: Webinaires 
+    url: 'webinaires/'
+    weight: 25
   - name: Les axes du projet
     identifier: axes
     weight: 30

@@ -45,14 +45,14 @@ sections:
     background:
       color: 'white'
     spacing:
-      padding: ["50px", "0", "20px", "0"]
+      padding: ["30px", "0", "50px", "0"]
       
       
 - block: markdown    
   design:
     columns: '1'    
     spacing:
-      padding: ["0px", "40", "150px", "0"]
+      padding: ["0px", "10", "0px", "0"]
     background: 
       color: 'white'
       image: 
@@ -64,12 +64,22 @@ sections:
   content:
     text: |-
       Les impacts sont évalués sur la base d'indicateurs de moyen issus de la concertation réalisée auprès de nombreux experts qui ont pu évaluer les impacts relatifs de chaque pratique sur l'écosystème. La méthodologie est détaillée au lien suivant: [Méthodologie](https://outil.sagid.eu/Page_m%C3%A9thodologie.pdf)
+    design:
+    background:
+      color: 'white'
+    spacing:
+    padding: ["0px", "0", "0px", "0"]
       
+- block: markdown
+  content:    
+    title: Présentation de l'outil en vidéo
+    text: |-
+      {{< youtube id="eJV1M02SxAM" >}}
   design:
     background:
       color: 'white'
     spacing:
-      padding: ["50px", "0", "20px", "0"]
+      padding: ["0px", "0", "20px", "0"]
       
 - block: markdown
   content:
@@ -110,14 +120,13 @@ sections:
   content:
     text: |-
       Maintenant que l'outil SAGID est disponible en ligne, nous sommes toujours preneur de vos retours sur l'utilisation de l'outil et notamment vis-à-vis des résultats que celui-ci fournit.
-      
       Pour tout avis ou question, merci de contacter Brice Corrigeux à l'adresse mail suivante: brice.corrigeux@univ-lorraine.fr
       
   design:
     background:
       color: 'white'
     spacing:
-      padding: ["50px", "0", "20px", "0"]     
+      padding: ["20px", "0", "20px", "0"]     
       
 
 
